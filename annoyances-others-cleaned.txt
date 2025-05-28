@@ -1,3306 +1,3306 @@
-mimaletadepeliculas.blogspot.com
-pelispedia.*
-cine.to
-desbloqueador.*
-megapastes.com
-s0urce.io
-dicionariocriativo.com.br
-gay69.stream
-m4ufree.com
-evz.ro
-mcocguideblog.com
-resourcepack.net
-programegratuitepc.com
-kolnovel.org
-kolnovel.org/wp-content/plugins/wccp-pro/
-up4stream.com/js/devtools-detector.js
-up4stream.com,ups2up.fun
-kursnacukrzyce.pl
-wowturkey.net
-abstream.to/js/devtools-detector*.js
-abstream.to
-9tsu.vip
-streambolt.tv/js/dtd.js
-streambolt.tv
-onepiecepower.com/spoiler.js
-socialblade.com^$ghide
-socialblade.com
-sportsnet.ca
-xclient.info
-naturalhomes.org/img/adblock.gif
-tools.jabrek.net
-impots.gouv.fr
-flickr.com
-airnavradar.com
-cyanlabs.net
-cyanlabs.net#@#ins.adsbygoogle[data-ad-slot]
-cyanlabs.net#@#ins.adsbygoogle[data-ad-client]
-tides.net
-*$script,domain=abcya.com,redirect-rule=noopjs
-abcya.com
-2game.info/ad/failed_ad_view.js
-holyclock.com^$3p
-shomershabes.com^$3p
-shomershabes.co.il^$3p
-pinterest.*
-files.minecraftforge.net
-tv.mademyday.com
-mimaletamusical.blogspot.com
-fmhikayeleri.com
-experts-exchange.com
-digitalsynopsis.com
-filefox.cc
-visionias.net
-99bitcoins.com
-punto-informatico.it
-uol.com.br
-*/lib.ucopy/ucopy.js$script,domain=uol.com.br
-ne10.uol.com.br
-umterps.com^$ghide
-umterps.com
-cars.com
-peliculas24.me
-warringtonguardian.co.uk
-cristoiublog.ro
-planete-205.com
-ps3-infos.fr^$ghide
-tweakers.net
-hqq.tv
-zerohedge.com
-racefans.net^$ghide
-racefans.net
-eca-anime.net
-gazetadopovo.com.br
-foodnetwork.com
-gaypornmasters.com
-gaypornmasters.com^$csp=script-src *
-gearside.com
-braziljournal.com
-emol.com
-radioline.co/*/ad$1p
-voirfilms.*
-nytimes.com
-xiaomitoday.com^$ghide
-mixmods.com.br
-googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noop.js,domain=unknowncheats.me
-*$xhr,redirect-rule=nooptext,domain=unknowncheats.me
-columbiaspectator.com
-knshow.com
-knshow.com^$ghide
-classicreload.com
-jusbrasil.com.br
-descarga-animex.*
-deezer.com
-tvtropes.org
-global.proper.io/tvtropes.min.js$script,redirect=noopjs,domain=tvtropes.org
-springfieldspringfield.co.uk
-justtrucks.com.au^$ghide
-justtrucks.com.au
-justtrucks.com.au^$image
-omr.com
-indiatimes.com
-adsrt.com/assets/js/particles.min.js$script
-nulled.life
-mediafire.com
-ebc.com.br
-tours.fr/include/js/tagAnalyticsCNIL.php$script,1p
-flyertalk.com
-artsy.net
-searchenginewatch.com
-facebook.com,facebookcorewwwi.onion,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-facebook.com/api/graphql/$xhr,1p,replace=/,"category_sensitive"[^\n]+?"follow_button":\{"__typename":"CometFeedStoryFollowButtonStrategy"[^\n]+"cursor":"[^"]+"\}/}/g,domain=web.facebook.com|www.facebook.com
-web.facebook.com,www.facebook.com
-www.facebook.com
-l.facebook.com/l.php?u=$doc,urlskip=?u
-l.instagram.com/?u=$doc
-urlskip=?u
-oggiscuola.com
-oggiscuola.com^$csp=style-src 'self' *
-oggiscuola.com/*/banner$image
-odiario.com
-cittadinanza.biz
-glistranieri.it
-esercizinglese.com
-pelisfull.tv
-masternodes.pro
-ancient.eu
-petrimazepa.com
-sabishiidesu.com
-webcodegeeks.com
-greenocktelegraph.co.uk
-livetennis.it
-readlightnovel.org
-kashmirobserver.net
-allafinedelpalo.it
-cathouseonthekings.com
-tinyppt.com
-wotlabs.net
-kollyinsider.com
-winaero.com
-ewrc-results.com
-schnauzer-forum.co.uk^$ghide
-emulasyonturkiye.org^$ghide
-raven-mythic.com
-investmentnews.com
-intramed.net
-protest.eu
-/wp-content/plugins/simple-adblock-notice/*$~css
-books-world.net
-pc3mag.com
-centrumher.eu
-opedge.com
-droidtekno.com
-northwestfirearms.com
-techkings.org
-community.simtropolis.com
-fabricjs.com
-bronze-bravery.com
-ultimate-bravery.net
-basilmarket.com
-enfsolar.com^$ghide
-brightonandhovenews.org^$ghide
-japancamerahunter.com
-remotelyawesomejobs.com
-rightwingtribune.com^$ghide
-htmlreference.io
-heypoorplayer.com
-topomap.co.nz
-spookshow.net
-gamerotic.com^$ghide
-thegraillords.net
-bdotemplates.com/wp-content/plugins/bdo-adblock-notice/
-worldscientific.com
-me3tweaks.com
-tastycookery.com
-resdz.com^$ghide
-airlinercafe.com
-ricochet.media^$ghide
-hukmatpro.*alisbach.com
-linuxslaves.com
-nakblogz.top
-halotracker.com
-fosshub.com
-juancarlosmolinos.net
-stoneyroads.com
-pokemonforever.com
-businessemailetiquette.com
-liveonsat.com
-bucketpages.com
-xiaomi4mi.com
-evades.io
-orlygift.com^$ghide
-orlygift.com
-heroescommunity.com
-xhardhempus.com
-navcomic.com/wp-content/uploads/*/ad-blocking.gif$image,1p
-steptalk.org
-short-story.net
-hindi-gk.com
-upsrtconline.co.in
-newsbook.pl
-cmg24.pl
-ligowiec.net
-radio5.com.pl
-romet.pl
-sat-charts.eu
-trentino.pl
-pcpobierz.pl
-roztoczanskipn.pl
-malybelgrad.pl
-skionline.*
-carsguide.com.au
-dermatologytimes.com^$ghide
-motherjones.com
-boerse-express.com
-kurazone.net
-techtrickseo.com
-videohelp.com
-calorielijst.nl
-humo.be
-polygon.com
-economictimes.indiatimes.com
-timponline.ro
-numberempire.com
-singingdalong.blogspot.com
-apksecured.com
-neobux.com
-qualityfilehosting.com
-ideapod.com
-androidmtk.com
-dba-oracle.com
-apornstories.com
-randomstory.org
-filmesonlinex.co
-booksmedicos.org
-proxfree.com
-instagram.com
-md5hashing.net^$ghide
-md5hashing.net
-siliconinvestor.com
-jobsbotswana.info
-102bank.com
-80beyond.spacestation-online.com
-b4usa.com
-badgerandblade.com
-mzk.starachowice.eu
-algosit.com^
-republicadecuritiba.net
-merchoid.com
-gaypornwave.com^$csp=script-src *
-gaypornwave.com
-topspeed.com^$ghide
-topspeed.com
-mywrestling.com.pl^$ghide
-webwereld.nl
-sbenny.com
-forum.sbenny.com
-wp.com/wp-content/themes/vip/pmc-plugins/$script,domain=deadline.com
-howjsay.com
-vpnmentor.com
-informagiovani-italia.com
-bigleaguepolitics.com^$ghide
-techsupportall.com
-badayak.com
-fin24.com
-djelfa.info
-palemoon.org
-portableapps.com
-animeunity.it
-theartofnakedwoman.*
-j-lyric.net
-cagesideseats.com
-/wp-content/plugins/christmasify/*
-space-engineers.de
-motogon.ru
-soundonsound.com^$ghide
-jrocknews.com^$ghide
-aulete.com.br
-npnews24.com
-runningnews.gr
-*.gif$image,domain=runningnews.gr
-gordiando.com.br
-*/wp-content/plugins/wp-content-copy-protection/*
-mercurynews.com
-megawypas.com
-wheel-size.com
-creditonebank.com^$ghide
-demolandia.net
-kirannewsagency.com
-aoezone.net
-otempo.com.br
-meteo.org.pl
-r7.com
-insurance-corporate.blogspot.com
-fordogtrainers.pl
-clk.sh
-shrinkearn.com
-europixhd.*
-topeuropix.*
-fanfiction.net
-fictionpress.com
-xnxx.com
-pagead2.googlesyndication.com/pagead/*$image,domain=free-scores.com
-radioony.fm
-polskacanada.com
-lugarcerto.com.br
-windowscentral.com
-gezimanya.com
-starsunfolded.com
-cmjornal.pt
-randaris.app
-ctrl.blog
-coffeeforums.co.uk
-coffeeforums.co.uk/banners/$image
-nachrichten.at^$ghide
-heroesneverdie.com
-wader.toys
-satcesc.com
-mexiconewsdaily.com
-technologyreview.com
-curbed.com
-eater.com
-funnyordie.com
-mmafighting.com
-mmamania.com
-racked.com
-riftherald.com
-sbnation.com
-theverge.com
-vox.com
-them4ufree.info
-bdcraft.net^$ghide
-bdcraft.net
-athletic.net
-athletic.net/css/signedOutBlur
-pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=yellowbridge.com
-diynetwork.com
-bloombergquint.com
-androidcentral.com
-eppingforestguardian.co.uk^$ghide
-eppingforestguardian.co.uk
-code.adsales.snidigital.com/lib/*/sni-ads.min.js$script,domain=travelchannel.com
-diffnow.com
-addons.opera.com
-askubuntu.com
-mathoverflow.net
-serverfault.com
-stackapps.com
-stackexchange.com
-superuser.com
-mrfood.com
-thredup.com
-quizlet.com^$ghide
-quizlet.com
-feedspot.com
-volunteermatch.org
-theclever.com
-discussion.evernote.com
-prestashop.com
-bookbub.com
-ndtv.com
-facebook.com
-facebookcorewwwi.onion
-facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-touch.facebook.com
-mtouch.facebook.com
-x.facebook.com
-iphone.facebook.com
-m.beta.facebook.com
-touch.beta.facebook.com
-mtouch.beta.facebook.com
-x.beta.facebook.com
-iphone.beta.facebook.com
-touch.facebookcorewwwi.onion
-mtouch.facebookcorewwwi.onion
-x.facebookcorewwwi.onion
-iphone.facebookcorewwwi.onion
-touch.beta.facebookcorewwwi.onion
-m.facebook.com
-m.facebookcorewwwi.onion
-b-m.facebook.com
-b-m.facebookcorewwwi.onion
-mobile.facebook.com
-mobile.facebookcorewwwi.onion
-touch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-mtouch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-x.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-iphone.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-touch.beta.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-b-m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-mobile.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-quora.com
-tecnotutoshd.net
-ruwix.com
-revolvermag.com
-/emma-content-aggregates-prd.
-knowablemagazine.org
-insidesources.com
-flashbak.com
-geneticliteracyproject.org
-marijuanamoment.net
-naturalblaze.com
-saludmovil.com
-thebaffler.com
-undark.org
-wealthydoc.org
-banglainsider.com
-akamaized.net/assets/*/ig-canais-noticias.min.js$script
-domain=ig.com.br
-airfactsjournal.com
-newmatilda.com
-kqed.org
-behance.net
-zulily.com
-kpopjjang.com
-fantricks.com
-steelersdepot.com
-musicbusinessworldwide.com
-listatv.pl
-dzwignice.info
-rp5.by
-psychologiazycia.com
-bibliacatolica.com.br
-script-stack.com
-mio.to
-priberam.org
-thedisconnect.co
-breakingdefense.com
-theintercept.com
-prod.theintercept.com^$subdocument,1p
-salary.com
-fearlesssalarynegotiation.com
-postandcourier.com
-*/bioep.js$script,domain=~tomshw.it
-tomshw.it
-wizcase.com
-ionos.de
-yoututosjeff.es
-autoblog.com
-emeraldchat.com/user_is_temp
-emeraldchat.com/sw.js$script,1p
-cepuluh.com
-globalnews.ca^$ghide
-globalnews.ca
-dailymail.co.uk
-dailymail.co.uk#@#+js(aopr, confirm)
-fmovies.*#@#.fa-rss
-software-on.com
-linkedin.com
-l2gamers.cl
-husseinezzat.com
-wired.co.uk
-twinkietown.com
-statelibrary.us
-dcdirtylaundry.com^$ghide
-sostariffe.it^$ghide
-amlesson.ru
-infomoney.com.br
-playonlinux.com
-tabonitobrasil.*
-tunovelaligera.com
-auepaisagismo.com
-auepaisajismo.com
-zdnet.de
-cinemablend.com
-bigulnews.tv
-metabattle.com^$ghide
-targetstudy.com
-discordapp.com
-gq-magazine.co.uk
-turbolab.it
-medicalnewstoday.com
-youtube.com
-m.youtube.com
-music.youtube.com
-tv.youtube.com
-www.youtube.com
-youtubekids.com
-buienradar.nl
-lightboxcdn.com^$domain=foreignpolicy.com
-foreignpolicy.com
-luoghidavedere.it
-msn.com
-glamourmagazine.co.uk
-9xbuddy.com
-megatube.xxx
-dostfilms.*
-kimovil.*
-taxo-acc.pl
-lookmovie.ag
-500ish.com
-artplusmarketing.com
-atrium.co
-backchannel.com
-backstage.1blocker.com
-badootech.badoo.com
-baharudinyusuf.com
-bitcointechtalk.com
-blog.bitsrc.io
-blog.inkdrop.app
-bitwarden.com
-blog.coinbase.com
-blog.confiant.com
-blog.devcolor.org
-blog.growthhackers.com
-blog.hiri.com
-blog.ltse.com
-blog.statebox.org
-blog.twitch.tv
-blog.waffle.io
-bluerockpublicradio.com
-bolt.io
-boomsupersonic.com
-bradfieldcs.com
-brightthemag.com
-broadcast.listennotes.com
-checkio.org
-citizen428.net
-coach.me
-codeburst.io
-dave-bailey.com
-doist.com
-doit-intl.com
-dotandline.net
-doublepulsar.com
-economist.com
-electricliterature.com
-elidourado.com
-esciencecenter.nl
-faun.pub
-fossa.io
-freecodecamp.org
-fritz.ai
-getadblock.com
-levelup.gitconnected.com
-greylock.com
-headmelted.com
-helium.com
-howwegettonext.com
-iheart.com
-injusticetoday.com
-insightdatascience.com
-iota.org
-itnext.io
-itsyourturnblog.com
-jupyter.org
-keepingstock.net
-kiwi.com
-learngoprogramming.com
-learningbyshipping.com
-ledwards.com
-legalist.com
-logrocket.com
-mapbox.com
-medium.com
-melmagazine.com
-mondaynote.com
-newco.co
-news.smugmug.com
-nyulocal.com
-ofdollarsanddata.com
-okmeter.io
-open.nytimes.com
-osintteam.blog
-javascript.plainenglish.io
-postlight.com
-proandroiddev.com
-prototypr.io
-rainway.io
-sagefy.org
-signalvnoise.com
-slack.engineering
-slackhq.com
-springboard.com
-standardnotes.org
-startupsventurecapital.com
-stoplight.io
-tech.buzzfeed.com
-theabacus.io
-theawl.com
-thebigroundtable.com
-thebillfold.com
-thebolditalic.com
-thecontrol.co
-theringer.com
-thinkprogress.org
-thriveglobal.com
-timeline.com
-towardsdatascience.com
-udacity.com
-unpatent.co
-usejournal.com
-uxdesign.cc
-uxplanet.org
-warisboring.com
-wearemel.com
-whatahowler.com
-x.company
-blog.canopas.com
-blog.dp6.com.br
-blog.angular.io
-thetaoist.online
-writingcooperative.com
-tech.ahrefs.com
-chimica-online.it
-coag.pl
-quicksleeper.pl
-dispatch.com
-elektro-plast.com.pl
-lifo.gr
-australianfrequentflyer.com.au
-dev.mysql.com
-anisearch.com#@
-context.reverso.net
-hardware.info
-med1.de
-mentalmars.com^$ghide
-neowin.net
-lexlog.pl
-independent.ie^$ghide
-softwaretestinghelp.com
-nzz.ch^$ghide
-nzz.ch
-watson.de
-watson.ch
-babel.com
-airbnbhell.com^$ghide
-clk.ink
-smashboards.com
-yeane.org
-bitblokes.de
-recantodasletras.com.br
-cdnjs.cloudflare.com/ajax/libs/blockadblock/*/blockadblock.min.js$script,domain=starblast.io
-starblast.io^$ghide
-*$script,redirect-rule=noopjs,domain=starblast.io
-vedbex.com
-vedbex.com/*banners$image
-vedbex.com/*/sponsers$image
-pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=files2zip.com
-files2zip.com
-enotes.com
-mtbtutoriales.com
-wired.com^$ghide
-news.chosun.com
-portalwrc.pl
-belfasttelegraph.co.uk^$ghide
-answersafrica.com
-/wp-content/plugins/content-protector-pack/*
-tomsguide.com
-flightaware.com^$ghide
-lesoir.be
-xe.gr
-typing-speed.net^$ghide
-plagiarisma.net
-felico.pl
-practicetestgeeks.com
-chowhound.com
-bold.dk
-liverpool.no
-mainframestechhelp.com
-mainframegurukul.com
-as.com^$ghide
-as.com
-digicular.com
-1009thecat.com
-1013katy.com
-1013themix.com
-1015jackfm.com
-1015khits.com
-1015thefox.com
-1017thebeach.com
-1017theteam.com
-1019hot.com
-1019online.com
-1019thekeg.com
-101thefox.net
-101wkqx.com
-1021nashicon.com
-1021thefox.com
-1023thewolf.com
-1025jackfm.com
-1027thevibe.com
-1029nashicon.com
-102thebear.com
-1031nowfm.com
-1031radiom.com
-1035memphis.com
-1035thegame.com
-1035wrbo.com
-1037nash.com
-1039bobfm.com
-1039wvbo.com
-1041wdlt.com
-1043thebridge.com
-1043thebridge.net
-1043thevibe.com
-1045thedan.com
-1045thezone.com
-1045wjjk.com
-1047krez.com
-1049nashicon.com
-1049thehits.com
-104thehawk.com
-1050talk.com
-1053classichits.com
-1053hotfm.com
-1053thebear.com
-1053thepoint.com
-1053thepoint.net
-1053wow.com
-1055kbuck.com
-1055thecat.com
-1057kokz.com
-1057nowfm.com
-1057thebear.com
-1057thex.com
-1057thexrocks.com
-1061theunderground.com
-1063spinfm.com
-1063thevibe.com
-1063wovo.com
-1065theticket.com
-1067thekrewe.com
-106x.com
-1070wnct.com
-1071bobfm.com
-1071thepeak.com
-1071thepoint.com
-1073wsjy.com
-1075nowfm.com
-1075thegame.com
-1077lakefm.com
-1077thebone.com
-1077theisland.com
-1079nashicon.com
-107countrypsk.com
-107nashicon.com
-1090kaay.com
-1220wkrs.com
-1230espnsports.com
-1230theteam.com
-1280wnam.com
-1290wlby.com
-1320thefan.com
-1340wmsa.com
-1430wcmy.com
-1450kven.com
-1480kyos.com
-1490wosh.com
-1510kga.com
-1590walg.com
-1620thezone.com
-1700thechamp.com
-2hoursmattpinfield.com
-600wrqx.com
-600wsom.com
-610knml.com
-630wpro.com
-640wxsm.com
-660wxqw.com
-680thefan.com
-770kkob.com
-790business.com
-790wpic.com
-810whb.com
-860kkat.com
-860utahsbigtalker.com
-900theticket.com
-921theticket.com
-923krst.com
-923thewolf.com
-925nashicon.com
-925thebear.com
-925thewolf.com
-927bobfm.com
-929peakfm.com
-929thewave.com
-929wbpm.com
-92kqrs.com
-92profm.com
-92qnashville.com
-931nashicon.com
-931thebeat.com
-933nashicon.com
-935nashfm.com
-935wrqn.com
-937nashicon.com
-937nowfm.com
-937themountain.com
-939northpoleradio.com
-939theville.com
-939xindy.com
-93q.com
-93wkct.com
-93x.com
-940wfaw.com
-941ksky.com
-941thebear.com
-941thehits.com
-945thedrive.com
-945thehawkradio.com
-947qdr.com
-947wls.com
-949kcmo.com
-949radiojondeek.com
-949starcountry.com
-949theoutlaw.com
-94rockradio.net
-951nashfm.com
-951kbby.com
-953hlf.com
-953thebeach.com
-953thescore.com
-955bobfm.com
-955glo.com
-955nashicon.com
-955thefan.com
-955thevibe.com
-957kboy.com
-957kpur.com
-957nashicon.com
-957thevibe.com
-957thewolfonline.com
-959therocket.com
-95sx.com
-95wiil.com
-95x.com
-961bbb.com
-961jamz.com
-961sox.com
-961wsox.com
-963nashicon.com
-963thezone.com
-963wdvd.com
-967shinefm.com
-969lacaliente.com
-969thewolf.com
-96key.com
-96kzel.com
-973eagle.com
-973nashfm.com
-975kabx.com
-975thevibe.com
-975wabd.com
-979nashfm.com
-979espnradio.com
-979nashicon.com
-979wvok.com
-979x.com
-97bht.com
-97rock.com
-980waav.com
-980wxlm.com
-981thebeat.com
-981themax.com
-981thevalley.com
-983nashicon.com
-983thekeg.com
-983vibe.com
-983wlcs.com
-985kissfm.net
-989magicfm.com
-989thebridge.com
-98theticket.com
-993kjoy.com
-995thejock.com
-995thewolf.com
-997cyk.com
-997cyk.org
-997kmjj.com
-997themix.com
-997wpro.com
-997wtn.com
-999thebuzz.com
-999thefoxrocks.com
-999thehawk.com
-99x.com
-kjmo.com
-nashfm100.com
-nashfm923krst.com
-nashfm1033.com
-nashfm1055.com
-nashfm929.com
-nashfm931.com
-nashfm941.com
-nashfm949.com
-nashfm981.com
-nashfmwisconsin.com
-nashicon989.com
-v100rocks.com
-albanymagic.com
-alice1077.com
-allthehitsb951.com
-alt1019.com
-alt1049albany.com
-alt2k.com
-alt923.com
-alt98.com
-am630.net
-amarillosrockstation.com
-americanpatriotmedia.com
-annarbors107one.com
-atlantasrockstation.com
-atlsportsx.com
-b106fm.com
-b1073.com
-b95.com
-b979.net
-b98.com
-b985slo.com
-b987.com
-bakersfieldespn.com
-bakersfieldespnsports.com
-beach985.com
-beachboogieandblues.com
-bear104.com
-big1013.com
-bigcheese1079.com
-bigcountry1073.com
-bigdawg985.com
-bigdog1067.com
-bigfrog101.com
-bigfroggy1053.com
-bigtalk1490.com
-blairgarner.com
-blazin1023.com
-blazin923.com
-bloomingtonhits.com
-bobfmspringfield.com
-bowlinggreensam.com
-bull973.com
-bxr.com
-caperadio1550.com
-catcountry.com
-catcountry96.com
-catcountryvermont.com
-cbssports1430.com
-cbssportserie.com
-cbssportsharrisburg.com
-cbssportsradio1430.com
-chicothunderheads.com
-christmas989.com
-ckrv.com
-classicfox.com
-classichits1033.com
-classichitsmy1059.com
-classichitswnyq.com
-classy100.com
-coast1013.com
-coast973.com
-country105fm.net
-countrycountdownusa.com
-countrylegends1059.com
-countrymi.com
-coyote1025.com
-cumulusdigital.com
-digitalsolutions201.com
-e93fm.com
-eagle97.com
-eagle993.com
-easy991.com
-ed.fm
-elizabethtownradio.com
-energy939indy.com
-espn1320columbia.com
-espn910.com
-espnhonolulu.com
-espnlouisville.com
-espnlv.com
-espnradio1280.com
-espnradio927.com
-espnradio941.com
-espnsyracuse.com
-espnur.com
-espnwestpalm.com
-espnwilmington.com
-fly92.com
-fly923.com
-fm102milwaukee.com
-fm102one.com
-fonzfm.com
-forevereaston.com
-forevermediayork.com
-fox969.com
-foxcincinnati.com
-foxsportsredding.com
-froggy1003.com
-froggy101fm.com
-froggy981.com
-froggy99.net
-froggycountry.net
-froggyland.com
-fuego1029.com
-fun1013.com
-fun969fm.com
-generations1023.com
-glory985.com
-go106.com
-goradioheartland.com
-gospel900.com
-gulf104.com
-heaven1460.com
-heaven983.com
-hitkicker997.com
-hitpage.com
-hits931fm.com
-hits96.com
-hits965.com
-hot1005.com
-hot100blono.com
-hot100nrv.com
-hot101.com
-hot102.net
-hot1033.com
-hot1039.com
-hot1047fm.com
-hot1057.com
-hot1063.com
-hot1067fm.com
-hot1067pa.com
-hot1077radio.com
-hot92and100.com
-hot933hits.com
-hot941.com
-hot967fm.com
-hvradionet.com
-i973hits.com
-ilovethehits.com
-indysmix.com
-jammin999fm.com
-jamz963.com
-jox2fm.com
-joxfm.com
-k100country.com
-k104online.com
-k105country.com
-k92radio.com
-k983.com
-kabc.com
-kaok.com
-kaperadio1550.com
-katm.com
-katt.com
-kbcy.com
-kber.com
-kboi.com
-kbul.com
-kbull93.com
-kcchiefsradio.com
-kcheradio.com
-kcmotalkradio.com
-kcmxam.com
-kennradio.com
-kernradio.com
-kesn1033.com
-key101fm.com
-kfru.com
-kftx.com
-kgfm.com
-kgfw.com
-kggo.com
-kgmo.com
-kgoradio.com
-khay.com
-khfm.com
-khfm.org
-khit1075.com
-khop.com
-khvl.com
-kiimfm.com
-kiss-1031.com
-kix1029.com
-kix106.com
-kix96.com
-kizn.com
-kjjy.com
-kjoy.com
-kkcy.com
-kkfm.com
-kkgb.com
-kkgl.com
-kkoh.com
-klif.com
-klik1240.com
-klin.com
-klur.com
-kmaj.com
-kmaj1440.com
-kmez1029.com
-kmjnow.com
-knbr.com
-knek.com
-kobfm.com
-kpla.com
-kpur107.com
-kqfc.com
-kqky.com
-kqms.com
-kqxy.com
-krbe.com
-krmd.com
-krny.com
-krrq.com
-krush925.com
-kruz1033.com
-ksam1017.com
-kscrhits.com
-kscs.com
-ksfo.com
-kshasta.com
-ksks.com
-ksmb.com
-ktcx.com
-ktik.com
-ktop1490.com
-ktucam.com
-kubaradio.com
-kubb.com
-kugn.com
-kuzz.com
-kuzzradio.com
-kvor.com
-kwin.com
-kwwr.com
-kxel.com
-kxzz1580am.com
-kyis.com
-kykz.com
-kzwafm.com
-la103.com
-laindomable.com
-laleync.com
-lanuevaomaha.com
-lite102.com
-literock105fm.com
-love105fm.com
-lvfoxsports.com
-magic1029fm.com
-magic1039fm.com
-magic1069.com
-magic1073.com
-magic1073fm.com
-magic93fm.com
-magic943fm.com
-magic979wtrg.com
-magic995abq.com
-majic97monroe.com
-majicspace.com
-maverick1023.com
-max94one.com
-maxrocks.net
-mega979.com
-mgeradio.com
-milwaukeesparty.com
-mix103.com
-mix1077albany.com
-mix965.net
-modernrock987.com
-montanassuperstation.com
-movin993.com
-muskegonnashicon.com
-my1059.com
-my961.com
-myblono.com
-mycolumbiabasin.com
-myfroggy95.com
-mykiss973.com
-mymagic106.com
-mymix1051.com
-mymix1061.com
-mymix961.com
-mystar98.com
-nashcountrydaily.com
-nashdetroit.com
-nashfm1007.com
-nashfm1011.com
-nashfm1017.com
-nashfm1025.com
-nashfm1027.com
-nashfm1061.com
-nashfm1065.com
-nashfm923.com
-nashfm937.com
-nashfm943.com
-nashfm951.com
-nashfm973.com
-nashfm991.com
-nashfmgreenbay.com
-nashfmsjo.com
-nashnightslive.net
-nashpensacola.com
-ncsportsradio.com
-nepasespnradio.com
-neuhoffmedia.com
-neuhoffmedialafayette.com
-newcountry963.com
-newsradio1029.com
-newsradio1440.com
-newsradioflorida.com
-newsradiokkob.com
-newsserver1.com
-newsserver2.com
-newsserver3.com
-newstalk1030.com
-newstalk1290koil.com
-newstalk730.com
-newstalk987.com
-newstalkwsba.com
-newswebradiocompany.net
-now937.com
-nrgmedia.com
-nrq.com
-og979.com
-okiecountry1017.com
-oldiesz104.com
-ottawaradio.net
-pensacolasjet.com
-peorias923.com
-picklefm.com
-pikefm.com
-planet1067.com
-pmbbroadcasting.com
-pmbradio.com
-power1021.com
-power103.com
-power1057.com
-power1069fm.com
-power923.com
-power94radio.com
-power955.com
-powerhits95.com
-powerslc.com
-praise1025fm.com
-purerock96.com
-q1005.com
-q1031fm.com
-q105.fm
-q1055.com
-q1061.com
-q106dot5.com
-q973radio.com
-q97country.com
-q98fm.com
-q997atlanta.com
-q99fm.com
-radio1039ny.com
-radiorockriver.com
-radiowoodstock.com
-realcountry1280whvr.com
-realcountryhv.com
-red1031.com
-red945.com
-rewind1019.com
-rickandsasha.com
-rock101.net
-rock1015.com
-rock103albany.com
-rock103rocks.com
-rock106.net
-rock107fm.com
-rock108.com
-rock945vt.com
-rockdaily.com
-rocknews.com
-rockofsavannah.com
-rockofsavannah.net
-softrock941.com
-southernillinoisnow.com
-southernsportstoday.com
-sportsanimal920.com
-sportsanimalabq.com
-sportscapitoldc.com
-sportshubtriad.com
-sportsradio1270.com
-sportsradio1440.com
-sportsradio1560.com
-sportsradio590am.com
-sportsradio740.com
-sportsradio967.com
-sportsradio970.com
-sportsradiobeaumont.com
-sportsradioberks.com
-sportsradiownml.com
-star98.net
-starfm1023.com
-starsplash.com
-stevegormanrocks.com
-sunny1031.com
-sunny1069fm.com
-sunny923.com
-sunny983.com
-sunnymuskegon.com
-supertalk1570.com
-sweet985.com
-talk104fm.com
-talk995.com
-talkradio1007.com
-tbhpod.com
-teammyrtlebeach.com
-test107.com
-thebear925.com
-thebigjab.com
-thebigstation93blx.com
-theblairgarnershow.com
-theconclave.com
-thefan1075.com
-thefanfm.com
-thegame541.com
-thehippo.com
-thehot1039.com
-thenewhotfm.com
-thenewpulsefm.com
-thepointontheweb.com
-therebelrocks.com
-therocket951.com
-therockstationz93.com
-thescore1260.com
-thesportsanimal.com
-theticket.com
-theticket1007.com
-theticket102.com
-theticket1590.com
-theticketmi.com
-thetybentlishow.com
-thevalley981.com
-thewolf1051.com
-thewolf951.com
-thisisqmusic.com
-thunder1073.com
-triadsports.com
-tuligaradio.com
-umpsports.com
-v100fm.com
-v1033.com
-vermilioncountyfirst.com
-vermillioncountyfirst.com
-w3dcountry.com
-w4country.com
-wa1a.com
-wabcradio.com
-walk975.com
-walkradio.com
-warm1033.com
-warm98.com
-waysam.com
-wbap.com
-wbbw.com
-wbmq.net
-wbnq.com
-wbpm929.com
-wbpmfm.com
-wbwn.com
-wcbm.com
-wceiradio.com
-wcfx.com
-wchv.com
-wclg.com
-wcoapensacola.com
-wcpqfm.com
-wcpt820.com
-wcpt820.net
-wcpt820am.com
-wcpt820am.net
-wcptam.com
-wcptam.net
-wcptamfm.com
-wcptamfm.net
-wcptamfm.org
-wcpyfm.com
-wctk.com
-wddoam.com
-wden.com
-wdml.com
-wdst.com
-wdst.org
-wdzz.com
-wedg.com
-werkfm.net
-werkradio.com
-wfasam.com
-wfav951.com
-wfmd.com
-wfms.com
-wfnc640am.com
-wfre.com
-wftw.com
-wgh1310.com
-wghsolidgold.com
-wglx.com
-wgni.com
-wgow.com
-wgowam.com
-wgrr.com
-whdg.com
-wheelz1045.com
-whli.com
-whrpfm.com
-whtt.com
-whud.com
-wild1029.com
-wild1049hd.com
-wild1061.com
-wild993fm.com
-wildcatsradio1290.com
-wink104.com
-winxfm.com
-wiog.com
-wiov.com
-wiov985.com
-wivk.com
-wivr1017.com
-wizn.com
-wjbc.com
-wjcw.com
-wjez.com
-wjjr.net
-wjoxam.com
-wjr.com
-wkav.com
-wkbethepoint.com
-wkga975.com
-wkhx.com
-wkmoradio.com
-wkol.com
-wkrs.com
-wkrufm.com
-wksm.com
-wkydeportes.com
-wlaq1410.com
-wlav.com
-wlbc.com
-wlevradio.com
-wlkwradio.com
-wlok.com
-wlsam.com
-wlum.com
-wlup.com
-wlwi.com
-wmac-am.com
-wmal.com
-wmqa.com
-wncv.com
-wogb.fm
-woko.com
-womg.com
-woodstockbroadcasting.com
-woodstockcommunication.com
-woodstockradio.net
-woodstocktv.net
-wovo1063.com
-wovofm.com
-wqut.com
-wqvealbany.com
-wrganews.com
-wrgm.com
-wrlo.com
-wrr101.com
-wrul.com
-wsba910.com
-wsfl.com
-wsjssports.com
-wskz.com
-wsyb1380am.com
-wtka.com
-wtma.com
-wtrxsports.com
-wttlradio.com
-wuuqradio.com
-wvel.com
-wvli927.com
-wvlkam.com
-wvnn.com
-wwck.com
-wwki.com
-wwqq101.com
-wxfx.com
-wxkr.com
-wxpkfm.com
-wynn1063.com
-wzpl.com
-wzyp.com
-wzzl.com
-x1051kc.com
-x95radio.com
-xs961.com
-xtrasports1300.com
-y-103.com
-y101hits.com
-y102montgomery.com
-y1065.com
-yesfm.net
-z1023online.com
-z1029.com
-z1075.com
-z937.com
-z93jamz.com
-z96.com
-z971.com
-zone1150.com
-zrock103.com
-zrockfm.com
-badzjeszczelepszy.pl
-androidweblog.com
-pureinfotech.com
-fairyabc.com
-tunein.com
-mountaintopwebdesign.com
-otvfoco.com.br
-balticlivecam.com
-legionprogramas.org
-clasicotas.org
-portalportuario.cl
-cronista.com
-gamershit.altervista.org
-minecraft-schematics.com^$ghide
-minecraft-schematics.com
-theitaliantimes.it
-gagetmatome.com
-anisubindo.*
-mbahhanif.site
-dumpert.nl^$ghide
-beinsports.com^$ghide
-mizonatv.com^$ghide
-serwis-zamkow.com
-nakedcapitalism.com
-govtech.com
-lublin.eu
-tekloggers.com
-molineuxmix.co.uk
-foxnews.com
-/google-funding-choices.js$script,domain=foxnews.com
-nfltraderumors.co
-blog.kwick.de
-laptopmag.com
-windows101tricks.com
-virpe.com
-dreamlandresort.com
-hebrew4christians.com
-musixmatch.com
-ecosia.org
-yusepjaelani.blogspot.com
-canondrivers.org
-skidrowreloaded.com
-adevarul.ro
-hindipix.*
-kusonime.com
-otakudesu.org
-maskmagazine.com/assets/substrate.png$image,1p
-fcportables.com
-pehawe.me
-estadao.com.br
-kimkazandi.com
-minecraftforge.net
-forum.nlmod.net
-impotsurlerevenu.org
-myanimelist.net#?#.modal-content:-abp-has(.text > b:-abp-contains(Privacy Policy))
-ryuryuko.blog90.fc2.com
-feel-the-darkness.rocks
-fontsfree.pro
-skidrowcodex.net
-earnload.*
-mdpr.jp
-theherald-news.com
-insidermonkey.com
-venea.net
-puhutv.com^$ghide
-libgen.*
-bricksrus.com
-jacquieetmichel.net
-ilturista.info
-imaginetricks.com
-sigma4pc.com
-kurosave.com
-keybr.com
-mangaku.*
-edmontonjournal.com^$ghide
-gamebanana.com
-www.reddit.com
-redditstatic.com/shreddit/en-US/xpromo-nsfw-bypassable-modal-desktop-$script
-redditstatic.com/shreddit/*/xpromo-untagged-content-blocking-modal-$script
-reddit.com#@#body:not(.with-listing-chooser):style(overflow: visible
-reddit.com#@#body:style(pointer-events: auto
-reddit.com
-sh.reddit.com
-metropoles.com^$ghide
-fotor.com
-searchenginejournal.com
-includehelp.com
-techopedia.com
-uta-net.com
-uta-net.com/reverse/user/phplib/img/1pix.gif$image
-hedgeaccordingly.com
-downloadtutorials.net
-digitalsynopsis.com^$csp=style-src *;script-src *
-dddance.party
-citpekalongan.com
-dramaqu.*
-bisablog.com
-atribuna.com.br
-vinaurl.*
-theregister.co.uk
-merryjane.com/static/images/ads.png^$image,1p
-diariodoiguacu.com.br
-timeforbitco.in
-fizyka.org
-readonepiece.com/wp-content/$script,1p
-ymovies.*
-adnan-tech.com
-ahzaa.net
-karyawanesia.com
-zoom.com.br
-myschool-eng.com
-ofuxico.com.br
-nzbstars.com
-almasdarnews.com
-*$xhr,redirect-rule=noopjs,domain=maxedtech.com
-maxedtech.com
-ideaberita.com
-orangespotlight.com
-tepat.id
-isikuota.co.id
-nmac.to
-langitmovie.com
-androidmakale.com
-mongri.net
-oceanof-games.com
-download.ipeenk.com
-livescience.com
-doranobi-fansub.id
-queer.pl^$ghide
-queer.pl#@#[class^="ad-"]
-queer.pl
-ponselharian.com
-itvn.pl
-itvnextra.pl
-kuchniaplus.pl
-miniminiplus.pl
-player.pl
-ttv.pl
-tvn.pl
-tvn24.pl
-tvn24bis.pl
-tvn7.pl
-tvnfabula.pl
-tvnstyle.pl
-tvnturbo.pl
-x-link.pl
-x-news.pl
-snipboard.io^$ghide
-digitalcameraworld.com
-guitarworld.com
-musicradar.com
-alexeiportableapp.blogspot.com
-mocospace.com
-nogizaka46.com
-karamellstore.com.br
-smarthint.co^$3p
-bigten.org^$xhr,1p
-strangermeetup.com
-nostracasa.com.br
-oparana.com.br
-casertace.net
-civildigital.com
-lesmoutonsenrages.fr
-venusarchives.com
-verpornocomic.com
-frontpage.fok.nl^$ghide
-frontpage.fok.nl
-lolle21.com
-civicx.com
-apps.jeurissen.co
-m4uhd.net
-mdlinx.com
-suedkurier.de
-utamap.com
-utaten.com
-mp3fy.com^$ghide
-verdadeiroolhar.pt
-radarbox.com
-mangaid.click
-metropoliaztm.pl
-librospreuniversitariospdf.blogspot.com
-keighleynews.co.uk
-manianomikata.com
-quotev.com
-underconsideration.com
-newyorker.com
-nekopoi.web.id
-kickante.com.br
-scribd.com
-mt07-forum.de
-auto-treff.com
-foreignaffairs.com
-hienzo.com
-tfp.is
-dxmaps.com
-kapiert.de
-nadidetarifler.com
-japan-academy-prize.jp
-lectortmo.com
-/wp-content/plugins/rcd-right-click-disabler/*$script,1p
-mt-milcom.blogspot.com
-sopot.net
-debeste.de
-dassen-azara4.com
-thehouseofportable.com
-dramacute.*
-hitcena.pl
-photoshop-online.biz
-loudersound.com
-livedays.jp
-boomlive.in
-lewdzone.com
-greatist.com
-hearthstone-decks.net
-bejson.com
-interviewgig.com
-tv-asahi.co.jp
-full-anime.fr
-nonton78.com
-boards.net
-freeforums.net
-proboards.com
-opportunitydesk.org
-pandurul.ro
-kbdfans.com
-kamerabudaya.com
-idahopress.com
-adslayuda.com
-raccontivietati.com
-creativebloq.com
-therealdeal.com
-intergate.info
-handball-world.news
-mobiflip.de
-titanic-magazin.de
-mimikama.org
-langweiledich.net
-der-postillon.com
-perlentaucher.de
-lwlies.com
-serieslyawesome.tv
-critic.de
-mediotejo.net
-nahrungsmittel-intoleranz.com
-madeinbocholt.de
-goodnews-magazin.de
-wallauonline.de
-cleanthinking.de
-healthitsecurity.com
-digitalfernsehen.de
-simpleflying.com
-masrawy.com
-techieway.blogspot.com
-milfzr.com
-pornfd.com
-riie.jp
-airfrance.co.jp
-ef.com
-flash-firmware.blogspot.com
-ntvspor.net
-phrasemix.com
-phrasemix.com/assets/new_$image
-fxstreet.com
-runmods.com
-selfstudyhistory.com
-getnzlr.newzenler.com
-litecompare.com^$ghide
-fiscomania.com^$ghide
-vol.at
-lokercirebon.com
-playbill.com
-pentruea.com
-sanspo.com
-t3.com
-visaonoticias.com
-smokingmeatforums.com
-as-selection.net
-servedez.com
-avdelphi.com
-suzylu.co.uk
-affiliate.fc2.com
-music.apple.com
-iphonecake.com
-anime2you.de
-courseware.cemc.uwaterloo.ca
-maxstream.video
-wstream.*
-allocine.fr
-osxinfo.net
-depedlps.*
-neyrologos.gr
-alphapolis.co.jp
-ukworkshop.co.uk
-eoreuni.com
-earth.com
-xxxonlinegames.com
-doods.*
-ds2play.com
-ds2video.com
-d0o0d.com
-dood.*
-freerapidleechlist.blogspot.com
-duolingo.com
-thegatewaypundit.com
-9lives.be^$ghide
-jeu2048.fr
-holowczak.com^$ghide
-*$script,redirect-rule=noopjs,domain=luchaonline.com
-altranotizia.it
-taperaki.gr
-sekai-kabuka.com
-yaledailynews.com
-4x4earth.com
-endorfinese.com.br
-enjoytaiwan.co.kr
-ggeguide.com
-tanya-tanya.com
-wpb.shueisha.co.jp
-tercihiniyap.net
-vsco.co
-baby.be
-ciberduvidas.iscte-iul.pt
-nationalgeographic.com
-mangatoon.*
-tistory.com
-receivesmsonline.net/ads.js$script,1p
-wetransfer.net/*/adblocker$3p,domain=wetransfer.com
-stevensducks.com
-ziperto.com
-trojmiasto.pl
-digitaltrends.com
-diffchecker.com
-sythe.org
-start.me
-lalawin.com
-foreignaffairs.com^*/newsletter-overlay$image
-png.is
-chronologia.pl
-gamegame.kr
-money-sense.club
-festival-cannes.com
-moving2canada.com
-extreme-down.*
-thegearhunt.com
-jootc.com
-jootc.com/wp-content/plugins/wccp-pro/
-tohkaishimpo.com
-iwanichi.co.jp
-photobank.mainichi.co.jp
-strcloud.in
-streamtape.*
-strtape.*
-poedb.tw
-malekal.com
-jfdb.jp
-tbs.co.jp
-selfstudyanthro.com
-novelasligera.com
-video.tv-tokyo.co.jp
-audioreview.m1001.coreserver.jp
-ufret.jp
-tabstats.com
-seoul.cs.land.to
-sharree.com
-motortrader.com.my
-aviationweek.com
-community.spiceworks.com
-trip.com
-holakikou.com
-globo.com
-malasngeblog.com
-relet365.com
-abola.pt
-unixhow.com
-rottentomatoes.com
-reportergazeta.pl
-thenekodark.com
-artesacro.org
-wikihow.com
-poli-vsp.ru
-polyvsp.ru
-bmovies.*
-edailybuzz.com
-kanjukulive.com
-betaprofiles.com
-wikibious.com
-imgur.com
-ananweb.jp
-seikatsu-hyakka.com
-marfilius.blogspot.com
-2219.net
-thisisfutbol.com^$ghide
-thisisfutbol.com
-odoserwis.pl
-reviewmeta.com
-guides4gamers.com
-bajecnavareska.sk
-lunas.pro
-onlinefreecourse.net
-pisr.org
-uplod.net
-thewpclub.net
-thememazing.com
-themebanks.com
-elizabeth-mitchell.org
-infoplease.com
-poeapp.com
-blasianluvforever.com
-gomovies-online.*/addons/*.gif$image
-gomovies-online.*
-nuggetroyale.io
-tileman.io
-daimangajiten.com
-analizy.pl
-erovideoseek.com
-kyonyuquest.com
-animesanka.com
-witz.io
-citas.in
-radichubu.jp
-sovetromantica.com
-*$xhr,redirect-rule=nooptext,domain=sovetromantica.com
-scriptinghelpers.org
-mbs.jp
-polyflore.net
-nightpoint.io
-striketactics.net
-chemz.io
-*$xhr,redirect-rule=nooptext,domain=mazmorra.io
-sketchful.io
-icy-veins.com
-download.mokeedev.com
-compartiendofull.net
-texte.work
-railf.jp
-spectank.jp
-liga.net
-getintopc.com
-longecity.org
-brighteon.com
-*$script,3p,domain=humanbenchmark.com
-/wp-content/plugins/secure-copy-content-protection/*$script
-mesquitaonline.com
-movieston.com
-deseneledublate.com
-eduardo-monica.com
-dreamsfriend.com
-digital.lasegunda.com
-mhwg.org
-cpuid.com
-ratebeer.com
-*$script,redirect-rule=noopjs,domain=atlasobscura.com
-atlasobscura.com
-webcamtaxi.com
-hibiki-radio.jp
-autophorie.de
-articlesmania.me^$csp=script-src * 'unsafe-eval' 'unsafe-inline'
-englishlands.net
-randomlists.com
-good-football.org
-beforeitsnews.com
-elheraldo.hn
-tutoganga.blogspot.com
-dreamstime.com
-fruit01.xyz
-dailyvoice.com^$ghide
-*$xhr,redirect-rule=nooptext,domain=dailyvoice.com
-dailyvoice.com
-clipartmax.com
-anauk.net
-zeeebatch.blogspot.com
-techdracula.com
-bluemoon-mcfc.co.uk
-blitzrechner.de
-emailfake.com
-themeparktourist.com
-garyfeinbergphotography.com
-bonobono.com
-routinehub.co
-darktranslation.com
-msubplix.com
-routenote.com
-upstream.to
-webqc.org
-ohmygirl.ml
-planetagibi.com.br
-planetagibiblog.com.br
-lyricstranslate.com
-trakteer.id
-telefon-treff.de
-dodge-forum.eu
-megapixl.com
-8muses.com
-cissamagazine.com.br
-ilclubdellericette.it
-utour.me
-seotechman.com
-katosatoshi.jp
-phoronix.com#@#[data-freestar-ad]:not(:empty)
-fandomwire.com
-observatoriodocinema.uol.com.br
-samfw.com^$ghide
-samfw.com
-samfw.com/assets/*.gif$image
-segnidalcielo.it
-fangraphs.com/dfp.js$script,1p
-fosspost.org
-igniel.com
-hentaialtadefinizione.it
-lyrical-nonsense.com
-alltechnerd.com
-moneyguru.co
-rogersmedia.com/utilityx.js^$script,3p
-mapgenie.io
-*$script,redirect-rule=noopjs,domain=exame.com
-clubulbebelusilor.ro
-googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=colnect.com
-generationamiga.com
-nwherald.com
-gridcoinstats.eu
-odiarioonline.com.br
-katzen-fieber.de
-thefreethoughtproject.com
-gplinks.co
-chan.sankakucomplex.com
-poplinks.idolmaster-official.jp
-progameguides.com
-zt-protect.*
-jpnn.com
-jimnong.tistory.com
-daum.net
-prepinsta.com
-loginhit.com.ng
-123movies.*
-*$script,redirect-rule=noopjs,domain=json2csharp.com
-diariodaregiao.com.br
-taufiqhdyt.com
-szkolawohyn.pl
-newsforbolly.org
-nextplatform.com
-giromarilia.com.br
-free-barcode-generator.net
-gomovies.*
-*$script,redirect-rule=noopjs,domain=forums.lostmediawiki.com
-promobit.com.br
-liveroger.com
-mediafax.ro
-online2pdf.com^$ghide
-online2pdf.com
-bdb.com.pl
-ping.eu
-safetxt.net
-1fichier.com
-forum.release-apk.com
-sokolow-mlp.pl
-blog.naver.com
-bendigoadvertiser.com.au
-fatgirlskinny.net
-lightnovelworld.*
-economica.net
-kuroko-analyze.com
-raqmedia.com
-69translations.blogspot.com
-2iptv.com
-my-code4you.blogspot.com
-dailynewsview.com,dailynews.us.com
-cyberspace.world
-dztechphone.com
-hotpornfile.org
-empregoestagios.com
-pornhd8k.net
-dailynewsview.com
-e-sushi.fr
-evasion-online.com
-exclusifvoyages.com
-experciencia.com
-everydaynewinfo.com
-fraudnavi.com
-javbest.xyz,javbix.com,javgrab.com
-googleapis.com/loadermain.appspot.com/main.js$domain=javboys.com
-ads.proboards.com^$script,redirect=noopjs
-bidfilter.com^$script,redirect=noopjs
-funivie.org
-tiktok.com
-polsatnews.pl
-android1pro.com
-world4.eu
-ggulpass.com
-goodbakery.ru
-elektrikmen.com
-ifdreamscametrue.com
-irisbuddies.*
-kijyomatome-ch.com
-juegosdetiempolibre.org
-kutub3lpdf.com
-kitguru.net
-la8osapofash.com
-lendagames.com
-live.b-c-e.us
-loveplay123.com
-minecraftquiz.com
-magelang1337.com
-lvturbo.com,sbbrisk.com,sbface.com,sbspeed.com,streamsb.net
-sbasian.pro
-2hbn.com,farklifarkli.com
-*$script,redirect-rule=noopjs,domain=mail.inbox.lv
-naijagists.com
-nandedbazaar.com
-naukridisha.in
-northumberland-walks.co.uk
-nydailyquote.com
-objectivequiz.com
-ouasafat.com
-teamaretuza.com
-musicindustryhowto.com
-paesifantasma.it
-payeer-gift.ru
-theepochtimes.com
-reflectim.fr
-sdelatotoplenie.ru
-sachonthi.com
-significatocanzoni.it
-accuweather.com
-marksandspencer.com
-datadikdasmen.com
-zdravenportal.eu
-chessimprover.com
-novagente.pt
-tahmial.blogspot.com
-talpo.it
-th-world.com
-thezealots.org
-top.howfn.com
-vinaurl.blogspot.com
-wasza-farma.pl
-wouterplanet.com
-erexams.com
-deportealdia.live
-htmlgames.com
-pbinfo.ro
-pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$script,redirect=googlesyndication_adsbygoogle.js,domain=hotcleaner.com
-hotcleaner.com
-vedantu.com
-gmod-servers.com/assets/js/jquery.adblock-detector.js$script,1p
-pcso-lottoresults.com
-freedomoutpost.com^$ghide
-asiatv.*
-fmovies.*
-japan-fans.com
-lcpdfr.com
-comprerural.com
-arlinadzgn.com
-stowarzyszenie-impuls.eu
-iovivoatenerife.it
-whatfontis.com
-viveretenerife.com
-skandynawiainfo.pl
-sklep-agroland.pl
-kangmartho.com
-techjunkie.com
-solotrend.net
-goalup.live
-hulnews.top
-files.vi.zone/player/*$script,domain=hulnews.top
-wired.com
-oferty.dsautomobiles.pl
-gats.io
-scrolller.com
-cambiarevita.eu
-wzamrani.com
-xtv.cz
-otakudesu.*
-puhekupla.com#@#.googlead
-*$xhr,redirect-rule=nooptext,domain=puhekupla.com
-promotor.pl
-citroen.pl
-peugeot.pl
-hatsukimanga.com
-polagriparts.pl
-protocol.com
-tritinia.com
-fakechatapp.com
-toonytool.com
-enttechub.com
-nordkorea-info.de
-battle-one.com
-geotips.net
-korona.co.jp
-gmx.net
-theblaze.com
-promotor-poz.kylos.pl
-novelism.jp
-bemoneyaware.com
-cm.g.doubleclick.net/pixel$image,redirect=1x1.gif,domain=tpc.googlesyndication.com
-tpc.googlesyndication.com/pagead/images/x_button_blue2.svg$image,redirect=1x1.gif,domain=tpc.googlesyndication.com
-cm.g.doubleclick.net/pixel$image,redirect=1x1.gif,domain=diep.io
-tpc.googlesyndication.com/pagead/images/x_button_blue2.svg$image,redirect=1x1.gif,domain=diep.io
-pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$redirect=googlesyndication_adsbygoogle.js,script,domain=mifirm.net
-gnt24365.net
-cssreference.io
-zsti.zsti.civ.pl
-hardcoregames.ca
-bikesell.co.kr
-truyenbanquyen.com
-globaledu.jp
-imagecolorpicker.com#@#div[id^="ezoic-pub-ad-"]
-torrentlawyer.com
-gsmfirmware.net
-revistavanityfair.es
-spielspiele.de
-charbelnemnom.com
-img999.com
-lataifas.ro
-/wp-content/plugins/append-link-on-copy/js/append_link.js$script,1p
-foodviva.com
-sysnettechsolutions.com^$csp=script-src * 'unsafe-inline'
-sysnettechsolutions.com
-toppremiumpro.com
-wirtualnyspac3r.pl
-47news.jp
-hitproversion.com
-/wp-content/plugins/image-watermark/*$script
-news.dwango.jp
-lowkeytech.com
-dmax.de^$ghide
-techsini.com
-olarila.com
-blisseyhusband.in
-bloggerspice.com
-drawasaurus.org
-openfinanza.it
-japanxxxmovie.com,sexpox.com
-antena3.com,lasexta.com
-nbcsports.com
-pashplus.jp
-allsmo.com
-upvideo.to
-kpopsea.com
-katholisches.info
-ubuntudde.com
-streaminglearningcenter.com
-prepostseo.com
-youmath.it
-followmikewynn.com
-flipmsg.com
-wattpad.com
-lazytranslations.com
-starbene.it
-belezaedieta.com^
-operatorsekolahdbn.com
-allmovie.com,sidereel.com
-televisiongratishd.com
-renditepassive.net
-onlinecoursebay.com
-utorrentgamesps2.blogspot.com
-sonnenverlauf.de,suncalc.org
-themosvagas.com.br
-fauxid.com
-audiostereo.pl
-tvstreampf.xyz
-gamezop.com
-articlesmania.me
-jobskaro.com
-*$image,redirect-rule=1x1.gif,domain=ygoprodeck.com
-readm.org
-androidtvbox.eu
-nicematin.com
-myhtebooks.com
-votetw.com
-gooyaabitemplates.com
-urbharat.xyz
-bilibili.com
-sogou.com
-boke112.com
-bimiacg.net
-themes-dl.com
-/wp-content/plugins/ungrabber/js/*$script
-diaforetiko.gr
-tchadcarriere.com
-shaamtv.com
-pixnet.net
-yamibo.com
-quicasting.it^$csp=script-src * 'unsafe-inline'
-fimfiction.net
-totemat.pl
-noweconomy.live
-appd.at
-appofmirror.com
-wjx.cn,wjx.top
-blog.csdn.net
-moegirl.org.cn
-hentainhaven.com
-zhihu.com
-masuit.com
-juejin.cn
-bbs.mihoyo.com
-book.zhulang.com
-zhulang.com
-faloo.com
-qidian.com
-699pic.com
-book.zongheng.com
-ciweimao.com
-cnki.net
-wpchen.net
-360doc.com
-imooc.com
-apk1s.com
-peekme.cc
-tiermaker.com
-dushu.qq.com
-commandlinux.com
-foxaholic.com
-hongxiu.com
-cheatsquad.gg
-readnovel.com
-wenku.baidu.com
-auth.alipay.com
-30edu.com.cn
-shumilou.com
-doc.mbalib.com
-nowcoder.com
-audiobookcup.com
-oantagonista.com
-aicesu.cn
-uihtm.com
-uslsoftware.com
-tadu.com
-qiangwaikan.com
-perangkatguruku.com
-janvissersweer.nl
-7fyd.com
-shushan.zhangyue.net
-logonews.cn
-spanishdict.com
-rule34hentai.net
-dez.ro#@#.ad-placement
-cloudemb.com
-bwitter.me
-windguru.net
-thinkamericana.com
-menrec.com
-hendersonville.com
-*$image,redirect-rule=1x1.gif,domain=guardian.gg
-outlook.live.com
-naaree.com
-info-beihilfe.de
-invado.pl
-jianshu.com
-revouninstaller.com
-news24.jp
-ptable.com
-cda-hd.cc,hqq.to
-hqq.to
-blogpascher.com
-tv-tokyo.co.jp
-developpez.com
-copypoison.com^$3p
-whowantstuffs.blogspot.com
-ihbarweb.org.tr
-mocah.org
-unikampus.net
-gaminplay.com
-aksensei.com
-tekstowo.pl
-*$script,redirect-rule=noopjs,domain=inbox.lv|inbox.la
-arti-definisi-pengertian.info
-techtobo.com
-libertatea.ro
-shopomo.co.uk
-c4ddownload.com,the-scorpions.com
-baixedetudo.net.br
-epn.bz
-erinsakura.com
-njjzxl.net
-affbank.com
-nbcsportsedge.com
-gardenia.net
-piano.io^$domain=fastcompany.com
-_google_ads.$badfilter
-oploverz.*
-elahmad.com
-adpres.ro
-timeanddate.com^$ghide
-timeanddate.com
-racevpn.com
-messitv.net
-playpilot.com
-buondua.com
-c315.cn
-uemeds.cn
-secondlifetranslations.com
-animatedshows.to,miraculous.to
-miraculous.to
-criticalthinking.org
-sportnews.to
-pttws.ptt.gov.tr
-leeyiding.com
-city-data.com
-zwei-euro.com
-voe.sx,voe-unblock.com
-scatch176duplicities.com,voe-unblock.com
-kathleenmemberhistory.com,nonesnanking.com,prefulfilloverdoor.com,phenomenalityuniform.com,nectareousoverelate.com,timberwoodanotia.com,strawberriesporail.com,valeronevijao.com,cigarlessarefy.com,figeterpiazine.com,yodelswartlike.com,generatesnitrosate.com,crownmakermacaronicism.com,chromotypic.com,gamoneinterrupted.com,metagnathtuggers.com,wolfdyslectic.com,rationalityaloelike.com,sizyreelingly.com,simpulumlamerop.com,urochsunloath.com,monorhinouscassaba.com,counterclockwisejacky.com,35volitantplimsoles5.com,scatch176duplicities.com,antecoxalbobbing1010.com,boonlessbestselling244.com,cyamidpulverulence530.com,guidon40hyporadius9.com,449unceremoniousnasoseptal.com,19turanosephantasia.com,30sensualizeexpression.com,321naturelikefurfuroid.com,745mingiestblissfully.com,availedsmallest.com,greaseball6eventual20.com,toxitabellaeatrebates306.com,20demidistance9elongations.com,audaciousdefaulthouse.com,fittingcentermondaysunday.com,fraudclatterflyingcar.com,launchreliantcleaverriver.com,matriculant401merited.com,realfinanceblogcenter.com,reputationsheriffkennethsand.com,telyn610zoanthropy.com,tubelessceliolymph.com,tummulerviolableness.com,un-block-voe.net,v-o-e-unblock.com,voe-un-block.com,voe-unblock.*,voeun-block.net,voeunbl0ck.com,voeunblck.com,voeunblk.com,voeunblock3.com
-wpking.in
-ibomma.pw
-coinpayu.com^$ghide
-hollywoodmask.com
-phimdinhcao.com
-cafago.com
-tvzingvn.*,zingtvhd.*,zingvntv.*
-4399.com/antijs/Antiindulgence.js
-mbalib.com
-zgywyd.cn
-hm.baidu.com/hm.js
-dhd24.com#@#.adunit
-jianbiaoku.com/content/js/copyFun.js$script,1p
-yuque.com
-otomobilgunluklerim.com
-picallow.com
-links.extralinks.casa
-magesypro.*
-magesy.blog,magesypro.pro
-audiotools.pro,magesy.blog,magesypro.pro,audioztools.com
-psihologiadeazi.ro
-ssuathletics.com
-52bdys.com
-cocomanga.com
-mooc.chaoxing.com
-brownsboys.com
-mercenaryenrollment.com
-geektyper.com
-fotofilter.de
-social-unlock.com
-cdn.gamemonetize.com
-nusantararom.org
-mail.tm
-wawlist.com
-aepos.ap.gov.in
-realpython.com
-virpe.cc
-northjersey.com,independentmail.com,usatoday.com
-*/wp-content/plugins/smio-push-notification
-titulky.com
-d3fkv551xkjrmm.cloudfront.net/js/detection.js$script,domain=denofgeek.com
-cintateknologi.com
-trucksbook.eu
-curs-valutar-bnr.ro^$ghide
-curs-valutar-bnr.ro
-atlas-geografic.net
-funnygames.*
-farm-ro.desigusxpro.com
-dongphimmoiz.com
-linkmate.xyz
-yhocdata.com
-thresholdforum.s3.us-east-2.amazonaws.com/arn:aws:s3:::thresholdforum/javascript_adblockdetector/$script
-meteoblue.com
-cristelageorgescu.ro
-payskip.org
-investorvillage.com
-crunchyscan.fr
-pornhub.*
-grandoldteam.com
-gamingsinners.com
-bike-parts-sym.com
-eshentai.tv
-vumoo.vip/js/safe.ob.min.js
-pushsquare.com
-pobre.tv
-www-daftarharga.blogspot.com
-elitepvpers.com
-filmpornoitaliano.org
-ukrainashop.com
-101soundboards.com
-geeksforgeeks.org
-utilapi.geeksforgeeks.org/api/geo/usergeodetails/
-androidacy.com
-flinsetyadi.com
-coinurl.net
-koszalincity.pl
-theghostinmymachine.com
-codehelppro.com^$ghide
-codehelppro.com
-ilovevaldinon.it
-acupoffrench.com
-novelza.com
-aileen-novel.online
-coolwallpapers.me
-freshersnow.com^$ghide
-freshersnow.com
-beastx.top,chillx.top,playerx.stream
-bumigemilang.com
-bingotingo.com
-rdsong.com
-cafe.naver.com
-novelpia.com
-stream.bunkr.is
-brainly.*
-brainly.*,eodev.com,nosdevoirs.fr
-viewsb.com
-sbfast.com,sbflix.*
-1mg.com
-blueraindrops.com
-cinemakottaga.top
-fnbrjp.com
-top1iq.com
-allthingsvegas.com^$ghide
-itscybertech.com
-sekaikomik.live
-valid.x86.fr
-unidivers.fr
-vidembed.me
-moviepl.xyz
-unlimitedfiles.xyz
-bphimmoi.net
-ytv.co.jp
-privivkainfo.ru
-yeuphimmoik.com
-goodhub.xyz
-animecruzers.com
-waves4you.com
-apps2app.com
-techus.website
-descargatepelis.com
-dl.gmx.*/uim/connector/live/v2/nonfriendlyiframe.html$frame,1p
-aztravels.net,downfile.site,memangbau.com,trangchu.news
-theblockcrypto.com
-timeshighereducation.com
-repack-games.com
-mzzcloud.life
-/dev-console-detect.js$script,domain=closeload.com
-nsfwzone.xyz
-telewebgram.com#@#ins.adsbygoogle[data-ad-slot]
-telewebgram.com#@#ins.adsbygoogle[data-ad-client]
-veblr.com
-bestjavporn.com,mm9841.cc
-videobot.stream
-thememypc.net
-tecmundo.net
-rawneix.in
-myoplay.club
-pvstreams.com
-ggwash.org
-news.ntv.co.jp
-www.ntv.co.jp
-umk.co.jp
-bpcj.or.jp
-videovard.*
-ruyamanga.com^$ghide
-gmarket.co.kr
-digital.elmercurio.com/assets/js/detectPrivateMode.js$script,1p
-dlmovies.link
-celtadigital.com
-ask4movie.*
-cinegrabber.com
-revenue.land
-web.skype.com
-dubznetwork.com
-justswallows.net
-light.gg
-sdewery.me
-convenienza.com
-panda-novel.com
-layarkacaxxi.icu
-cdramalove.com
-fucktube4k.com
-ssphim.net
-matzoo.pl
-flashplayer.org.ua
-/wp-content/themes/*/public/js/detect-adblock.js$script,1p
-asia2tv.cn
-vupload.com
-labs.j-novel.club
-turbo1.co
-ilovefreesoftware.com
-leekduck.com
-futbollatam.com
-canale.live
-outidesigoto.com
-rightnonel.com
-lightnovelpub.com,novelpub.com,webnovelpub.com
-moatads.com^$image,redirect=1x1.gif,domain=lightnovelpub.com
-lightnovelpub.com
-viafarmaciaonline.it
-read.amazon.com
-gakki.me
-tunegate.me
-nana-music.com
-iskandinavya.com
-readawrite.com
-xemphimaz.com
-nullphpscript.com
-projektowanie-wnetrz-online.pl
-box-manga.com
-disheye.com
-deepl.com
-google.*
-gourmetscans.net
-minimum-wage.org
-oricon.co.jp
-morosedog.gitlab.io
-awebstories.com
-awebstories.com/wp-content/plugins/secure-copy-content-protection^$all
-zgbk.com
-cataz.net
-htforum.net
-the-masters-voice.com
-hemas.pl
-lover93.net
-sinau-thewe.com
-clujust.ro
-esologs.com,fflogs.com,swtorlogs.com,warcraftlogs.com,wildstarlogs.com
-hbzb111.com/api/advert/
-protopage.com
-coub.com
-/wp-content/plugins/wp-extra/js/copy.min.js$script
-accgroup.vn
-artstation.com
-swiggy.com
-digi24.ro
-georgiadogs.com/js/prebid-$xhr,1p,redirect=noop.txt
-stockpokeronline.com
-law.com
-aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,hoosiertimes.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,usatoday.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com
-streamservicehd.click
-craftpip.github.io
-modrinth.com
-btvnovinite.bg
-iphoneincanada.ca
-hkemobility.gov.hk/js/AppDownload.
-hkemobility.gov.hk
-epitesti.ro
-blink.net/iframe.html$domain=dailyprincetonian.com
-allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net
-/block-keys.js$script,important,domain=allcryptoz.net|crewbase.net|crewus.net|shinbhu.net|shinchu.net|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
-eplayer.click,olacast.live
-knightnoscanlation.com
-cloudcomputingtopics.net
-sweetslyrics.com
-portalcriatividade.com.br
-cdn.privacy-mgmt.com^$script,xhr,domain=anisearch.com
-anisearch.com/*?p=1|$frame
-delicateseliterare.ro
-uwayapply.com
-bianity.net
-csid.ro
-smokelearned.net
-onna.kr
-10000recipe.com
-frameboxxindore.com
-*$script,domain=geotastic.net,redirect-rule=noopjs
-api.adinplay.com/libs/aiptag/pub/CRF/curvefever.pro/tag.min.js$script,domain=curvefever.pro
-faptiti.com
-vercalendario.info
-getlatka.com
-pixwox.com
-/wp-content/plugins/t42-content-protector/js/protector.min.js$script
-indianhealthyrecipes.com
-fantasytagtree.com
-discovervalids.com/assets-new/js/block.js$script,1p
-bagaglioamano.io
-lamusica.com
-profreehost.com/includes/js/customBottom.js$script,1p
-droetker.*/static/js/privacy-dialog/
-nhentaihaven.org
-onscreensvideo.com
-krunkercentral.com
-stiridinromania.ro
-jamilacuisine.ro
-slideshare.net
-coinsparty.com
-startpage.com^$ghide
-postype.com
-golfdigest.com
-lofter.com
-poipiku.com
-duhoctrungquoc.vn
-tarnkappe.info
-discordbotlist.com^$ghide
-hentaihaven.xxx
-airbnb.de
-hidemywp.co
-wpplugins.tips
-top.gg
-kooora4lives.net,kooora4livs.com
-bolugundem.com
-ddys.*
-kangkimin.com
-safirsoft.com
-media.framu.world
-tvshowstars.com,eurooptyk.com.pl,celebzcircle.com,sertracen.com.pa,pitesti24.ro,samsungtechwin.com,cours-de-droit.net,iptv4best.com,blogvisaodemercado.pt,kapitalis.com,tiempo.hn,winmeen.com,ibps.in,visse.com.br,javsubtitle.co,learninsta.com,licensekeys.org,mediahiburan.my,tipssehatcantik.com,anime-drama.jp,jbjbgame.com,viatasisanatate.com,ziarulargesul.ro,globaldefensecorp.com,gossipnextdoor.com,coffeeapps.ir,media.framu.world,immobiliaremia.com,colegiosconcertados.info,bigdatauni.com,riwyat.com,rukim.id,visefierbinti.ro,cyberkrafttraining.com,theaircurrent.com,ncert-solutions.com,ncertsolutions.guru,nocturnetls.net,clockks.com,ananda-yoga.ro,poolpiscina.com,infodifesa.it,getective.com,flashdumpfiles.com,formatatmak.com,drkrok.com,alphagirlreviews.com,kitchennovel.com,voxvalachorum.ro,cracksone.com,day-hoc.org,onlineonderdelenshop.nl,primicia.com.ve,tech-recipes.com,postcourier.com.pg,afrikmag.com,maduras.vip,aprendeinglessila.com,kicknews.today,koalasplayground.com,hellokpop.com,hayatbilgileri.com,moneyexcel.com,placementstore.com,neuroteam-metz.de,codedosa.com,liveyourmaths.com,newspao.gr,ieltsliz.com,programasvirtualespc.net,tempatwisataseru.com,wikiofcelebs.com,jornaljoca.com.br,arcanescans.com,filmzone.com,hiraethtranslation.com,kaystls.site,home.novel-gate.com,plural.jor.br,evreporter.com,sinhasannews.com,viewsofgreece.gr,rozbor-dila.cz,kritichno.bg,csiplearninghub.com,medeberiya.site
-tvshowstars.com,eurooptyk.com.pl,celebzcircle.com,sertracen.com.pa,pitesti24.ro,samsungtechwin.com,cours-de-droit.net,iptv4best.com,blogvisaodemercado.pt,kapitalis.com,tiempo.hn,winmeen.com,ibps.in,visse.com.br,javsubtitle.co,learninsta.com,licensekeys.org,mediahiburan.my,tipssehatcantik.com,jbjbgame.com,viatasisanatate.com,ziarulargesul.ro,globaldefensecorp.com,gossipnextdoor.com,coffeeapps.ir,media.framu.world,immobiliaremia.com,colegiosconcertados.info,bigdatauni.com,riwyat.com,rukim.id,visefierbinti.ro,theaircurrent.com,ncert-solutions.com,ncertsolutions.guru,nocturnetls.net,clockks.com,ananda-yoga.ro,poolpiscina.com,infodifesa.it,getective.com,flashdumpfiles.com,formatatmak.com,drkrok.com,alphagirlreviews.com,kitchennovel.com,voxvalachorum.ro,cracksone.com,day-hoc.org,onlineonderdelenshop.nl,primicia.com.ve,tech-recipes.com,afrikmag.com,maduras.vip,aprendeinglessila.com,kicknews.today,koalasplayground.com,hellokpop.com,hayatbilgileri.com,moneyexcel.com,placementstore.com,neuroteam-metz.de,codedosa.com,liveyourmaths.com,newspao.gr,ieltsliz.com,programasvirtualespc.net,tempatwisataseru.com,wikiofcelebs.com,jornaljoca.com.br,arcanescans.com,filmzone.com,hiraethtranslation.com,kaystls.site,home.novel-gate.com,plural.jor.br,evreporter.com,sinhasannews.com,viewsofgreece.gr,rozbor-dila.cz,kritichno.bg,csiplearninghub.com
-medeberiya.site
-celebzcircle.com,pitesti24.ro,samsungtechwin.com,cours-de-droit.net,iptv4best.com,blogvisaodemercado.pt,kapitalis.com,tiempo.hn,winmeen.com,ibps.in,visse.com.br,javsubtitle.co,learninsta.com,licensekeys.org,mediahiburan.my,tipssehatcantik.com,anime-drama.jp,jbjbgame.com,viatasisanatate.com,ziarulargesul.ro,globaldefensecorp.com,gossipnextdoor.com,coffeeapps.ir,media.framu.world,immobiliaremia.com,colegiosconcertados.info,bigdatauni.com,riwyat.com,rukim.id,visefierbinti.ro,cyberkrafttraining.com,theaircurrent.com,ncert-solutions.com,ncertsolutions.guru,nocturnetls.net,clockks.com,ananda-yoga.ro,poolpiscina.com,infodifesa.it,getective.com,flashdumpfiles.com,formatatmak.com,drkrok.com,alphagirlreviews.com,kitchennovel.com,voxvalachorum.ro,cracksone.com,day-hoc.org,onlineonderdelenshop.nl,primicia.com.ve,tech-recipes.com,postcourier.com.pg,afrikmag.com,maduras.vip,aprendeinglessila.com,kicknews.today,koalasplayground.com,hellokpop.com,hayatbilgileri.com,moneyexcel.com,placementstore.com,neuroteam-metz.de,codedosa.com,liveyourmaths.com,newspao.gr,ieltsliz.com,programasvirtualespc.net,tempatwisataseru.com,wikiofcelebs.com,jornaljoca.com.br,arcanescans.com,filmzone.com,hiraethtranslation.com,kaystls.site,home.novel-gate.com,plural.jor.br,sinhasannews.com,viewsofgreece.gr,rozbor-dila.cz,kritichno.bg,csiplearninghub.com
-eurooptyk.com.pl,evreporter.com,tvshowstars.com
-/wp-content/plugins/wccp-pro/*$domain=ferroviando.com.br|counciloflove.com|gourmetscans.net|infokik.com|kulinarnastronamocy.pl|jafekri.com|reborntrans.com|truyenbanquyen.com|ezmanga.net|secondlifetranslations.com|piklodz.pl
-freereadnovel.online,piklodz.pl,secondlifetranslations.com,ferroviando.com.br,counciloflove.com,infokik.com,kulinarnastronamocy.pl,jafekri.com,ezmanga.net,reborntrans.com,truyenbanquyen.com
-freereadnovel.online,reborntrans.com,secondlifetranslations.com
-freereadnovel.online/*?wccp_ver_num=
-studyflix.de
-espn.com
-walkthrough-indo.blogspot.com
-desijugar.net
-memoryhackers.org
-technologyreview.jp
-*/wp-content/plugins/content-copy-protection-disable-right-click/$script
-warning.or.kr
-grabify.link^$ghide
-steamcollector.com
-vaultcdn.electricapps.net/lib/jquery-ui-min.js$script,domain=yourgamingshop.com
-hayatbilgileri.com
-wormate.io
-postcourier.com.pg
-pobre.*
-surreyhillsgrocer.sg
-paidiatreio.gr
-gmx.co.uk,gmx.com
-textcleaner.net
-sneakernews.com
-socialcounts.org
-*$script,3p,redirect-rule=noopjs,domain=fflogs.com
-fflogs.com
-freestreams-live1.tv
-likey.me
-ziare.com
-agrointel.ro
-freefilesync.org#@#.adsbygoogle
-01.org
-sflix.to
-sflix.to,sflix.is,sflix.ca,sflix2.to
-magiclen.org
-virustotal.com
-heavyfetish.com
-ads.twitcasting.tv/js/env_test/ads.js$script,1p
-selfstudys.com
-player.cnevids.com/interlude/gq*&rightRail=true$script
-intergient.com^$script,domain=raider.io,redirect-rule=noopjs
-thizissam.in
-m.timesofindia.com
-jojoy.io
-mgsm.pl
-sbbrisk.com
-pl
-substack.com
-entra.news,microsoftsecurityinsights.com,substack.com
-wallpaperaccess.com
-/^https:\/\/[a-z0-9]+\.[a-z]{2,}\/blast\.js$/$script,1p,strict1p,to=~gov|~edu
-ilovetoplay.xyz
-ntuplay.xyz
-icelz.to/tv/global-devtools-blocker.js$script
-revistasufletului.net
-jsc.adskeeper.co.uk^$script,3p,domain=pastedownload.com,redirect-rule=noop.js
-myfreemp3juices.cc
-adslink.pw,jpopsingles.eu
-jpopsingles.eu
-actiongame.com,brain-games.co.uk,classicgame.com,games-site.co.uk,hiddenobjectgames.com,mahjong.co.uk,mahjong.com,match3.co.uk,match3games.com,mindgames.com,neongames.co.uk,neongames.com,solitaireonline.com,timemanagementgame.com
-two9success.com
-tv2.no
-camcaps.to,vtplayer.net
-vtplayer.net
-phimlongtieng.net/js/devtool.js
-phimlongtieng.net/templates/themes/phim/js/antihtml.js
-phimlongtieng.net
-verselemzes.hu
-javhoho.com/wp-content/uploads/*/Upgrade-PREMIUM-
-skyozora.com
-zunda.site
-dialectsarchive.com
-workhouses.org.uk
-weakstream.org
-4media.com,przegladpiaseczynski.pl
-easyayurveda.com,sharktankblog.com
-dollarvr.com
-romviet.com
-jk-market.com
-hket.com
-genesistls.com
-milenio.com
-shortform.com
-newsme.gr
-displayspecifications.com
-squidboards.com
-daily-tohoku.news
-regex101.com
-savoriurbane.com
-descopera.ro
-joysound.com
-freewaysintl.com
-velicu.eu
-verfutebol.net
-veneto.info
-panorama.it
-arenavalceana.ro
-firmwarefile.com
-activationkeys.co
-senpaiediciones.com
-/wp-content/plugins/disabled-source-disabled-right-click-and-content-protection/*$script,css,1p
-gukjenews.com
-webnovel.com
-asianexpress.co.uk,best4hack.blogspot.com,certificationexamanswers.890m.com,cookhero.gr,creative-chemistry.org.uk,deutschaj.com,divineyogaschool.blogspot.com,fabioambrosi.it,flory4all.com,fv2freegifts.org,geniusjw.com,ideas0419.com,jeyran.net,ktm2day.com,letsdownloads.com,limametti.com,luyenthithukhoa.vn,otakukan.com,ribbelmonster.de,untitle.org,uptimeside.webnode.gr,usmleexperiences.review,yoyofilmeys.*,zoommastory.com
-urbanbrush.net
-audiotools.in
-7misr4day.com
-raindropteamfan.com
-vinstartheme.com
-pepperlive.info,unbiasedsenseevent.com
-maxt.church
-bluemediafile.*
-ilife97.com
-vtbe.to,vtube.network
-manhwahentai.me
-canalnatelinhaonline.blogspot.com
-ontools.net
-luckydesigner.space/adview_$xhr,1p
-neilpatel.com
-onlinegiftools.com,onlinejpgtools.com,onlinepngtools.com,onlinestringtools.com,onlinetexttools.com,onlinetools.com
-cool-etv.net
-cool-etv.net/ch/suppy.js$script,1p
-jsfiddle.net
-regexr.com
-.secure-copy-content-protection-public.css^$css,1p
-snbc13.com
-thestar.com.my
-corriereadriatico.it
-scarysymptoms.com
-ikorektor.pl
-theonegenerator.com
-vgembed.com
-static.wikia.nocookie.net/silversurfer/prod/latest/ageGateUnit-pathfinder.js^$script,3p
-personality-database.com
-colors.sonicthehedgehog.com
-senpa.io
-leakedzone.com
-katerionews.com,telenovelas-turcas.com.es
-telenovelas-turcas.com.es
-g37.com.br
-film4e.com,zamundatv.com
-embed.reddit.com
-zefoy.com
-jpost.com
-j91.asia
-nppes.cms.hhs.gov
-khou.com
-/wp-content/themes/linhminazmovies/assets/js/dev.js$script,1p
-rodude.com
-mehoathinh2.com
-goldenstateofmind.com
-kmo.to
-0123movies.ch
-9now.com.au
-pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=ageofconsent.net
-neoseeker.com
-teamkong.tk
-forplayx.ink
-brutal.io,powerline.io
-xeiaso.net
-musicallyvideos.com
-embibe.com
-actvid.com
-vidmoly.*
-camcaps.io
-10tv.com
-macaro-ni.jp#@#.l-main:style(padding-top: 13.4vw
-isekaipalace.com
-seriesperu.com
-jeniusplay.com
-sbot.cf
-tvhay.*
-fjordd.com
-tumblr.com
-lapresse.ca
-zelka.org
-sekaikomik.bio
-playertv.net
-warungkomik.com
-enduro-mtb.com
-themeslide.com
-kukaj.io
-scitechdaily.com
-ophim.vip
-hindustantimes.com
-*
-animesaga.in
-terramirabilis.ro
-animesuge.to,aniwave.*,anix.*,flixhq.*,flixrave.to,hdtoday.so,hurawatch.bz,vidplay.site,vid2faf.site
-animesuge.to,aniwave.*,anix.*,bflix.io,flixhq.*,fmovies.*,f2movies.ru,hdtoday.so,hurawatch.bz,movies2watch.ru,putlockernew.vc,swatchseries.ru,vidplay.site,vid2faf.site,vidstream.pro,mcloud.to
-animesuge.to,aniwave.*,anix.*,flixrave.to,hdtoday.so,hurawatch.bz,vidplay.*,vid2faf.site
-161.97.70.5
-zerogpt.net
-linkco.re
-txori.com
-team-octavi.com
-mms.cnn.com^$1p
-bypass.city,adbypass.org
-nicekkk.com
-sgd.de
-*$script,1p,redirect-rule=noopjs,domain=punishworld.com
-comikey.com
-tuta.com
-venturebeat.com
-guildstats.eu
-aboutchromebooks.com,ancient.eu,comingsoon.net,daysoftheyear.com,edn.com,gearjunkie.com,harvardmagazine.com,lgbtqnation.com,majorgeeks.com,mangainn.net,medievalists.net,sherdog.com,sidereel.com,statesman.com,winhelponline.com
-boston.com,britannica.com,cattime.com,dogtime.com,download.mokeedev.com,freep.com,ijr.com,inquirer.net,knowyourmeme.com,nationalreview.com,nofilmschool.com,order-order.com,savvytime.com,techlicious.com,technicpack.net,thedraftnetwork.com,wrestlezone.com,xda-developers.com
-majorgeeks.com
-legacy.com
-lazyadmin.nl
-saikaiscans.net
-gdrivedescarga.com
-ilsole24ore.com
-gaz.com.br
-bg-gledai.*
-boop.pl
-audiologyresearch.org
-klartext-ne.de
-sqlserveregitimleri.com
-edurev.in
-appimagehub.com,gnome-look.org,store.kde.org,linux-apps.com,opendesktop.org,pling.com,xfce-look.org
-haberiniz.com.tr
-timesnownews.com
-zipcode.com.ng
-yhmgo.com/tpsf/yh_js/rtpck.js$1p
-expquebec.com
-transinfo.pl
-elsalvadorsurfrealestate.com
-translate.goog
-talouselama.fi,uusisuomi.fi,tekniikkatalous.fi,tivi.fi,kauppalehti.fi
-thejakartapost.com
-oreilly.com
-fullxh.com,galleryxh.site,megaxh.com,movingxh.world,seexh.com,unlockxh4.com,valuexh.life,xhaccess.com,xhadult2.com,xhadult3.com,xhadult4.com,xhadult5.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster20.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster42.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhday.com,xhday1.com,xhlease.world,xhmoon5.com,xhofficial.com,xhopen.com,xhplanet1.com,xhplanet2.com,xhreal2.com,xhreal3.com,xhspot.com,xhtotal.com,xhtree.com,xhvictory.com,xhwebsite.com,xhwebsite2.com,xhwebsite5.com,xhwide1.com,xhwide2.com,xhwide5.com
-270towin.com
-tech.hindustantimes.com
-photopea.com
-photopea.com/img/pp_wide.png^$image,1p
-photopea.com/img/pp_tall.png^$image,1p
-deccanherald.com
-/js/content-protector.min.js$script
-mathcrave.com
-vrcmods.com
-www.watermarkremover.io
-uploadvr.com
-getemoji.com
-dbx.molystream.org/assets/s.js$script
-2pdfconverter.com,annotation.com,changefaces.com,chartle.com,coloringonline.com,fakechatapp.com,files2zip.com,mapimage.com,maproute.com,mindclouds.com,phideo.com,photocollage.com,photoeditor.com,photoenlarger.com,photofilters.com,photoresizer.com,postermaker.com,qrapp.com,stripbackground.com,toonytool.com,wordclouds.com,youtubetrimmer.com
-marinetraffic.com
-sportando.basketball
-ymovies.vip,aniwatch.to,aniwatchtv.to,megacloud.tv,hianime.*,hianimez.to,putlocker.vip,rapid-cloud.co,rabbitstream.net,pupupul.site
-9animetv.to/js/safe.ob.min.js$script
-myflixerz.to,putlocker.pe,theflixertv.to
-movie4kto.net
-grostembed.online,megacloud.*,premiumembeding.cloud,venusembed.site
-lethalpanda.com
-animenewsnetwork.com
-hackthebox.com/build/assets/just-detect-adblock-$script,1p
-amtraker.com
-heidisql.com
-romprovider.com
-dicasfinanceirasbr.com,dicasdevalor.net,dicasdefinancas.net,guiasaude.info,felizemforma.com,financasdeouro.com
-guiasaude.info,felizemforma.com
-financasdeouro.com
-brokensilenze.net
-pub.network^$script,3p,redirect=noopjs,domain=concertarchives.org
-concertarchives.org#@#[data-freestar-ad]
-concertarchives.org
-userapi.com/impf/$image,uritransform=/^\/impf\/+//,domain=vk.com|vk.ru
-web.telegram.org
-galinos.gr
-bluesnews.com
-broncoshq.com
-androidpolice.com,makeuseof.com,movieweb.com,xda-developers.com,thegamer.com,cbr.com,gamerant.com,screenrant.com,howtogeek.com,thethings.com,simpleflying.com,dualshockers.com
-groundies.com
-alfred.camera
-decider.com,nypost.com,pagesix.com
-habuteru.com
-anascrie.ro
-moviesapi.club,bestx.stream,watchx.top
-bestx.stream/assets/js/devtools-detector.js
-streambuddy.net
-daotranslate.*
-wrosinski.pl
-iptvromania.ro
-wtsp.com
-welovemanga.one
-pap.pl
-mangaschan.net,sssscanlator.com,nightscans.net,cypherscans.xyz
-icourse163.org
-twitchemotes.com
-send.cm/static/js/engine.js$script,1p
-alexsportz.online
-smartkhabrinews.com
-starzunion.com
-nsfw247.biz
-cheersandgears.com
-sportea.online
-streamvid.net
-moovitapp.com
-digminecraft.com
-vidstreaming.xyz
-iphoneincanada.ca^$ghide
-firescans.xyz
-*$image,domain=peacocktv.com,redirect-rule=1x1.gif
-peacocktv.com
-cespun.eu
-tips97tech.blogspot.com
-encurtandourl.com
-news.17173.com
-pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=woomy-site.glitch.me
-videos-cloudfront.jwpsrv.com^$media,domain=app.simpleclub.com
-cdn.jwplayer.com^$media,domain=app.simpleclub.com
-ip.sb/assets/js/wwads_blocked.js
-arras.io,arras.netlify.app,arrax.io
-freetvsports.xyz
-zippyupload.com
-ndtvprofit.com
-tuborstb.co
-vembed.*
-netu.*,netuplayer.top,stbnetu.xyz
-stblion.xyz
-scenexe.io
-googlesyndication.com^$script,domain=cheatnetwork.eu
-cheatnetwork.eu^$script,xhr,1p
-cheatnetwork.eu^$ghide
-hdrez.com
-sportsupa.com
-how-to-pc.info,programming-link.info
-how-to-pc.info^$ghide
-emturbovid.com
-with.is
-movie-web.app
-redecanais.*,redecanaistv.*,redisex.*,xn-----0b4asja7ccgu2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b,xn--90afacv0clj6ac0dxa.xn--p1ai,xn--90afacv0cu2a3cr.xn--p1ai
-hoca4u.com
-lowcygier.pl
-asheville.com
-theasianparent.com
-maxroll.gg
-s.nitropay.com/n.svg$xhr,domain=maxroll.gg
-solarmovie.vip/js/$script,1p,replace=/\(\{checkers\:.*?\]\}\)/({checkers:[]})/g
-solarmovie.*
-chowhound.com,explore.com,foodie.com,foodrepublic.com,glam.com,grunge.com,healthdigest.com,housedigest.com,looper.com,mashed.com,moneydigest.com,nickiswift.com,outdoorguide.com,slashfilm.com,slashgear.com,tastingtable.com,thedailymeal.com,thelist.com,women.com,wrestlinginc.com
-geeksoncoffee.com
-guidingliterature.com
-asumanaksoy.com,freshlifecircle.com
-cdn.jsdelivr.net/npm/devtools-detector$script,domain=asumanaksoy.com|comedyshow.to|freshlifecircle.com|superembeds.com|blsplayer.com|daftmovie.xyz
-hentaihd.cyou/assets/js/devtools-detector.js$script
-bhplay.me/player/assets/devtools-detector/$script,1p
-/cdn.jsdelivr.net/npm/disable-devtool$script,domain=1jour1film.homes|simptown.su
-player.melaniezettofrais.online/assets/js/devtools-detector$script
-animedao.*
-ngelmat.net
-oceanplay.org
-bluphim.com,cdnmoviking.tech
-mineskin.org
-blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com
-blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com
-sheffieldforum.co.uk^$xhr,1p
-nsmb.com
-afterclass.io
-hbstack.dev^$script,xhr,1p
-aventurainromania.ro
-playingfire.com
-abril.com.br
-mcskinhistory.com
-tv.bdix.app
-mkv-pastes.com
-unic.com.vn/js/disable-copy.js$script
-unic.com.vn/css/chongcopy.css$css
-unic.com.vn
-goodreads.com#@?#.Overlay--floating:has(> div.Overlay__window > div.Overlay__content > div.LoginInterstitial)
-shaalaa.com
-viewing.nyc
-tmz.com
-justspices.de
-baumbet.ro
-op.gg
-notificationsounds.com
-ncrtsolutions.in
-tweaking4all.com
-studiestoday.com
-watch.lonelil.com
-hitokageproduction.com
-thotsbay.tv
-sarthaks.com
-zigya.com
-teachoo.com
-pancreas.ro
-studyrankers.com
-bharatavani.in
-delfi.lt
-esaral.com
-classnotes.org.in
-pendulumedu.com
-puzzle-loop.com,puzzle-words.com,puzzle-chess.com,puzzle-thermometers.com,puzzle-norinori.com,puzzle-minesweeper.com,puzzle-slant.com,puzzle-lits.com,puzzle-galaxies.com,puzzle-tents.com,puzzle-battleships.com,puzzle-pipes.com,puzzle-hitori.com,puzzle-heyawake.com,puzzle-shingoki.com,puzzle-masyu.com,puzzle-stitches.com,puzzle-aquarium.com,puzzle-tapa.com,puzzle-star-battle.com,puzzle-kakurasu.com,puzzle-skyscrapers.com,puzzle-futoshiki.com,puzzle-shakashaka.com,puzzle-kakuro.com,puzzle-jigsaw-sudoku.com,puzzle-killer-sudoku.com,puzzle-binairo.com,puzzle-nonograms.com,puzzle-sudoku.com,puzzle-light-up.com,puzzle-bridges.com,puzzle-shikaku.com,puzzle-nurikabe.com,puzzle-dominosa.com,puzzle-yin-yang.com
-animefire.plus
-ohli365.vip/js/apms.db.js$script
-ohli365.vip
-inattvcom117.xyz
-studyadda.com
-indeed.com
-mostrodifirenze.com
-dngz.net
-vnexpress.net
-vidsrc.*
-ate60vs7zcjhsjo5qgv8.com
-embed.su
-autoembed.cc
-embtaku.pro
-mrbenne.com
-d4armory.io,helldivers.io
-helldivers.io
-bongdaplus.vn
-vipstreams.in
-3xyaoi.com
-ipphone-warehouse.com
-fightful.com
-conservationmag.org^$ghide
-teller.jp
-freewatchtv.top,gdplayertv.*,mixstreams.top,tvfreemium.top
-bbc.com
-patreon.com
-www-liverpoolecho-co-uk.translate.goog,www-themirror-com.translate.goog,www-football-london.translate.goog,www-devonlive-com.translate.goog,www-cornwalllive-com.translate.goog,www-glasgowlive-co-uk.translate.goog,www-kentlive-news.translate.goog,www-essexlive-news.translate.goog,www-lincolnshirelive-co-uk.translate.goog,www-leeds--live-co-uk.translate.goog,www-insider-co-uk.translate.goog
-techcrunch-com.translate.goog
-xanimu.com,cosxplay.com
-tver.jp/_next/static/chunks/pages/episodes/$script,replace=/e\.openQuestionnaireModal\?\?.+?\[e\.openQuestionnaireModal\,e\.controller\.play/e.controller.play)()}\,[e.controller.play/
-solarmagazine.nl
-noicetranslations.blogspot.com
-ren.tv/video/embed/*#autoplay=$subdocument,uritransform=/#autoplay=.*//
-bloomberglinea.com,bloomberglinea.com.br
-jsdelivr.net/npm/ad-compass@latest/dist/ad-compass.umd.js
-wear.jp
-choosingnothing.com
-xossipy.com
-businessworld.in/assets/custom/custom.js$script
-gmbinder.com
-bembed.net,embedv.net,fslinks.org,listeamed.net,v6embed.xyz,vembed.*,vgplayer.xyz,vid-guard.com
-archon.gg
-naver.com
-putlocker.*
-player.melaniezettofrais.online
-klsescreener.com
-brooklyneagle.com
-remixsearch.es
-newgrounds.com
-einthusan.tv
-radartest.com
-skuola.net
-bitcine.app,cineby.app,tv.verizon.com
-bitcine.app,cineby.app,moflix-stream.day,tv.verizon.com
-4kwebplay.xyz,qqwebplay.xyz,lewblivehdplay.ru,claplivehdplay.ru,tutlehd4.com,viwlivehdplay.ru
-daya-jewelry.com
-cabinetexpert.ro
-topperlearning.com
-weibo.com
-javjavhd.com
-pronews.gr
-twitter.com,x.com,~platform.twitter.com
-platform.twitter.com
-bing.com
-prompthero.com
-a.pub.network/fancaps-net/pubfig.min.js$script,redirect=noopjs,domain=fancaps.net
-web.archive.org/web/*/http://rpc.blogrolling.com/display.php?r=$1p,script
-zutool.jp
-swagbucks.com#@#.ad_warn
-swagbucks.com#@
-leetcode.cn
-manoramaonline.com/content/*/evlok/ev-dab/*/ev-dab.min.js$script,1p
-manoramaonline.com/acd/api/3.0/authorize/json?$xhr,1p
-wrtn.jp
-unknowncheats.me
-cnblogs.com
-techgyd.com
-crunchyroll.com
-karsaz-law.com
-veev.to
-mskmangaz.blogspot.com
-mskmangaz.blogspot.com^$doc,replace=/\.novel-box \*:not\(a\)|@media print//g
-doubledouble.top
-monitoruldevrancea.ro
-myntra.com
-readcomiconline.li
-abema.tv
-lookmovie2.*
-autopareri.com
-/wp-content/plugins/wpshield-content-protector/dist/app.min.js$script
-abysscdn.com
-/js/devtools-detector.js^$script,3p,domain=rubystm.com|rubyvid.com
-rubystm.com,rubyvid.com
-esscctv.com
-phimfit.com
-animet1.net/*/detect.dev.js^
-anime3s.com,animet1.net
-pokemonsleep.club^$script,1p
-gigazine.net
-cined.com/content/plugins/abss-adblock
-cnn.com
-etools.ch^$ghide
-kentucky.com
-curseforge.com
-lowfuelmotorsport.com
-camspider.com
-jetv.xyz/assets/js/devtools-detector.js$script,1p
-jetv.xyz
-html5.gamedistribution.com
-nullforums.net
-mangareader.to
-hansa-online.de
-zonatmo.com
-southcloud.tv
-yugenanime.sx,yugenanime.tv
-cu.tbs.co.jp
-indahonline.com/js/disable-devtool.js$script,1p
-indahonline.com
-videocardz.com
-tinyhouse-baluchon.fr
-perplexity.ai
-openanesthesia.org
-tweaktown.com
-sndcdn.com/assets/*.js^$script,domain=soundcloud.com,replace=/shouldBlockScrubbing\(\w\.getMediaDuration\(\)\)/shouldBlockScrubbing(false)/
-sndcdn.com/assets/*.js^$script,domain=soundcloud.com,replace=/\{[a-z]\(\d+\)\.shouldBlockScrubbing\(\)\?([a-z])\(window\.document\)/{false?\$1(window.document)/
-volokit2.com
-duracell.de
-ajanstv.com.tr
-manhwa18.cc
-japonhentai.com
-rutube.ru
-karistudio.com
-cyberalert.gr
-time.is^$script,1p
-cyberdom.blog
-vyvymanga.net
-vyvymanga.net/web/js/devtools-detector.js$script,1p
-partsnl.nl
-rds.live
-autoweek.nl^$script,1p
-coomer.su,kemono.su
-broflix.cc
-stream.hownetwork.xyz
-bestcam.tv
-t.17track.net
-thedarkblues.co.uk/applications/adsense/interface/js/adbd.js^$script,1p
-thedarkblues.co.uk
-ark-unity.com
-streamruby.com
-embasic.pro,dlions.pro
-d0000d.com
-sussytoons.*
-mostream.us
-hotleak.vip,hotleaks.tv,topfaps.com
-astro-cric.pages.dev,crichype.*,jio.pftv.ws,shz.al,tnt2-cricstreaming.pages.dev,wlo-cricstreamiing.pages.dev
-fandom.com
-baomidou.com
-wallpapercat.com
-media.cm/dev.js
-images.$frame,1p,domain=nintendolife.com|purexbox.com|pushsquare.com|timeextension.com
-nintendolife.com
-pngitem.com
-assets.t3n.de/t3n-de/assets/t3n/2018/scripts/abdtn-$script,1p
-foxteller.com
-blog.tangwudi.com
-/copyprevention.js^$script,1p
-blindhelp.net
-smalley.com
-francis-bacon.com
-nebula.tv
-nihongoaz.com
-espressocafe.ro
-u.gg^$ghide
-astoryofmasasstruggles.com
-pokeos.com
-pokeos.com/pokeos-uploads/ads/adblock/$image
-lemon8-app.com
-animekai.to,animekai.bz,anigo.to
-animekai.to,animekai.bz,anigo.to,megaup.cc
-loverslab.com
-/akam/13/*$script,xhr,1p,domain=easyjet.com|ing.nl,important
-easyjet.com,ing.nl
-cowcotland.com
-whoisnovel.com
-zabawkahurtownia.pl
-n2olabs.pro/devtool.js
-filiser.eu,wishflix.cc,zalukaj.io
-bloxd.io
-wasserstoff-leitprojekte.de
-hiphopa.net
-tiktok.com^$removeparam=_r
-tiktok.com^$removeparam=_t
-torontosom.ca
-bitchute.com
-dropbox.com
-rottentomatoes.com/*/affiliates:$doc,uritransform=/\/affiliates:[^\/?#]+//
-jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js
-404le.com/js/disable-devtool.min.js
-pawastreams.pro
-samurai.wordoco.com
-sporttotal.tv
-bcs16.ro
-kunststoffe.de/ads_tracking.js$xhr,1p
-time.is
-bilibili.com#@#+js(aost, player.pause, /[0-9a-f]{40}\.js:1\d{2}([\S\s]+\.emit.+core\.){3}/)
-s1.hdslb.com/bfs/static/jinkela/video/video.$script,replace=/t\.user\.isLogin\?/1?/,domain=bilibili.com
-store.steampowered.com
-steamcommunity.com/linkfilter/?u=http$doc,urlskip=?u
-marriedbiography.com
-simptown.su
-labreakfastburrito.com
-threads.com
-bangbros.com
-ingesantoso.wordpress.com
+0.0.0.0 mimaletadepeliculas.blogspot.com
+0.0.0.0 pelispedia.*
+0.0.0.0 cine.to
+0.0.0.0 desbloqueador.*
+0.0.0.0 megapastes.com
+0.0.0.0 s0urce.io
+0.0.0.0 dicionariocriativo.com.br
+0.0.0.0 gay69.stream
+0.0.0.0 m4ufree.com
+0.0.0.0 evz.ro
+0.0.0.0 mcocguideblog.com
+0.0.0.0 resourcepack.net
+0.0.0.0 programegratuitepc.com
+0.0.0.0 kolnovel.org
+0.0.0.0 kolnovel.org/wp-content/plugins/wccp-pro/
+0.0.0.0 up4stream.com/js/devtools-detector.js
+0.0.0.0 up4stream.com,ups2up.fun
+0.0.0.0 kursnacukrzyce.pl
+0.0.0.0 wowturkey.net
+0.0.0.0 abstream.to/js/devtools-detector*.js
+0.0.0.0 abstream.to
+0.0.0.0 9tsu.vip
+0.0.0.0 streambolt.tv/js/dtd.js
+0.0.0.0 streambolt.tv
+0.0.0.0 onepiecepower.com/spoiler.js
+0.0.0.0 socialblade.com^$ghide
+0.0.0.0 socialblade.com
+0.0.0.0 sportsnet.ca
+0.0.0.0 xclient.info
+0.0.0.0 naturalhomes.org/img/adblock.gif
+0.0.0.0 tools.jabrek.net
+0.0.0.0 impots.gouv.fr
+0.0.0.0 flickr.com
+0.0.0.0 airnavradar.com
+0.0.0.0 cyanlabs.net
+0.0.0.0 cyanlabs.net#@#ins.adsbygoogle[data-ad-slot]
+0.0.0.0 cyanlabs.net#@#ins.adsbygoogle[data-ad-client]
+0.0.0.0 tides.net
+0.0.0.0 *$script,domain=abcya.com,redirect-rule=noopjs
+0.0.0.0 abcya.com
+0.0.0.0 2game.info/ad/failed_ad_view.js
+0.0.0.0 holyclock.com^$3p
+0.0.0.0 shomershabes.com^$3p
+0.0.0.0 shomershabes.co.il^$3p
+0.0.0.0 pinterest.*
+0.0.0.0 files.minecraftforge.net
+0.0.0.0 tv.mademyday.com
+0.0.0.0 mimaletamusical.blogspot.com
+0.0.0.0 fmhikayeleri.com
+0.0.0.0 experts-exchange.com
+0.0.0.0 digitalsynopsis.com
+0.0.0.0 filefox.cc
+0.0.0.0 visionias.net
+0.0.0.0 99bitcoins.com
+0.0.0.0 punto-informatico.it
+0.0.0.0 uol.com.br
+0.0.0.0 */lib.ucopy/ucopy.js$script,domain=uol.com.br
+0.0.0.0 ne10.uol.com.br
+0.0.0.0 umterps.com^$ghide
+0.0.0.0 umterps.com
+0.0.0.0 cars.com
+0.0.0.0 peliculas24.me
+0.0.0.0 warringtonguardian.co.uk
+0.0.0.0 cristoiublog.ro
+0.0.0.0 planete-205.com
+0.0.0.0 ps3-infos.fr^$ghide
+0.0.0.0 tweakers.net
+0.0.0.0 hqq.tv
+0.0.0.0 zerohedge.com
+0.0.0.0 racefans.net^$ghide
+0.0.0.0 racefans.net
+0.0.0.0 eca-anime.net
+0.0.0.0 gazetadopovo.com.br
+0.0.0.0 foodnetwork.com
+0.0.0.0 gaypornmasters.com
+0.0.0.0 gaypornmasters.com^$csp=script-src *
+0.0.0.0 gearside.com
+0.0.0.0 braziljournal.com
+0.0.0.0 emol.com
+0.0.0.0 radioline.co/*/ad$1p
+0.0.0.0 voirfilms.*
+0.0.0.0 nytimes.com
+0.0.0.0 xiaomitoday.com^$ghide
+0.0.0.0 mixmods.com.br
+0.0.0.0 googlesyndication.com/pagead/js/adsbygoogle.js$xhr,redirect=noop.js,domain=unknowncheats.me
+0.0.0.0 *$xhr,redirect-rule=nooptext,domain=unknowncheats.me
+0.0.0.0 columbiaspectator.com
+0.0.0.0 knshow.com
+0.0.0.0 knshow.com^$ghide
+0.0.0.0 classicreload.com
+0.0.0.0 jusbrasil.com.br
+0.0.0.0 descarga-animex.*
+0.0.0.0 deezer.com
+0.0.0.0 tvtropes.org
+0.0.0.0 global.proper.io/tvtropes.min.js$script,redirect=noopjs,domain=tvtropes.org
+0.0.0.0 springfieldspringfield.co.uk
+0.0.0.0 justtrucks.com.au^$ghide
+0.0.0.0 justtrucks.com.au
+0.0.0.0 justtrucks.com.au^$image
+0.0.0.0 omr.com
+0.0.0.0 indiatimes.com
+0.0.0.0 adsrt.com/assets/js/particles.min.js$script
+0.0.0.0 nulled.life
+0.0.0.0 mediafire.com
+0.0.0.0 ebc.com.br
+0.0.0.0 tours.fr/include/js/tagAnalyticsCNIL.php$script,1p
+0.0.0.0 flyertalk.com
+0.0.0.0 artsy.net
+0.0.0.0 searchenginewatch.com
+0.0.0.0 facebook.com,facebookcorewwwi.onion,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 facebook.com/api/graphql/$xhr,1p,replace=/,"category_sensitive"[^\n]+?"follow_button":\{"__typename":"CometFeedStoryFollowButtonStrategy"[^\n]+"cursor":"[^"]+"\}/}/g,domain=web.facebook.com|www.facebook.com
+0.0.0.0 web.facebook.com,www.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 l.facebook.com/l.php?u=$doc,urlskip=?u
+0.0.0.0 l.instagram.com/?u=$doc
+0.0.0.0 urlskip=?u
+0.0.0.0 oggiscuola.com
+0.0.0.0 oggiscuola.com^$csp=style-src 'self' *
+0.0.0.0 oggiscuola.com/*/banner$image
+0.0.0.0 odiario.com
+0.0.0.0 cittadinanza.biz
+0.0.0.0 glistranieri.it
+0.0.0.0 esercizinglese.com
+0.0.0.0 pelisfull.tv
+0.0.0.0 masternodes.pro
+0.0.0.0 ancient.eu
+0.0.0.0 petrimazepa.com
+0.0.0.0 sabishiidesu.com
+0.0.0.0 webcodegeeks.com
+0.0.0.0 greenocktelegraph.co.uk
+0.0.0.0 livetennis.it
+0.0.0.0 readlightnovel.org
+0.0.0.0 kashmirobserver.net
+0.0.0.0 allafinedelpalo.it
+0.0.0.0 cathouseonthekings.com
+0.0.0.0 tinyppt.com
+0.0.0.0 wotlabs.net
+0.0.0.0 kollyinsider.com
+0.0.0.0 winaero.com
+0.0.0.0 ewrc-results.com
+0.0.0.0 schnauzer-forum.co.uk^$ghide
+0.0.0.0 emulasyonturkiye.org^$ghide
+0.0.0.0 raven-mythic.com
+0.0.0.0 investmentnews.com
+0.0.0.0 intramed.net
+0.0.0.0 protest.eu
+0.0.0.0 /wp-content/plugins/simple-adblock-notice/*$~css
+0.0.0.0 books-world.net
+0.0.0.0 pc3mag.com
+0.0.0.0 centrumher.eu
+0.0.0.0 opedge.com
+0.0.0.0 droidtekno.com
+0.0.0.0 northwestfirearms.com
+0.0.0.0 techkings.org
+0.0.0.0 community.simtropolis.com
+0.0.0.0 fabricjs.com
+0.0.0.0 bronze-bravery.com
+0.0.0.0 ultimate-bravery.net
+0.0.0.0 basilmarket.com
+0.0.0.0 enfsolar.com^$ghide
+0.0.0.0 brightonandhovenews.org^$ghide
+0.0.0.0 japancamerahunter.com
+0.0.0.0 remotelyawesomejobs.com
+0.0.0.0 rightwingtribune.com^$ghide
+0.0.0.0 htmlreference.io
+0.0.0.0 heypoorplayer.com
+0.0.0.0 topomap.co.nz
+0.0.0.0 spookshow.net
+0.0.0.0 gamerotic.com^$ghide
+0.0.0.0 thegraillords.net
+0.0.0.0 bdotemplates.com/wp-content/plugins/bdo-adblock-notice/
+0.0.0.0 worldscientific.com
+0.0.0.0 me3tweaks.com
+0.0.0.0 tastycookery.com
+0.0.0.0 resdz.com^$ghide
+0.0.0.0 airlinercafe.com
+0.0.0.0 ricochet.media^$ghide
+0.0.0.0 hukmatpro.*alisbach.com
+0.0.0.0 linuxslaves.com
+0.0.0.0 nakblogz.top
+0.0.0.0 halotracker.com
+0.0.0.0 fosshub.com
+0.0.0.0 juancarlosmolinos.net
+0.0.0.0 stoneyroads.com
+0.0.0.0 pokemonforever.com
+0.0.0.0 businessemailetiquette.com
+0.0.0.0 liveonsat.com
+0.0.0.0 bucketpages.com
+0.0.0.0 xiaomi4mi.com
+0.0.0.0 evades.io
+0.0.0.0 orlygift.com^$ghide
+0.0.0.0 orlygift.com
+0.0.0.0 heroescommunity.com
+0.0.0.0 xhardhempus.com
+0.0.0.0 navcomic.com/wp-content/uploads/*/ad-blocking.gif$image,1p
+0.0.0.0 steptalk.org
+0.0.0.0 short-story.net
+0.0.0.0 hindi-gk.com
+0.0.0.0 upsrtconline.co.in
+0.0.0.0 newsbook.pl
+0.0.0.0 cmg24.pl
+0.0.0.0 ligowiec.net
+0.0.0.0 radio5.com.pl
+0.0.0.0 romet.pl
+0.0.0.0 sat-charts.eu
+0.0.0.0 trentino.pl
+0.0.0.0 pcpobierz.pl
+0.0.0.0 roztoczanskipn.pl
+0.0.0.0 malybelgrad.pl
+0.0.0.0 skionline.*
+0.0.0.0 carsguide.com.au
+0.0.0.0 dermatologytimes.com^$ghide
+0.0.0.0 motherjones.com
+0.0.0.0 boerse-express.com
+0.0.0.0 kurazone.net
+0.0.0.0 techtrickseo.com
+0.0.0.0 videohelp.com
+0.0.0.0 calorielijst.nl
+0.0.0.0 humo.be
+0.0.0.0 polygon.com
+0.0.0.0 economictimes.indiatimes.com
+0.0.0.0 timponline.ro
+0.0.0.0 numberempire.com
+0.0.0.0 singingdalong.blogspot.com
+0.0.0.0 apksecured.com
+0.0.0.0 neobux.com
+0.0.0.0 qualityfilehosting.com
+0.0.0.0 ideapod.com
+0.0.0.0 androidmtk.com
+0.0.0.0 dba-oracle.com
+0.0.0.0 apornstories.com
+0.0.0.0 randomstory.org
+0.0.0.0 filmesonlinex.co
+0.0.0.0 booksmedicos.org
+0.0.0.0 proxfree.com
+0.0.0.0 instagram.com
+0.0.0.0 md5hashing.net^$ghide
+0.0.0.0 md5hashing.net
+0.0.0.0 siliconinvestor.com
+0.0.0.0 jobsbotswana.info
+0.0.0.0 102bank.com
+0.0.0.0 80beyond.spacestation-online.com
+0.0.0.0 b4usa.com
+0.0.0.0 badgerandblade.com
+0.0.0.0 mzk.starachowice.eu
+0.0.0.0 algosit.com^
+0.0.0.0 republicadecuritiba.net
+0.0.0.0 merchoid.com
+0.0.0.0 gaypornwave.com^$csp=script-src *
+0.0.0.0 gaypornwave.com
+0.0.0.0 topspeed.com^$ghide
+0.0.0.0 topspeed.com
+0.0.0.0 mywrestling.com.pl^$ghide
+0.0.0.0 webwereld.nl
+0.0.0.0 sbenny.com
+0.0.0.0 forum.sbenny.com
+0.0.0.0 wp.com/wp-content/themes/vip/pmc-plugins/$script,domain=deadline.com
+0.0.0.0 howjsay.com
+0.0.0.0 vpnmentor.com
+0.0.0.0 informagiovani-italia.com
+0.0.0.0 bigleaguepolitics.com^$ghide
+0.0.0.0 techsupportall.com
+0.0.0.0 badayak.com
+0.0.0.0 fin24.com
+0.0.0.0 djelfa.info
+0.0.0.0 palemoon.org
+0.0.0.0 portableapps.com
+0.0.0.0 animeunity.it
+0.0.0.0 theartofnakedwoman.*
+0.0.0.0 j-lyric.net
+0.0.0.0 cagesideseats.com
+0.0.0.0 /wp-content/plugins/christmasify/*
+0.0.0.0 space-engineers.de
+0.0.0.0 motogon.ru
+0.0.0.0 soundonsound.com^$ghide
+0.0.0.0 jrocknews.com^$ghide
+0.0.0.0 aulete.com.br
+0.0.0.0 npnews24.com
+0.0.0.0 runningnews.gr
+0.0.0.0 *.gif$image,domain=runningnews.gr
+0.0.0.0 gordiando.com.br
+0.0.0.0 */wp-content/plugins/wp-content-copy-protection/*
+0.0.0.0 mercurynews.com
+0.0.0.0 megawypas.com
+0.0.0.0 wheel-size.com
+0.0.0.0 creditonebank.com^$ghide
+0.0.0.0 demolandia.net
+0.0.0.0 kirannewsagency.com
+0.0.0.0 aoezone.net
+0.0.0.0 otempo.com.br
+0.0.0.0 meteo.org.pl
+0.0.0.0 r7.com
+0.0.0.0 insurance-corporate.blogspot.com
+0.0.0.0 fordogtrainers.pl
+0.0.0.0 clk.sh
+0.0.0.0 shrinkearn.com
+0.0.0.0 europixhd.*
+0.0.0.0 topeuropix.*
+0.0.0.0 fanfiction.net
+0.0.0.0 fictionpress.com
+0.0.0.0 xnxx.com
+0.0.0.0 pagead2.googlesyndication.com/pagead/*$image,domain=free-scores.com
+0.0.0.0 radioony.fm
+0.0.0.0 polskacanada.com
+0.0.0.0 lugarcerto.com.br
+0.0.0.0 windowscentral.com
+0.0.0.0 gezimanya.com
+0.0.0.0 starsunfolded.com
+0.0.0.0 cmjornal.pt
+0.0.0.0 randaris.app
+0.0.0.0 ctrl.blog
+0.0.0.0 coffeeforums.co.uk
+0.0.0.0 coffeeforums.co.uk/banners/$image
+0.0.0.0 nachrichten.at^$ghide
+0.0.0.0 heroesneverdie.com
+0.0.0.0 wader.toys
+0.0.0.0 satcesc.com
+0.0.0.0 mexiconewsdaily.com
+0.0.0.0 technologyreview.com
+0.0.0.0 curbed.com
+0.0.0.0 eater.com
+0.0.0.0 funnyordie.com
+0.0.0.0 mmafighting.com
+0.0.0.0 mmamania.com
+0.0.0.0 racked.com
+0.0.0.0 riftherald.com
+0.0.0.0 sbnation.com
+0.0.0.0 theverge.com
+0.0.0.0 vox.com
+0.0.0.0 them4ufree.info
+0.0.0.0 bdcraft.net^$ghide
+0.0.0.0 bdcraft.net
+0.0.0.0 athletic.net
+0.0.0.0 athletic.net/css/signedOutBlur
+0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=yellowbridge.com
+0.0.0.0 diynetwork.com
+0.0.0.0 bloombergquint.com
+0.0.0.0 androidcentral.com
+0.0.0.0 eppingforestguardian.co.uk^$ghide
+0.0.0.0 eppingforestguardian.co.uk
+0.0.0.0 code.adsales.snidigital.com/lib/*/sni-ads.min.js$script,domain=travelchannel.com
+0.0.0.0 diffnow.com
+0.0.0.0 addons.opera.com
+0.0.0.0 askubuntu.com
+0.0.0.0 mathoverflow.net
+0.0.0.0 serverfault.com
+0.0.0.0 stackapps.com
+0.0.0.0 stackexchange.com
+0.0.0.0 superuser.com
+0.0.0.0 mrfood.com
+0.0.0.0 thredup.com
+0.0.0.0 quizlet.com^$ghide
+0.0.0.0 quizlet.com
+0.0.0.0 feedspot.com
+0.0.0.0 volunteermatch.org
+0.0.0.0 theclever.com
+0.0.0.0 discussion.evernote.com
+0.0.0.0 prestashop.com
+0.0.0.0 bookbub.com
+0.0.0.0 ndtv.com
+0.0.0.0 facebook.com
+0.0.0.0 facebookcorewwwi.onion
+0.0.0.0 facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 touch.facebook.com
+0.0.0.0 mtouch.facebook.com
+0.0.0.0 x.facebook.com
+0.0.0.0 iphone.facebook.com
+0.0.0.0 m.beta.facebook.com
+0.0.0.0 touch.beta.facebook.com
+0.0.0.0 mtouch.beta.facebook.com
+0.0.0.0 x.beta.facebook.com
+0.0.0.0 iphone.beta.facebook.com
+0.0.0.0 touch.facebookcorewwwi.onion
+0.0.0.0 mtouch.facebookcorewwwi.onion
+0.0.0.0 x.facebookcorewwwi.onion
+0.0.0.0 iphone.facebookcorewwwi.onion
+0.0.0.0 touch.beta.facebookcorewwwi.onion
+0.0.0.0 m.facebook.com
+0.0.0.0 m.facebookcorewwwi.onion
+0.0.0.0 b-m.facebook.com
+0.0.0.0 b-m.facebookcorewwwi.onion
+0.0.0.0 mobile.facebook.com
+0.0.0.0 mobile.facebookcorewwwi.onion
+0.0.0.0 touch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 mtouch.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 x.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 iphone.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 touch.beta.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 b-m.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 mobile.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 quora.com
+0.0.0.0 tecnotutoshd.net
+0.0.0.0 ruwix.com
+0.0.0.0 revolvermag.com
+0.0.0.0 /emma-content-aggregates-prd.
+0.0.0.0 knowablemagazine.org
+0.0.0.0 insidesources.com
+0.0.0.0 flashbak.com
+0.0.0.0 geneticliteracyproject.org
+0.0.0.0 marijuanamoment.net
+0.0.0.0 naturalblaze.com
+0.0.0.0 saludmovil.com
+0.0.0.0 thebaffler.com
+0.0.0.0 undark.org
+0.0.0.0 wealthydoc.org
+0.0.0.0 banglainsider.com
+0.0.0.0 akamaized.net/assets/*/ig-canais-noticias.min.js$script
+0.0.0.0 domain=ig.com.br
+0.0.0.0 airfactsjournal.com
+0.0.0.0 newmatilda.com
+0.0.0.0 kqed.org
+0.0.0.0 behance.net
+0.0.0.0 zulily.com
+0.0.0.0 kpopjjang.com
+0.0.0.0 fantricks.com
+0.0.0.0 steelersdepot.com
+0.0.0.0 musicbusinessworldwide.com
+0.0.0.0 listatv.pl
+0.0.0.0 dzwignice.info
+0.0.0.0 rp5.by
+0.0.0.0 psychologiazycia.com
+0.0.0.0 bibliacatolica.com.br
+0.0.0.0 script-stack.com
+0.0.0.0 mio.to
+0.0.0.0 priberam.org
+0.0.0.0 thedisconnect.co
+0.0.0.0 breakingdefense.com
+0.0.0.0 theintercept.com
+0.0.0.0 prod.theintercept.com^$subdocument,1p
+0.0.0.0 salary.com
+0.0.0.0 fearlesssalarynegotiation.com
+0.0.0.0 postandcourier.com
+0.0.0.0 */bioep.js$script,domain=~tomshw.it
+0.0.0.0 tomshw.it
+0.0.0.0 wizcase.com
+0.0.0.0 ionos.de
+0.0.0.0 yoututosjeff.es
+0.0.0.0 autoblog.com
+0.0.0.0 emeraldchat.com/user_is_temp
+0.0.0.0 emeraldchat.com/sw.js$script,1p
+0.0.0.0 cepuluh.com
+0.0.0.0 globalnews.ca^$ghide
+0.0.0.0 globalnews.ca
+0.0.0.0 dailymail.co.uk
+0.0.0.0 dailymail.co.uk#@#+js(aopr, confirm)
+0.0.0.0 fmovies.*#@#.fa-rss
+0.0.0.0 software-on.com
+0.0.0.0 linkedin.com
+0.0.0.0 l2gamers.cl
+0.0.0.0 husseinezzat.com
+0.0.0.0 wired.co.uk
+0.0.0.0 twinkietown.com
+0.0.0.0 statelibrary.us
+0.0.0.0 dcdirtylaundry.com^$ghide
+0.0.0.0 sostariffe.it^$ghide
+0.0.0.0 amlesson.ru
+0.0.0.0 infomoney.com.br
+0.0.0.0 playonlinux.com
+0.0.0.0 tabonitobrasil.*
+0.0.0.0 tunovelaligera.com
+0.0.0.0 auepaisagismo.com
+0.0.0.0 auepaisajismo.com
+0.0.0.0 zdnet.de
+0.0.0.0 cinemablend.com
+0.0.0.0 bigulnews.tv
+0.0.0.0 metabattle.com^$ghide
+0.0.0.0 targetstudy.com
+0.0.0.0 discordapp.com
+0.0.0.0 gq-magazine.co.uk
+0.0.0.0 turbolab.it
+0.0.0.0 medicalnewstoday.com
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 music.youtube.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtubekids.com
+0.0.0.0 buienradar.nl
+0.0.0.0 lightboxcdn.com^$domain=foreignpolicy.com
+0.0.0.0 foreignpolicy.com
+0.0.0.0 luoghidavedere.it
+0.0.0.0 msn.com
+0.0.0.0 glamourmagazine.co.uk
+0.0.0.0 9xbuddy.com
+0.0.0.0 megatube.xxx
+0.0.0.0 dostfilms.*
+0.0.0.0 kimovil.*
+0.0.0.0 taxo-acc.pl
+0.0.0.0 lookmovie.ag
+0.0.0.0 500ish.com
+0.0.0.0 artplusmarketing.com
+0.0.0.0 atrium.co
+0.0.0.0 backchannel.com
+0.0.0.0 backstage.1blocker.com
+0.0.0.0 badootech.badoo.com
+0.0.0.0 baharudinyusuf.com
+0.0.0.0 bitcointechtalk.com
+0.0.0.0 blog.bitsrc.io
+0.0.0.0 blog.inkdrop.app
+0.0.0.0 bitwarden.com
+0.0.0.0 blog.coinbase.com
+0.0.0.0 blog.confiant.com
+0.0.0.0 blog.devcolor.org
+0.0.0.0 blog.growthhackers.com
+0.0.0.0 blog.hiri.com
+0.0.0.0 blog.ltse.com
+0.0.0.0 blog.statebox.org
+0.0.0.0 blog.twitch.tv
+0.0.0.0 blog.waffle.io
+0.0.0.0 bluerockpublicradio.com
+0.0.0.0 bolt.io
+0.0.0.0 boomsupersonic.com
+0.0.0.0 bradfieldcs.com
+0.0.0.0 brightthemag.com
+0.0.0.0 broadcast.listennotes.com
+0.0.0.0 checkio.org
+0.0.0.0 citizen428.net
+0.0.0.0 coach.me
+0.0.0.0 codeburst.io
+0.0.0.0 dave-bailey.com
+0.0.0.0 doist.com
+0.0.0.0 doit-intl.com
+0.0.0.0 dotandline.net
+0.0.0.0 doublepulsar.com
+0.0.0.0 economist.com
+0.0.0.0 electricliterature.com
+0.0.0.0 elidourado.com
+0.0.0.0 esciencecenter.nl
+0.0.0.0 faun.pub
+0.0.0.0 fossa.io
+0.0.0.0 freecodecamp.org
+0.0.0.0 fritz.ai
+0.0.0.0 getadblock.com
+0.0.0.0 levelup.gitconnected.com
+0.0.0.0 greylock.com
+0.0.0.0 headmelted.com
+0.0.0.0 helium.com
+0.0.0.0 howwegettonext.com
+0.0.0.0 iheart.com
+0.0.0.0 injusticetoday.com
+0.0.0.0 insightdatascience.com
+0.0.0.0 iota.org
+0.0.0.0 itnext.io
+0.0.0.0 itsyourturnblog.com
+0.0.0.0 jupyter.org
+0.0.0.0 keepingstock.net
+0.0.0.0 kiwi.com
+0.0.0.0 learngoprogramming.com
+0.0.0.0 learningbyshipping.com
+0.0.0.0 ledwards.com
+0.0.0.0 legalist.com
+0.0.0.0 logrocket.com
+0.0.0.0 mapbox.com
+0.0.0.0 medium.com
+0.0.0.0 melmagazine.com
+0.0.0.0 mondaynote.com
+0.0.0.0 newco.co
+0.0.0.0 news.smugmug.com
+0.0.0.0 nyulocal.com
+0.0.0.0 ofdollarsanddata.com
+0.0.0.0 okmeter.io
+0.0.0.0 open.nytimes.com
+0.0.0.0 osintteam.blog
+0.0.0.0 javascript.plainenglish.io
+0.0.0.0 postlight.com
+0.0.0.0 proandroiddev.com
+0.0.0.0 prototypr.io
+0.0.0.0 rainway.io
+0.0.0.0 sagefy.org
+0.0.0.0 signalvnoise.com
+0.0.0.0 slack.engineering
+0.0.0.0 slackhq.com
+0.0.0.0 springboard.com
+0.0.0.0 standardnotes.org
+0.0.0.0 startupsventurecapital.com
+0.0.0.0 stoplight.io
+0.0.0.0 tech.buzzfeed.com
+0.0.0.0 theabacus.io
+0.0.0.0 theawl.com
+0.0.0.0 thebigroundtable.com
+0.0.0.0 thebillfold.com
+0.0.0.0 thebolditalic.com
+0.0.0.0 thecontrol.co
+0.0.0.0 theringer.com
+0.0.0.0 thinkprogress.org
+0.0.0.0 thriveglobal.com
+0.0.0.0 timeline.com
+0.0.0.0 towardsdatascience.com
+0.0.0.0 udacity.com
+0.0.0.0 unpatent.co
+0.0.0.0 usejournal.com
+0.0.0.0 uxdesign.cc
+0.0.0.0 uxplanet.org
+0.0.0.0 warisboring.com
+0.0.0.0 wearemel.com
+0.0.0.0 whatahowler.com
+0.0.0.0 x.company
+0.0.0.0 blog.canopas.com
+0.0.0.0 blog.dp6.com.br
+0.0.0.0 blog.angular.io
+0.0.0.0 thetaoist.online
+0.0.0.0 writingcooperative.com
+0.0.0.0 tech.ahrefs.com
+0.0.0.0 chimica-online.it
+0.0.0.0 coag.pl
+0.0.0.0 quicksleeper.pl
+0.0.0.0 dispatch.com
+0.0.0.0 elektro-plast.com.pl
+0.0.0.0 lifo.gr
+0.0.0.0 australianfrequentflyer.com.au
+0.0.0.0 dev.mysql.com
+0.0.0.0 anisearch.com#@
+0.0.0.0 context.reverso.net
+0.0.0.0 hardware.info
+0.0.0.0 med1.de
+0.0.0.0 mentalmars.com^$ghide
+0.0.0.0 neowin.net
+0.0.0.0 lexlog.pl
+0.0.0.0 independent.ie^$ghide
+0.0.0.0 softwaretestinghelp.com
+0.0.0.0 nzz.ch^$ghide
+0.0.0.0 nzz.ch
+0.0.0.0 watson.de
+0.0.0.0 watson.ch
+0.0.0.0 babel.com
+0.0.0.0 airbnbhell.com^$ghide
+0.0.0.0 clk.ink
+0.0.0.0 smashboards.com
+0.0.0.0 yeane.org
+0.0.0.0 bitblokes.de
+0.0.0.0 recantodasletras.com.br
+0.0.0.0 cdnjs.cloudflare.com/ajax/libs/blockadblock/*/blockadblock.min.js$script,domain=starblast.io
+0.0.0.0 starblast.io^$ghide
+0.0.0.0 *$script,redirect-rule=noopjs,domain=starblast.io
+0.0.0.0 vedbex.com
+0.0.0.0 vedbex.com/*banners$image
+0.0.0.0 vedbex.com/*/sponsers$image
+0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=files2zip.com
+0.0.0.0 files2zip.com
+0.0.0.0 enotes.com
+0.0.0.0 mtbtutoriales.com
+0.0.0.0 wired.com^$ghide
+0.0.0.0 news.chosun.com
+0.0.0.0 portalwrc.pl
+0.0.0.0 belfasttelegraph.co.uk^$ghide
+0.0.0.0 answersafrica.com
+0.0.0.0 /wp-content/plugins/content-protector-pack/*
+0.0.0.0 tomsguide.com
+0.0.0.0 flightaware.com^$ghide
+0.0.0.0 lesoir.be
+0.0.0.0 xe.gr
+0.0.0.0 typing-speed.net^$ghide
+0.0.0.0 plagiarisma.net
+0.0.0.0 felico.pl
+0.0.0.0 practicetestgeeks.com
+0.0.0.0 chowhound.com
+0.0.0.0 bold.dk
+0.0.0.0 liverpool.no
+0.0.0.0 mainframestechhelp.com
+0.0.0.0 mainframegurukul.com
+0.0.0.0 as.com^$ghide
+0.0.0.0 as.com
+0.0.0.0 digicular.com
+0.0.0.0 1009thecat.com
+0.0.0.0 1013katy.com
+0.0.0.0 1013themix.com
+0.0.0.0 1015jackfm.com
+0.0.0.0 1015khits.com
+0.0.0.0 1015thefox.com
+0.0.0.0 1017thebeach.com
+0.0.0.0 1017theteam.com
+0.0.0.0 1019hot.com
+0.0.0.0 1019online.com
+0.0.0.0 1019thekeg.com
+0.0.0.0 101thefox.net
+0.0.0.0 101wkqx.com
+0.0.0.0 1021nashicon.com
+0.0.0.0 1021thefox.com
+0.0.0.0 1023thewolf.com
+0.0.0.0 1025jackfm.com
+0.0.0.0 1027thevibe.com
+0.0.0.0 1029nashicon.com
+0.0.0.0 102thebear.com
+0.0.0.0 1031nowfm.com
+0.0.0.0 1031radiom.com
+0.0.0.0 1035memphis.com
+0.0.0.0 1035thegame.com
+0.0.0.0 1035wrbo.com
+0.0.0.0 1037nash.com
+0.0.0.0 1039bobfm.com
+0.0.0.0 1039wvbo.com
+0.0.0.0 1041wdlt.com
+0.0.0.0 1043thebridge.com
+0.0.0.0 1043thebridge.net
+0.0.0.0 1043thevibe.com
+0.0.0.0 1045thedan.com
+0.0.0.0 1045thezone.com
+0.0.0.0 1045wjjk.com
+0.0.0.0 1047krez.com
+0.0.0.0 1049nashicon.com
+0.0.0.0 1049thehits.com
+0.0.0.0 104thehawk.com
+0.0.0.0 1050talk.com
+0.0.0.0 1053classichits.com
+0.0.0.0 1053hotfm.com
+0.0.0.0 1053thebear.com
+0.0.0.0 1053thepoint.com
+0.0.0.0 1053thepoint.net
+0.0.0.0 1053wow.com
+0.0.0.0 1055kbuck.com
+0.0.0.0 1055thecat.com
+0.0.0.0 1057kokz.com
+0.0.0.0 1057nowfm.com
+0.0.0.0 1057thebear.com
+0.0.0.0 1057thex.com
+0.0.0.0 1057thexrocks.com
+0.0.0.0 1061theunderground.com
+0.0.0.0 1063spinfm.com
+0.0.0.0 1063thevibe.com
+0.0.0.0 1063wovo.com
+0.0.0.0 1065theticket.com
+0.0.0.0 1067thekrewe.com
+0.0.0.0 106x.com
+0.0.0.0 1070wnct.com
+0.0.0.0 1071bobfm.com
+0.0.0.0 1071thepeak.com
+0.0.0.0 1071thepoint.com
+0.0.0.0 1073wsjy.com
+0.0.0.0 1075nowfm.com
+0.0.0.0 1075thegame.com
+0.0.0.0 1077lakefm.com
+0.0.0.0 1077thebone.com
+0.0.0.0 1077theisland.com
+0.0.0.0 1079nashicon.com
+0.0.0.0 107countrypsk.com
+0.0.0.0 107nashicon.com
+0.0.0.0 1090kaay.com
+0.0.0.0 1220wkrs.com
+0.0.0.0 1230espnsports.com
+0.0.0.0 1230theteam.com
+0.0.0.0 1280wnam.com
+0.0.0.0 1290wlby.com
+0.0.0.0 1320thefan.com
+0.0.0.0 1340wmsa.com
+0.0.0.0 1430wcmy.com
+0.0.0.0 1450kven.com
+0.0.0.0 1480kyos.com
+0.0.0.0 1490wosh.com
+0.0.0.0 1510kga.com
+0.0.0.0 1590walg.com
+0.0.0.0 1620thezone.com
+0.0.0.0 1700thechamp.com
+0.0.0.0 2hoursmattpinfield.com
+0.0.0.0 600wrqx.com
+0.0.0.0 600wsom.com
+0.0.0.0 610knml.com
+0.0.0.0 630wpro.com
+0.0.0.0 640wxsm.com
+0.0.0.0 660wxqw.com
+0.0.0.0 680thefan.com
+0.0.0.0 770kkob.com
+0.0.0.0 790business.com
+0.0.0.0 790wpic.com
+0.0.0.0 810whb.com
+0.0.0.0 860kkat.com
+0.0.0.0 860utahsbigtalker.com
+0.0.0.0 900theticket.com
+0.0.0.0 921theticket.com
+0.0.0.0 923krst.com
+0.0.0.0 923thewolf.com
+0.0.0.0 925nashicon.com
+0.0.0.0 925thebear.com
+0.0.0.0 925thewolf.com
+0.0.0.0 927bobfm.com
+0.0.0.0 929peakfm.com
+0.0.0.0 929thewave.com
+0.0.0.0 929wbpm.com
+0.0.0.0 92kqrs.com
+0.0.0.0 92profm.com
+0.0.0.0 92qnashville.com
+0.0.0.0 931nashicon.com
+0.0.0.0 931thebeat.com
+0.0.0.0 933nashicon.com
+0.0.0.0 935nashfm.com
+0.0.0.0 935wrqn.com
+0.0.0.0 937nashicon.com
+0.0.0.0 937nowfm.com
+0.0.0.0 937themountain.com
+0.0.0.0 939northpoleradio.com
+0.0.0.0 939theville.com
+0.0.0.0 939xindy.com
+0.0.0.0 93q.com
+0.0.0.0 93wkct.com
+0.0.0.0 93x.com
+0.0.0.0 940wfaw.com
+0.0.0.0 941ksky.com
+0.0.0.0 941thebear.com
+0.0.0.0 941thehits.com
+0.0.0.0 945thedrive.com
+0.0.0.0 945thehawkradio.com
+0.0.0.0 947qdr.com
+0.0.0.0 947wls.com
+0.0.0.0 949kcmo.com
+0.0.0.0 949radiojondeek.com
+0.0.0.0 949starcountry.com
+0.0.0.0 949theoutlaw.com
+0.0.0.0 94rockradio.net
+0.0.0.0 951nashfm.com
+0.0.0.0 951kbby.com
+0.0.0.0 953hlf.com
+0.0.0.0 953thebeach.com
+0.0.0.0 953thescore.com
+0.0.0.0 955bobfm.com
+0.0.0.0 955glo.com
+0.0.0.0 955nashicon.com
+0.0.0.0 955thefan.com
+0.0.0.0 955thevibe.com
+0.0.0.0 957kboy.com
+0.0.0.0 957kpur.com
+0.0.0.0 957nashicon.com
+0.0.0.0 957thevibe.com
+0.0.0.0 957thewolfonline.com
+0.0.0.0 959therocket.com
+0.0.0.0 95sx.com
+0.0.0.0 95wiil.com
+0.0.0.0 95x.com
+0.0.0.0 961bbb.com
+0.0.0.0 961jamz.com
+0.0.0.0 961sox.com
+0.0.0.0 961wsox.com
+0.0.0.0 963nashicon.com
+0.0.0.0 963thezone.com
+0.0.0.0 963wdvd.com
+0.0.0.0 967shinefm.com
+0.0.0.0 969lacaliente.com
+0.0.0.0 969thewolf.com
+0.0.0.0 96key.com
+0.0.0.0 96kzel.com
+0.0.0.0 973eagle.com
+0.0.0.0 973nashfm.com
+0.0.0.0 975kabx.com
+0.0.0.0 975thevibe.com
+0.0.0.0 975wabd.com
+0.0.0.0 979nashfm.com
+0.0.0.0 979espnradio.com
+0.0.0.0 979nashicon.com
+0.0.0.0 979wvok.com
+0.0.0.0 979x.com
+0.0.0.0 97bht.com
+0.0.0.0 97rock.com
+0.0.0.0 980waav.com
+0.0.0.0 980wxlm.com
+0.0.0.0 981thebeat.com
+0.0.0.0 981themax.com
+0.0.0.0 981thevalley.com
+0.0.0.0 983nashicon.com
+0.0.0.0 983thekeg.com
+0.0.0.0 983vibe.com
+0.0.0.0 983wlcs.com
+0.0.0.0 985kissfm.net
+0.0.0.0 989magicfm.com
+0.0.0.0 989thebridge.com
+0.0.0.0 98theticket.com
+0.0.0.0 993kjoy.com
+0.0.0.0 995thejock.com
+0.0.0.0 995thewolf.com
+0.0.0.0 997cyk.com
+0.0.0.0 997cyk.org
+0.0.0.0 997kmjj.com
+0.0.0.0 997themix.com
+0.0.0.0 997wpro.com
+0.0.0.0 997wtn.com
+0.0.0.0 999thebuzz.com
+0.0.0.0 999thefoxrocks.com
+0.0.0.0 999thehawk.com
+0.0.0.0 99x.com
+0.0.0.0 kjmo.com
+0.0.0.0 nashfm100.com
+0.0.0.0 nashfm923krst.com
+0.0.0.0 nashfm1033.com
+0.0.0.0 nashfm1055.com
+0.0.0.0 nashfm929.com
+0.0.0.0 nashfm931.com
+0.0.0.0 nashfm941.com
+0.0.0.0 nashfm949.com
+0.0.0.0 nashfm981.com
+0.0.0.0 nashfmwisconsin.com
+0.0.0.0 nashicon989.com
+0.0.0.0 v100rocks.com
+0.0.0.0 albanymagic.com
+0.0.0.0 alice1077.com
+0.0.0.0 allthehitsb951.com
+0.0.0.0 alt1019.com
+0.0.0.0 alt1049albany.com
+0.0.0.0 alt2k.com
+0.0.0.0 alt923.com
+0.0.0.0 alt98.com
+0.0.0.0 am630.net
+0.0.0.0 amarillosrockstation.com
+0.0.0.0 americanpatriotmedia.com
+0.0.0.0 annarbors107one.com
+0.0.0.0 atlantasrockstation.com
+0.0.0.0 atlsportsx.com
+0.0.0.0 b106fm.com
+0.0.0.0 b1073.com
+0.0.0.0 b95.com
+0.0.0.0 b979.net
+0.0.0.0 b98.com
+0.0.0.0 b985slo.com
+0.0.0.0 b987.com
+0.0.0.0 bakersfieldespn.com
+0.0.0.0 bakersfieldespnsports.com
+0.0.0.0 beach985.com
+0.0.0.0 beachboogieandblues.com
+0.0.0.0 bear104.com
+0.0.0.0 big1013.com
+0.0.0.0 bigcheese1079.com
+0.0.0.0 bigcountry1073.com
+0.0.0.0 bigdawg985.com
+0.0.0.0 bigdog1067.com
+0.0.0.0 bigfrog101.com
+0.0.0.0 bigfroggy1053.com
+0.0.0.0 bigtalk1490.com
+0.0.0.0 blairgarner.com
+0.0.0.0 blazin1023.com
+0.0.0.0 blazin923.com
+0.0.0.0 bloomingtonhits.com
+0.0.0.0 bobfmspringfield.com
+0.0.0.0 bowlinggreensam.com
+0.0.0.0 bull973.com
+0.0.0.0 bxr.com
+0.0.0.0 caperadio1550.com
+0.0.0.0 catcountry.com
+0.0.0.0 catcountry96.com
+0.0.0.0 catcountryvermont.com
+0.0.0.0 cbssports1430.com
+0.0.0.0 cbssportserie.com
+0.0.0.0 cbssportsharrisburg.com
+0.0.0.0 cbssportsradio1430.com
+0.0.0.0 chicothunderheads.com
+0.0.0.0 christmas989.com
+0.0.0.0 ckrv.com
+0.0.0.0 classicfox.com
+0.0.0.0 classichits1033.com
+0.0.0.0 classichitsmy1059.com
+0.0.0.0 classichitswnyq.com
+0.0.0.0 classy100.com
+0.0.0.0 coast1013.com
+0.0.0.0 coast973.com
+0.0.0.0 country105fm.net
+0.0.0.0 countrycountdownusa.com
+0.0.0.0 countrylegends1059.com
+0.0.0.0 countrymi.com
+0.0.0.0 coyote1025.com
+0.0.0.0 cumulusdigital.com
+0.0.0.0 digitalsolutions201.com
+0.0.0.0 e93fm.com
+0.0.0.0 eagle97.com
+0.0.0.0 eagle993.com
+0.0.0.0 easy991.com
+0.0.0.0 ed.fm
+0.0.0.0 elizabethtownradio.com
+0.0.0.0 energy939indy.com
+0.0.0.0 espn1320columbia.com
+0.0.0.0 espn910.com
+0.0.0.0 espnhonolulu.com
+0.0.0.0 espnlouisville.com
+0.0.0.0 espnlv.com
+0.0.0.0 espnradio1280.com
+0.0.0.0 espnradio927.com
+0.0.0.0 espnradio941.com
+0.0.0.0 espnsyracuse.com
+0.0.0.0 espnur.com
+0.0.0.0 espnwestpalm.com
+0.0.0.0 espnwilmington.com
+0.0.0.0 fly92.com
+0.0.0.0 fly923.com
+0.0.0.0 fm102milwaukee.com
+0.0.0.0 fm102one.com
+0.0.0.0 fonzfm.com
+0.0.0.0 forevereaston.com
+0.0.0.0 forevermediayork.com
+0.0.0.0 fox969.com
+0.0.0.0 foxcincinnati.com
+0.0.0.0 foxsportsredding.com
+0.0.0.0 froggy1003.com
+0.0.0.0 froggy101fm.com
+0.0.0.0 froggy981.com
+0.0.0.0 froggy99.net
+0.0.0.0 froggycountry.net
+0.0.0.0 froggyland.com
+0.0.0.0 fuego1029.com
+0.0.0.0 fun1013.com
+0.0.0.0 fun969fm.com
+0.0.0.0 generations1023.com
+0.0.0.0 glory985.com
+0.0.0.0 go106.com
+0.0.0.0 goradioheartland.com
+0.0.0.0 gospel900.com
+0.0.0.0 gulf104.com
+0.0.0.0 heaven1460.com
+0.0.0.0 heaven983.com
+0.0.0.0 hitkicker997.com
+0.0.0.0 hitpage.com
+0.0.0.0 hits931fm.com
+0.0.0.0 hits96.com
+0.0.0.0 hits965.com
+0.0.0.0 hot1005.com
+0.0.0.0 hot100blono.com
+0.0.0.0 hot100nrv.com
+0.0.0.0 hot101.com
+0.0.0.0 hot102.net
+0.0.0.0 hot1033.com
+0.0.0.0 hot1039.com
+0.0.0.0 hot1047fm.com
+0.0.0.0 hot1057.com
+0.0.0.0 hot1063.com
+0.0.0.0 hot1067fm.com
+0.0.0.0 hot1067pa.com
+0.0.0.0 hot1077radio.com
+0.0.0.0 hot92and100.com
+0.0.0.0 hot933hits.com
+0.0.0.0 hot941.com
+0.0.0.0 hot967fm.com
+0.0.0.0 hvradionet.com
+0.0.0.0 i973hits.com
+0.0.0.0 ilovethehits.com
+0.0.0.0 indysmix.com
+0.0.0.0 jammin999fm.com
+0.0.0.0 jamz963.com
+0.0.0.0 jox2fm.com
+0.0.0.0 joxfm.com
+0.0.0.0 k100country.com
+0.0.0.0 k104online.com
+0.0.0.0 k105country.com
+0.0.0.0 k92radio.com
+0.0.0.0 k983.com
+0.0.0.0 kabc.com
+0.0.0.0 kaok.com
+0.0.0.0 kaperadio1550.com
+0.0.0.0 katm.com
+0.0.0.0 katt.com
+0.0.0.0 kbcy.com
+0.0.0.0 kber.com
+0.0.0.0 kboi.com
+0.0.0.0 kbul.com
+0.0.0.0 kbull93.com
+0.0.0.0 kcchiefsradio.com
+0.0.0.0 kcheradio.com
+0.0.0.0 kcmotalkradio.com
+0.0.0.0 kcmxam.com
+0.0.0.0 kennradio.com
+0.0.0.0 kernradio.com
+0.0.0.0 kesn1033.com
+0.0.0.0 key101fm.com
+0.0.0.0 kfru.com
+0.0.0.0 kftx.com
+0.0.0.0 kgfm.com
+0.0.0.0 kgfw.com
+0.0.0.0 kggo.com
+0.0.0.0 kgmo.com
+0.0.0.0 kgoradio.com
+0.0.0.0 khay.com
+0.0.0.0 khfm.com
+0.0.0.0 khfm.org
+0.0.0.0 khit1075.com
+0.0.0.0 khop.com
+0.0.0.0 khvl.com
+0.0.0.0 kiimfm.com
+0.0.0.0 kiss-1031.com
+0.0.0.0 kix1029.com
+0.0.0.0 kix106.com
+0.0.0.0 kix96.com
+0.0.0.0 kizn.com
+0.0.0.0 kjjy.com
+0.0.0.0 kjoy.com
+0.0.0.0 kkcy.com
+0.0.0.0 kkfm.com
+0.0.0.0 kkgb.com
+0.0.0.0 kkgl.com
+0.0.0.0 kkoh.com
+0.0.0.0 klif.com
+0.0.0.0 klik1240.com
+0.0.0.0 klin.com
+0.0.0.0 klur.com
+0.0.0.0 kmaj.com
+0.0.0.0 kmaj1440.com
+0.0.0.0 kmez1029.com
+0.0.0.0 kmjnow.com
+0.0.0.0 knbr.com
+0.0.0.0 knek.com
+0.0.0.0 kobfm.com
+0.0.0.0 kpla.com
+0.0.0.0 kpur107.com
+0.0.0.0 kqfc.com
+0.0.0.0 kqky.com
+0.0.0.0 kqms.com
+0.0.0.0 kqxy.com
+0.0.0.0 krbe.com
+0.0.0.0 krmd.com
+0.0.0.0 krny.com
+0.0.0.0 krrq.com
+0.0.0.0 krush925.com
+0.0.0.0 kruz1033.com
+0.0.0.0 ksam1017.com
+0.0.0.0 kscrhits.com
+0.0.0.0 kscs.com
+0.0.0.0 ksfo.com
+0.0.0.0 kshasta.com
+0.0.0.0 ksks.com
+0.0.0.0 ksmb.com
+0.0.0.0 ktcx.com
+0.0.0.0 ktik.com
+0.0.0.0 ktop1490.com
+0.0.0.0 ktucam.com
+0.0.0.0 kubaradio.com
+0.0.0.0 kubb.com
+0.0.0.0 kugn.com
+0.0.0.0 kuzz.com
+0.0.0.0 kuzzradio.com
+0.0.0.0 kvor.com
+0.0.0.0 kwin.com
+0.0.0.0 kwwr.com
+0.0.0.0 kxel.com
+0.0.0.0 kxzz1580am.com
+0.0.0.0 kyis.com
+0.0.0.0 kykz.com
+0.0.0.0 kzwafm.com
+0.0.0.0 la103.com
+0.0.0.0 laindomable.com
+0.0.0.0 laleync.com
+0.0.0.0 lanuevaomaha.com
+0.0.0.0 lite102.com
+0.0.0.0 literock105fm.com
+0.0.0.0 love105fm.com
+0.0.0.0 lvfoxsports.com
+0.0.0.0 magic1029fm.com
+0.0.0.0 magic1039fm.com
+0.0.0.0 magic1069.com
+0.0.0.0 magic1073.com
+0.0.0.0 magic1073fm.com
+0.0.0.0 magic93fm.com
+0.0.0.0 magic943fm.com
+0.0.0.0 magic979wtrg.com
+0.0.0.0 magic995abq.com
+0.0.0.0 majic97monroe.com
+0.0.0.0 majicspace.com
+0.0.0.0 maverick1023.com
+0.0.0.0 max94one.com
+0.0.0.0 maxrocks.net
+0.0.0.0 mega979.com
+0.0.0.0 mgeradio.com
+0.0.0.0 milwaukeesparty.com
+0.0.0.0 mix103.com
+0.0.0.0 mix1077albany.com
+0.0.0.0 mix965.net
+0.0.0.0 modernrock987.com
+0.0.0.0 montanassuperstation.com
+0.0.0.0 movin993.com
+0.0.0.0 muskegonnashicon.com
+0.0.0.0 my1059.com
+0.0.0.0 my961.com
+0.0.0.0 myblono.com
+0.0.0.0 mycolumbiabasin.com
+0.0.0.0 myfroggy95.com
+0.0.0.0 mykiss973.com
+0.0.0.0 mymagic106.com
+0.0.0.0 mymix1051.com
+0.0.0.0 mymix1061.com
+0.0.0.0 mymix961.com
+0.0.0.0 mystar98.com
+0.0.0.0 nashcountrydaily.com
+0.0.0.0 nashdetroit.com
+0.0.0.0 nashfm1007.com
+0.0.0.0 nashfm1011.com
+0.0.0.0 nashfm1017.com
+0.0.0.0 nashfm1025.com
+0.0.0.0 nashfm1027.com
+0.0.0.0 nashfm1061.com
+0.0.0.0 nashfm1065.com
+0.0.0.0 nashfm923.com
+0.0.0.0 nashfm937.com
+0.0.0.0 nashfm943.com
+0.0.0.0 nashfm951.com
+0.0.0.0 nashfm973.com
+0.0.0.0 nashfm991.com
+0.0.0.0 nashfmgreenbay.com
+0.0.0.0 nashfmsjo.com
+0.0.0.0 nashnightslive.net
+0.0.0.0 nashpensacola.com
+0.0.0.0 ncsportsradio.com
+0.0.0.0 nepasespnradio.com
+0.0.0.0 neuhoffmedia.com
+0.0.0.0 neuhoffmedialafayette.com
+0.0.0.0 newcountry963.com
+0.0.0.0 newsradio1029.com
+0.0.0.0 newsradio1440.com
+0.0.0.0 newsradioflorida.com
+0.0.0.0 newsradiokkob.com
+0.0.0.0 newsserver1.com
+0.0.0.0 newsserver2.com
+0.0.0.0 newsserver3.com
+0.0.0.0 newstalk1030.com
+0.0.0.0 newstalk1290koil.com
+0.0.0.0 newstalk730.com
+0.0.0.0 newstalk987.com
+0.0.0.0 newstalkwsba.com
+0.0.0.0 newswebradiocompany.net
+0.0.0.0 now937.com
+0.0.0.0 nrgmedia.com
+0.0.0.0 nrq.com
+0.0.0.0 og979.com
+0.0.0.0 okiecountry1017.com
+0.0.0.0 oldiesz104.com
+0.0.0.0 ottawaradio.net
+0.0.0.0 pensacolasjet.com
+0.0.0.0 peorias923.com
+0.0.0.0 picklefm.com
+0.0.0.0 pikefm.com
+0.0.0.0 planet1067.com
+0.0.0.0 pmbbroadcasting.com
+0.0.0.0 pmbradio.com
+0.0.0.0 power1021.com
+0.0.0.0 power103.com
+0.0.0.0 power1057.com
+0.0.0.0 power1069fm.com
+0.0.0.0 power923.com
+0.0.0.0 power94radio.com
+0.0.0.0 power955.com
+0.0.0.0 powerhits95.com
+0.0.0.0 powerslc.com
+0.0.0.0 praise1025fm.com
+0.0.0.0 purerock96.com
+0.0.0.0 q1005.com
+0.0.0.0 q1031fm.com
+0.0.0.0 q105.fm
+0.0.0.0 q1055.com
+0.0.0.0 q1061.com
+0.0.0.0 q106dot5.com
+0.0.0.0 q973radio.com
+0.0.0.0 q97country.com
+0.0.0.0 q98fm.com
+0.0.0.0 q997atlanta.com
+0.0.0.0 q99fm.com
+0.0.0.0 radio1039ny.com
+0.0.0.0 radiorockriver.com
+0.0.0.0 radiowoodstock.com
+0.0.0.0 realcountry1280whvr.com
+0.0.0.0 realcountryhv.com
+0.0.0.0 red1031.com
+0.0.0.0 red945.com
+0.0.0.0 rewind1019.com
+0.0.0.0 rickandsasha.com
+0.0.0.0 rock101.net
+0.0.0.0 rock1015.com
+0.0.0.0 rock103albany.com
+0.0.0.0 rock103rocks.com
+0.0.0.0 rock106.net
+0.0.0.0 rock107fm.com
+0.0.0.0 rock108.com
+0.0.0.0 rock945vt.com
+0.0.0.0 rockdaily.com
+0.0.0.0 rocknews.com
+0.0.0.0 rockofsavannah.com
+0.0.0.0 rockofsavannah.net
+0.0.0.0 softrock941.com
+0.0.0.0 southernillinoisnow.com
+0.0.0.0 southernsportstoday.com
+0.0.0.0 sportsanimal920.com
+0.0.0.0 sportsanimalabq.com
+0.0.0.0 sportscapitoldc.com
+0.0.0.0 sportshubtriad.com
+0.0.0.0 sportsradio1270.com
+0.0.0.0 sportsradio1440.com
+0.0.0.0 sportsradio1560.com
+0.0.0.0 sportsradio590am.com
+0.0.0.0 sportsradio740.com
+0.0.0.0 sportsradio967.com
+0.0.0.0 sportsradio970.com
+0.0.0.0 sportsradiobeaumont.com
+0.0.0.0 sportsradioberks.com
+0.0.0.0 sportsradiownml.com
+0.0.0.0 star98.net
+0.0.0.0 starfm1023.com
+0.0.0.0 starsplash.com
+0.0.0.0 stevegormanrocks.com
+0.0.0.0 sunny1031.com
+0.0.0.0 sunny1069fm.com
+0.0.0.0 sunny923.com
+0.0.0.0 sunny983.com
+0.0.0.0 sunnymuskegon.com
+0.0.0.0 supertalk1570.com
+0.0.0.0 sweet985.com
+0.0.0.0 talk104fm.com
+0.0.0.0 talk995.com
+0.0.0.0 talkradio1007.com
+0.0.0.0 tbhpod.com
+0.0.0.0 teammyrtlebeach.com
+0.0.0.0 test107.com
+0.0.0.0 thebear925.com
+0.0.0.0 thebigjab.com
+0.0.0.0 thebigstation93blx.com
+0.0.0.0 theblairgarnershow.com
+0.0.0.0 theconclave.com
+0.0.0.0 thefan1075.com
+0.0.0.0 thefanfm.com
+0.0.0.0 thegame541.com
+0.0.0.0 thehippo.com
+0.0.0.0 thehot1039.com
+0.0.0.0 thenewhotfm.com
+0.0.0.0 thenewpulsefm.com
+0.0.0.0 thepointontheweb.com
+0.0.0.0 therebelrocks.com
+0.0.0.0 therocket951.com
+0.0.0.0 therockstationz93.com
+0.0.0.0 thescore1260.com
+0.0.0.0 thesportsanimal.com
+0.0.0.0 theticket.com
+0.0.0.0 theticket1007.com
+0.0.0.0 theticket102.com
+0.0.0.0 theticket1590.com
+0.0.0.0 theticketmi.com
+0.0.0.0 thetybentlishow.com
+0.0.0.0 thevalley981.com
+0.0.0.0 thewolf1051.com
+0.0.0.0 thewolf951.com
+0.0.0.0 thisisqmusic.com
+0.0.0.0 thunder1073.com
+0.0.0.0 triadsports.com
+0.0.0.0 tuligaradio.com
+0.0.0.0 umpsports.com
+0.0.0.0 v100fm.com
+0.0.0.0 v1033.com
+0.0.0.0 vermilioncountyfirst.com
+0.0.0.0 vermillioncountyfirst.com
+0.0.0.0 w3dcountry.com
+0.0.0.0 w4country.com
+0.0.0.0 wa1a.com
+0.0.0.0 wabcradio.com
+0.0.0.0 walk975.com
+0.0.0.0 walkradio.com
+0.0.0.0 warm1033.com
+0.0.0.0 warm98.com
+0.0.0.0 waysam.com
+0.0.0.0 wbap.com
+0.0.0.0 wbbw.com
+0.0.0.0 wbmq.net
+0.0.0.0 wbnq.com
+0.0.0.0 wbpm929.com
+0.0.0.0 wbpmfm.com
+0.0.0.0 wbwn.com
+0.0.0.0 wcbm.com
+0.0.0.0 wceiradio.com
+0.0.0.0 wcfx.com
+0.0.0.0 wchv.com
+0.0.0.0 wclg.com
+0.0.0.0 wcoapensacola.com
+0.0.0.0 wcpqfm.com
+0.0.0.0 wcpt820.com
+0.0.0.0 wcpt820.net
+0.0.0.0 wcpt820am.com
+0.0.0.0 wcpt820am.net
+0.0.0.0 wcptam.com
+0.0.0.0 wcptam.net
+0.0.0.0 wcptamfm.com
+0.0.0.0 wcptamfm.net
+0.0.0.0 wcptamfm.org
+0.0.0.0 wcpyfm.com
+0.0.0.0 wctk.com
+0.0.0.0 wddoam.com
+0.0.0.0 wden.com
+0.0.0.0 wdml.com
+0.0.0.0 wdst.com
+0.0.0.0 wdst.org
+0.0.0.0 wdzz.com
+0.0.0.0 wedg.com
+0.0.0.0 werkfm.net
+0.0.0.0 werkradio.com
+0.0.0.0 wfasam.com
+0.0.0.0 wfav951.com
+0.0.0.0 wfmd.com
+0.0.0.0 wfms.com
+0.0.0.0 wfnc640am.com
+0.0.0.0 wfre.com
+0.0.0.0 wftw.com
+0.0.0.0 wgh1310.com
+0.0.0.0 wghsolidgold.com
+0.0.0.0 wglx.com
+0.0.0.0 wgni.com
+0.0.0.0 wgow.com
+0.0.0.0 wgowam.com
+0.0.0.0 wgrr.com
+0.0.0.0 whdg.com
+0.0.0.0 wheelz1045.com
+0.0.0.0 whli.com
+0.0.0.0 whrpfm.com
+0.0.0.0 whtt.com
+0.0.0.0 whud.com
+0.0.0.0 wild1029.com
+0.0.0.0 wild1049hd.com
+0.0.0.0 wild1061.com
+0.0.0.0 wild993fm.com
+0.0.0.0 wildcatsradio1290.com
+0.0.0.0 wink104.com
+0.0.0.0 winxfm.com
+0.0.0.0 wiog.com
+0.0.0.0 wiov.com
+0.0.0.0 wiov985.com
+0.0.0.0 wivk.com
+0.0.0.0 wivr1017.com
+0.0.0.0 wizn.com
+0.0.0.0 wjbc.com
+0.0.0.0 wjcw.com
+0.0.0.0 wjez.com
+0.0.0.0 wjjr.net
+0.0.0.0 wjoxam.com
+0.0.0.0 wjr.com
+0.0.0.0 wkav.com
+0.0.0.0 wkbethepoint.com
+0.0.0.0 wkga975.com
+0.0.0.0 wkhx.com
+0.0.0.0 wkmoradio.com
+0.0.0.0 wkol.com
+0.0.0.0 wkrs.com
+0.0.0.0 wkrufm.com
+0.0.0.0 wksm.com
+0.0.0.0 wkydeportes.com
+0.0.0.0 wlaq1410.com
+0.0.0.0 wlav.com
+0.0.0.0 wlbc.com
+0.0.0.0 wlevradio.com
+0.0.0.0 wlkwradio.com
+0.0.0.0 wlok.com
+0.0.0.0 wlsam.com
+0.0.0.0 wlum.com
+0.0.0.0 wlup.com
+0.0.0.0 wlwi.com
+0.0.0.0 wmac-am.com
+0.0.0.0 wmal.com
+0.0.0.0 wmqa.com
+0.0.0.0 wncv.com
+0.0.0.0 wogb.fm
+0.0.0.0 woko.com
+0.0.0.0 womg.com
+0.0.0.0 woodstockbroadcasting.com
+0.0.0.0 woodstockcommunication.com
+0.0.0.0 woodstockradio.net
+0.0.0.0 woodstocktv.net
+0.0.0.0 wovo1063.com
+0.0.0.0 wovofm.com
+0.0.0.0 wqut.com
+0.0.0.0 wqvealbany.com
+0.0.0.0 wrganews.com
+0.0.0.0 wrgm.com
+0.0.0.0 wrlo.com
+0.0.0.0 wrr101.com
+0.0.0.0 wrul.com
+0.0.0.0 wsba910.com
+0.0.0.0 wsfl.com
+0.0.0.0 wsjssports.com
+0.0.0.0 wskz.com
+0.0.0.0 wsyb1380am.com
+0.0.0.0 wtka.com
+0.0.0.0 wtma.com
+0.0.0.0 wtrxsports.com
+0.0.0.0 wttlradio.com
+0.0.0.0 wuuqradio.com
+0.0.0.0 wvel.com
+0.0.0.0 wvli927.com
+0.0.0.0 wvlkam.com
+0.0.0.0 wvnn.com
+0.0.0.0 wwck.com
+0.0.0.0 wwki.com
+0.0.0.0 wwqq101.com
+0.0.0.0 wxfx.com
+0.0.0.0 wxkr.com
+0.0.0.0 wxpkfm.com
+0.0.0.0 wynn1063.com
+0.0.0.0 wzpl.com
+0.0.0.0 wzyp.com
+0.0.0.0 wzzl.com
+0.0.0.0 x1051kc.com
+0.0.0.0 x95radio.com
+0.0.0.0 xs961.com
+0.0.0.0 xtrasports1300.com
+0.0.0.0 y-103.com
+0.0.0.0 y101hits.com
+0.0.0.0 y102montgomery.com
+0.0.0.0 y1065.com
+0.0.0.0 yesfm.net
+0.0.0.0 z1023online.com
+0.0.0.0 z1029.com
+0.0.0.0 z1075.com
+0.0.0.0 z937.com
+0.0.0.0 z93jamz.com
+0.0.0.0 z96.com
+0.0.0.0 z971.com
+0.0.0.0 zone1150.com
+0.0.0.0 zrock103.com
+0.0.0.0 zrockfm.com
+0.0.0.0 badzjeszczelepszy.pl
+0.0.0.0 androidweblog.com
+0.0.0.0 pureinfotech.com
+0.0.0.0 fairyabc.com
+0.0.0.0 tunein.com
+0.0.0.0 mountaintopwebdesign.com
+0.0.0.0 otvfoco.com.br
+0.0.0.0 balticlivecam.com
+0.0.0.0 legionprogramas.org
+0.0.0.0 clasicotas.org
+0.0.0.0 portalportuario.cl
+0.0.0.0 cronista.com
+0.0.0.0 gamershit.altervista.org
+0.0.0.0 minecraft-schematics.com^$ghide
+0.0.0.0 minecraft-schematics.com
+0.0.0.0 theitaliantimes.it
+0.0.0.0 gagetmatome.com
+0.0.0.0 anisubindo.*
+0.0.0.0 mbahhanif.site
+0.0.0.0 dumpert.nl^$ghide
+0.0.0.0 beinsports.com^$ghide
+0.0.0.0 mizonatv.com^$ghide
+0.0.0.0 serwis-zamkow.com
+0.0.0.0 nakedcapitalism.com
+0.0.0.0 govtech.com
+0.0.0.0 lublin.eu
+0.0.0.0 tekloggers.com
+0.0.0.0 molineuxmix.co.uk
+0.0.0.0 foxnews.com
+0.0.0.0 /google-funding-choices.js$script,domain=foxnews.com
+0.0.0.0 nfltraderumors.co
+0.0.0.0 blog.kwick.de
+0.0.0.0 laptopmag.com
+0.0.0.0 windows101tricks.com
+0.0.0.0 virpe.com
+0.0.0.0 dreamlandresort.com
+0.0.0.0 hebrew4christians.com
+0.0.0.0 musixmatch.com
+0.0.0.0 ecosia.org
+0.0.0.0 yusepjaelani.blogspot.com
+0.0.0.0 canondrivers.org
+0.0.0.0 skidrowreloaded.com
+0.0.0.0 adevarul.ro
+0.0.0.0 hindipix.*
+0.0.0.0 kusonime.com
+0.0.0.0 otakudesu.org
+0.0.0.0 maskmagazine.com/assets/substrate.png$image,1p
+0.0.0.0 fcportables.com
+0.0.0.0 pehawe.me
+0.0.0.0 estadao.com.br
+0.0.0.0 kimkazandi.com
+0.0.0.0 minecraftforge.net
+0.0.0.0 forum.nlmod.net
+0.0.0.0 impotsurlerevenu.org
+0.0.0.0 myanimelist.net#?#.modal-content:-abp-has(.text > b:-abp-contains(Privacy Policy))
+0.0.0.0 ryuryuko.blog90.fc2.com
+0.0.0.0 feel-the-darkness.rocks
+0.0.0.0 fontsfree.pro
+0.0.0.0 skidrowcodex.net
+0.0.0.0 earnload.*
+0.0.0.0 mdpr.jp
+0.0.0.0 theherald-news.com
+0.0.0.0 insidermonkey.com
+0.0.0.0 venea.net
+0.0.0.0 puhutv.com^$ghide
+0.0.0.0 libgen.*
+0.0.0.0 bricksrus.com
+0.0.0.0 jacquieetmichel.net
+0.0.0.0 ilturista.info
+0.0.0.0 imaginetricks.com
+0.0.0.0 sigma4pc.com
+0.0.0.0 kurosave.com
+0.0.0.0 keybr.com
+0.0.0.0 mangaku.*
+0.0.0.0 edmontonjournal.com^$ghide
+0.0.0.0 gamebanana.com
+0.0.0.0 www.reddit.com
+0.0.0.0 redditstatic.com/shreddit/en-US/xpromo-nsfw-bypassable-modal-desktop-$script
+0.0.0.0 redditstatic.com/shreddit/*/xpromo-untagged-content-blocking-modal-$script
+0.0.0.0 reddit.com#@#body:not(.with-listing-chooser):style(overflow: visible
+0.0.0.0 reddit.com#@#body:style(pointer-events: auto
+0.0.0.0 reddit.com
+0.0.0.0 sh.reddit.com
+0.0.0.0 metropoles.com^$ghide
+0.0.0.0 fotor.com
+0.0.0.0 searchenginejournal.com
+0.0.0.0 includehelp.com
+0.0.0.0 techopedia.com
+0.0.0.0 uta-net.com
+0.0.0.0 uta-net.com/reverse/user/phplib/img/1pix.gif$image
+0.0.0.0 hedgeaccordingly.com
+0.0.0.0 downloadtutorials.net
+0.0.0.0 digitalsynopsis.com^$csp=style-src *;script-src *
+0.0.0.0 dddance.party
+0.0.0.0 citpekalongan.com
+0.0.0.0 dramaqu.*
+0.0.0.0 bisablog.com
+0.0.0.0 atribuna.com.br
+0.0.0.0 vinaurl.*
+0.0.0.0 theregister.co.uk
+0.0.0.0 merryjane.com/static/images/ads.png^$image,1p
+0.0.0.0 diariodoiguacu.com.br
+0.0.0.0 timeforbitco.in
+0.0.0.0 fizyka.org
+0.0.0.0 readonepiece.com/wp-content/$script,1p
+0.0.0.0 ymovies.*
+0.0.0.0 adnan-tech.com
+0.0.0.0 ahzaa.net
+0.0.0.0 karyawanesia.com
+0.0.0.0 zoom.com.br
+0.0.0.0 myschool-eng.com
+0.0.0.0 ofuxico.com.br
+0.0.0.0 nzbstars.com
+0.0.0.0 almasdarnews.com
+0.0.0.0 *$xhr,redirect-rule=noopjs,domain=maxedtech.com
+0.0.0.0 maxedtech.com
+0.0.0.0 ideaberita.com
+0.0.0.0 orangespotlight.com
+0.0.0.0 tepat.id
+0.0.0.0 isikuota.co.id
+0.0.0.0 nmac.to
+0.0.0.0 langitmovie.com
+0.0.0.0 androidmakale.com
+0.0.0.0 mongri.net
+0.0.0.0 oceanof-games.com
+0.0.0.0 download.ipeenk.com
+0.0.0.0 livescience.com
+0.0.0.0 doranobi-fansub.id
+0.0.0.0 queer.pl^$ghide
+0.0.0.0 queer.pl#@#[class^="ad-"]
+0.0.0.0 queer.pl
+0.0.0.0 ponselharian.com
+0.0.0.0 itvn.pl
+0.0.0.0 itvnextra.pl
+0.0.0.0 kuchniaplus.pl
+0.0.0.0 miniminiplus.pl
+0.0.0.0 player.pl
+0.0.0.0 ttv.pl
+0.0.0.0 tvn.pl
+0.0.0.0 tvn24.pl
+0.0.0.0 tvn24bis.pl
+0.0.0.0 tvn7.pl
+0.0.0.0 tvnfabula.pl
+0.0.0.0 tvnstyle.pl
+0.0.0.0 tvnturbo.pl
+0.0.0.0 x-link.pl
+0.0.0.0 x-news.pl
+0.0.0.0 snipboard.io^$ghide
+0.0.0.0 digitalcameraworld.com
+0.0.0.0 guitarworld.com
+0.0.0.0 musicradar.com
+0.0.0.0 alexeiportableapp.blogspot.com
+0.0.0.0 mocospace.com
+0.0.0.0 nogizaka46.com
+0.0.0.0 karamellstore.com.br
+0.0.0.0 smarthint.co^$3p
+0.0.0.0 bigten.org^$xhr,1p
+0.0.0.0 strangermeetup.com
+0.0.0.0 nostracasa.com.br
+0.0.0.0 oparana.com.br
+0.0.0.0 casertace.net
+0.0.0.0 civildigital.com
+0.0.0.0 lesmoutonsenrages.fr
+0.0.0.0 venusarchives.com
+0.0.0.0 verpornocomic.com
+0.0.0.0 frontpage.fok.nl^$ghide
+0.0.0.0 frontpage.fok.nl
+0.0.0.0 lolle21.com
+0.0.0.0 civicx.com
+0.0.0.0 apps.jeurissen.co
+0.0.0.0 m4uhd.net
+0.0.0.0 mdlinx.com
+0.0.0.0 suedkurier.de
+0.0.0.0 utamap.com
+0.0.0.0 utaten.com
+0.0.0.0 mp3fy.com^$ghide
+0.0.0.0 verdadeiroolhar.pt
+0.0.0.0 radarbox.com
+0.0.0.0 mangaid.click
+0.0.0.0 metropoliaztm.pl
+0.0.0.0 librospreuniversitariospdf.blogspot.com
+0.0.0.0 keighleynews.co.uk
+0.0.0.0 manianomikata.com
+0.0.0.0 quotev.com
+0.0.0.0 underconsideration.com
+0.0.0.0 newyorker.com
+0.0.0.0 nekopoi.web.id
+0.0.0.0 kickante.com.br
+0.0.0.0 scribd.com
+0.0.0.0 mt07-forum.de
+0.0.0.0 auto-treff.com
+0.0.0.0 foreignaffairs.com
+0.0.0.0 hienzo.com
+0.0.0.0 tfp.is
+0.0.0.0 dxmaps.com
+0.0.0.0 kapiert.de
+0.0.0.0 nadidetarifler.com
+0.0.0.0 japan-academy-prize.jp
+0.0.0.0 lectortmo.com
+0.0.0.0 /wp-content/plugins/rcd-right-click-disabler/*$script,1p
+0.0.0.0 mt-milcom.blogspot.com
+0.0.0.0 sopot.net
+0.0.0.0 debeste.de
+0.0.0.0 dassen-azara4.com
+0.0.0.0 thehouseofportable.com
+0.0.0.0 dramacute.*
+0.0.0.0 hitcena.pl
+0.0.0.0 photoshop-online.biz
+0.0.0.0 loudersound.com
+0.0.0.0 livedays.jp
+0.0.0.0 boomlive.in
+0.0.0.0 lewdzone.com
+0.0.0.0 greatist.com
+0.0.0.0 hearthstone-decks.net
+0.0.0.0 bejson.com
+0.0.0.0 interviewgig.com
+0.0.0.0 tv-asahi.co.jp
+0.0.0.0 full-anime.fr
+0.0.0.0 nonton78.com
+0.0.0.0 boards.net
+0.0.0.0 freeforums.net
+0.0.0.0 proboards.com
+0.0.0.0 opportunitydesk.org
+0.0.0.0 pandurul.ro
+0.0.0.0 kbdfans.com
+0.0.0.0 kamerabudaya.com
+0.0.0.0 idahopress.com
+0.0.0.0 adslayuda.com
+0.0.0.0 raccontivietati.com
+0.0.0.0 creativebloq.com
+0.0.0.0 therealdeal.com
+0.0.0.0 intergate.info
+0.0.0.0 handball-world.news
+0.0.0.0 mobiflip.de
+0.0.0.0 titanic-magazin.de
+0.0.0.0 mimikama.org
+0.0.0.0 langweiledich.net
+0.0.0.0 der-postillon.com
+0.0.0.0 perlentaucher.de
+0.0.0.0 lwlies.com
+0.0.0.0 serieslyawesome.tv
+0.0.0.0 critic.de
+0.0.0.0 mediotejo.net
+0.0.0.0 nahrungsmittel-intoleranz.com
+0.0.0.0 madeinbocholt.de
+0.0.0.0 goodnews-magazin.de
+0.0.0.0 wallauonline.de
+0.0.0.0 cleanthinking.de
+0.0.0.0 healthitsecurity.com
+0.0.0.0 digitalfernsehen.de
+0.0.0.0 simpleflying.com
+0.0.0.0 masrawy.com
+0.0.0.0 techieway.blogspot.com
+0.0.0.0 milfzr.com
+0.0.0.0 pornfd.com
+0.0.0.0 riie.jp
+0.0.0.0 airfrance.co.jp
+0.0.0.0 ef.com
+0.0.0.0 flash-firmware.blogspot.com
+0.0.0.0 ntvspor.net
+0.0.0.0 phrasemix.com
+0.0.0.0 phrasemix.com/assets/new_$image
+0.0.0.0 fxstreet.com
+0.0.0.0 runmods.com
+0.0.0.0 selfstudyhistory.com
+0.0.0.0 getnzlr.newzenler.com
+0.0.0.0 litecompare.com^$ghide
+0.0.0.0 fiscomania.com^$ghide
+0.0.0.0 vol.at
+0.0.0.0 lokercirebon.com
+0.0.0.0 playbill.com
+0.0.0.0 pentruea.com
+0.0.0.0 sanspo.com
+0.0.0.0 t3.com
+0.0.0.0 visaonoticias.com
+0.0.0.0 smokingmeatforums.com
+0.0.0.0 as-selection.net
+0.0.0.0 servedez.com
+0.0.0.0 avdelphi.com
+0.0.0.0 suzylu.co.uk
+0.0.0.0 affiliate.fc2.com
+0.0.0.0 music.apple.com
+0.0.0.0 iphonecake.com
+0.0.0.0 anime2you.de
+0.0.0.0 courseware.cemc.uwaterloo.ca
+0.0.0.0 maxstream.video
+0.0.0.0 wstream.*
+0.0.0.0 allocine.fr
+0.0.0.0 osxinfo.net
+0.0.0.0 depedlps.*
+0.0.0.0 neyrologos.gr
+0.0.0.0 alphapolis.co.jp
+0.0.0.0 ukworkshop.co.uk
+0.0.0.0 eoreuni.com
+0.0.0.0 earth.com
+0.0.0.0 xxxonlinegames.com
+0.0.0.0 doods.*
+0.0.0.0 ds2play.com
+0.0.0.0 ds2video.com
+0.0.0.0 d0o0d.com
+0.0.0.0 dood.*
+0.0.0.0 freerapidleechlist.blogspot.com
+0.0.0.0 duolingo.com
+0.0.0.0 thegatewaypundit.com
+0.0.0.0 9lives.be^$ghide
+0.0.0.0 jeu2048.fr
+0.0.0.0 holowczak.com^$ghide
+0.0.0.0 *$script,redirect-rule=noopjs,domain=luchaonline.com
+0.0.0.0 altranotizia.it
+0.0.0.0 taperaki.gr
+0.0.0.0 sekai-kabuka.com
+0.0.0.0 yaledailynews.com
+0.0.0.0 4x4earth.com
+0.0.0.0 endorfinese.com.br
+0.0.0.0 enjoytaiwan.co.kr
+0.0.0.0 ggeguide.com
+0.0.0.0 tanya-tanya.com
+0.0.0.0 wpb.shueisha.co.jp
+0.0.0.0 tercihiniyap.net
+0.0.0.0 vsco.co
+0.0.0.0 baby.be
+0.0.0.0 ciberduvidas.iscte-iul.pt
+0.0.0.0 nationalgeographic.com
+0.0.0.0 mangatoon.*
+0.0.0.0 tistory.com
+0.0.0.0 receivesmsonline.net/ads.js$script,1p
+0.0.0.0 wetransfer.net/*/adblocker$3p,domain=wetransfer.com
+0.0.0.0 stevensducks.com
+0.0.0.0 ziperto.com
+0.0.0.0 trojmiasto.pl
+0.0.0.0 digitaltrends.com
+0.0.0.0 diffchecker.com
+0.0.0.0 sythe.org
+0.0.0.0 start.me
+0.0.0.0 lalawin.com
+0.0.0.0 foreignaffairs.com^*/newsletter-overlay$image
+0.0.0.0 png.is
+0.0.0.0 chronologia.pl
+0.0.0.0 gamegame.kr
+0.0.0.0 money-sense.club
+0.0.0.0 festival-cannes.com
+0.0.0.0 moving2canada.com
+0.0.0.0 extreme-down.*
+0.0.0.0 thegearhunt.com
+0.0.0.0 jootc.com
+0.0.0.0 jootc.com/wp-content/plugins/wccp-pro/
+0.0.0.0 tohkaishimpo.com
+0.0.0.0 iwanichi.co.jp
+0.0.0.0 photobank.mainichi.co.jp
+0.0.0.0 strcloud.in
+0.0.0.0 streamtape.*
+0.0.0.0 strtape.*
+0.0.0.0 poedb.tw
+0.0.0.0 malekal.com
+0.0.0.0 jfdb.jp
+0.0.0.0 tbs.co.jp
+0.0.0.0 selfstudyanthro.com
+0.0.0.0 novelasligera.com
+0.0.0.0 video.tv-tokyo.co.jp
+0.0.0.0 audioreview.m1001.coreserver.jp
+0.0.0.0 ufret.jp
+0.0.0.0 tabstats.com
+0.0.0.0 seoul.cs.land.to
+0.0.0.0 sharree.com
+0.0.0.0 motortrader.com.my
+0.0.0.0 aviationweek.com
+0.0.0.0 community.spiceworks.com
+0.0.0.0 trip.com
+0.0.0.0 holakikou.com
+0.0.0.0 globo.com
+0.0.0.0 malasngeblog.com
+0.0.0.0 relet365.com
+0.0.0.0 abola.pt
+0.0.0.0 unixhow.com
+0.0.0.0 rottentomatoes.com
+0.0.0.0 reportergazeta.pl
+0.0.0.0 thenekodark.com
+0.0.0.0 artesacro.org
+0.0.0.0 wikihow.com
+0.0.0.0 poli-vsp.ru
+0.0.0.0 polyvsp.ru
+0.0.0.0 bmovies.*
+0.0.0.0 edailybuzz.com
+0.0.0.0 kanjukulive.com
+0.0.0.0 betaprofiles.com
+0.0.0.0 wikibious.com
+0.0.0.0 imgur.com
+0.0.0.0 ananweb.jp
+0.0.0.0 seikatsu-hyakka.com
+0.0.0.0 marfilius.blogspot.com
+0.0.0.0 2219.net
+0.0.0.0 thisisfutbol.com^$ghide
+0.0.0.0 thisisfutbol.com
+0.0.0.0 odoserwis.pl
+0.0.0.0 reviewmeta.com
+0.0.0.0 guides4gamers.com
+0.0.0.0 bajecnavareska.sk
+0.0.0.0 lunas.pro
+0.0.0.0 onlinefreecourse.net
+0.0.0.0 pisr.org
+0.0.0.0 uplod.net
+0.0.0.0 thewpclub.net
+0.0.0.0 thememazing.com
+0.0.0.0 themebanks.com
+0.0.0.0 elizabeth-mitchell.org
+0.0.0.0 infoplease.com
+0.0.0.0 poeapp.com
+0.0.0.0 blasianluvforever.com
+0.0.0.0 gomovies-online.*/addons/*.gif$image
+0.0.0.0 gomovies-online.*
+0.0.0.0 nuggetroyale.io
+0.0.0.0 tileman.io
+0.0.0.0 daimangajiten.com
+0.0.0.0 analizy.pl
+0.0.0.0 erovideoseek.com
+0.0.0.0 kyonyuquest.com
+0.0.0.0 animesanka.com
+0.0.0.0 witz.io
+0.0.0.0 citas.in
+0.0.0.0 radichubu.jp
+0.0.0.0 sovetromantica.com
+0.0.0.0 *$xhr,redirect-rule=nooptext,domain=sovetromantica.com
+0.0.0.0 scriptinghelpers.org
+0.0.0.0 mbs.jp
+0.0.0.0 polyflore.net
+0.0.0.0 nightpoint.io
+0.0.0.0 striketactics.net
+0.0.0.0 chemz.io
+0.0.0.0 *$xhr,redirect-rule=nooptext,domain=mazmorra.io
+0.0.0.0 sketchful.io
+0.0.0.0 icy-veins.com
+0.0.0.0 download.mokeedev.com
+0.0.0.0 compartiendofull.net
+0.0.0.0 texte.work
+0.0.0.0 railf.jp
+0.0.0.0 spectank.jp
+0.0.0.0 liga.net
+0.0.0.0 getintopc.com
+0.0.0.0 longecity.org
+0.0.0.0 brighteon.com
+0.0.0.0 *$script,3p,domain=humanbenchmark.com
+0.0.0.0 /wp-content/plugins/secure-copy-content-protection/*$script
+0.0.0.0 mesquitaonline.com
+0.0.0.0 movieston.com
+0.0.0.0 deseneledublate.com
+0.0.0.0 eduardo-monica.com
+0.0.0.0 dreamsfriend.com
+0.0.0.0 digital.lasegunda.com
+0.0.0.0 mhwg.org
+0.0.0.0 cpuid.com
+0.0.0.0 ratebeer.com
+0.0.0.0 *$script,redirect-rule=noopjs,domain=atlasobscura.com
+0.0.0.0 atlasobscura.com
+0.0.0.0 webcamtaxi.com
+0.0.0.0 hibiki-radio.jp
+0.0.0.0 autophorie.de
+0.0.0.0 articlesmania.me^$csp=script-src * 'unsafe-eval' 'unsafe-inline'
+0.0.0.0 englishlands.net
+0.0.0.0 randomlists.com
+0.0.0.0 good-football.org
+0.0.0.0 beforeitsnews.com
+0.0.0.0 elheraldo.hn
+0.0.0.0 tutoganga.blogspot.com
+0.0.0.0 dreamstime.com
+0.0.0.0 fruit01.xyz
+0.0.0.0 dailyvoice.com^$ghide
+0.0.0.0 *$xhr,redirect-rule=nooptext,domain=dailyvoice.com
+0.0.0.0 dailyvoice.com
+0.0.0.0 clipartmax.com
+0.0.0.0 anauk.net
+0.0.0.0 zeeebatch.blogspot.com
+0.0.0.0 techdracula.com
+0.0.0.0 bluemoon-mcfc.co.uk
+0.0.0.0 blitzrechner.de
+0.0.0.0 emailfake.com
+0.0.0.0 themeparktourist.com
+0.0.0.0 garyfeinbergphotography.com
+0.0.0.0 bonobono.com
+0.0.0.0 routinehub.co
+0.0.0.0 darktranslation.com
+0.0.0.0 msubplix.com
+0.0.0.0 routenote.com
+0.0.0.0 upstream.to
+0.0.0.0 webqc.org
+0.0.0.0 ohmygirl.ml
+0.0.0.0 planetagibi.com.br
+0.0.0.0 planetagibiblog.com.br
+0.0.0.0 lyricstranslate.com
+0.0.0.0 trakteer.id
+0.0.0.0 telefon-treff.de
+0.0.0.0 dodge-forum.eu
+0.0.0.0 megapixl.com
+0.0.0.0 8muses.com
+0.0.0.0 cissamagazine.com.br
+0.0.0.0 ilclubdellericette.it
+0.0.0.0 utour.me
+0.0.0.0 seotechman.com
+0.0.0.0 katosatoshi.jp
+0.0.0.0 phoronix.com#@#[data-freestar-ad]:not(:empty)
+0.0.0.0 fandomwire.com
+0.0.0.0 observatoriodocinema.uol.com.br
+0.0.0.0 samfw.com^$ghide
+0.0.0.0 samfw.com
+0.0.0.0 samfw.com/assets/*.gif$image
+0.0.0.0 segnidalcielo.it
+0.0.0.0 fangraphs.com/dfp.js$script,1p
+0.0.0.0 fosspost.org
+0.0.0.0 igniel.com
+0.0.0.0 hentaialtadefinizione.it
+0.0.0.0 lyrical-nonsense.com
+0.0.0.0 alltechnerd.com
+0.0.0.0 moneyguru.co
+0.0.0.0 rogersmedia.com/utilityx.js^$script,3p
+0.0.0.0 mapgenie.io
+0.0.0.0 *$script,redirect-rule=noopjs,domain=exame.com
+0.0.0.0 clubulbebelusilor.ro
+0.0.0.0 googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=colnect.com
+0.0.0.0 generationamiga.com
+0.0.0.0 nwherald.com
+0.0.0.0 gridcoinstats.eu
+0.0.0.0 odiarioonline.com.br
+0.0.0.0 katzen-fieber.de
+0.0.0.0 thefreethoughtproject.com
+0.0.0.0 gplinks.co
+0.0.0.0 chan.sankakucomplex.com
+0.0.0.0 poplinks.idolmaster-official.jp
+0.0.0.0 progameguides.com
+0.0.0.0 zt-protect.*
+0.0.0.0 jpnn.com
+0.0.0.0 jimnong.tistory.com
+0.0.0.0 daum.net
+0.0.0.0 prepinsta.com
+0.0.0.0 loginhit.com.ng
+0.0.0.0 123movies.*
+0.0.0.0 *$script,redirect-rule=noopjs,domain=json2csharp.com
+0.0.0.0 diariodaregiao.com.br
+0.0.0.0 taufiqhdyt.com
+0.0.0.0 szkolawohyn.pl
+0.0.0.0 newsforbolly.org
+0.0.0.0 nextplatform.com
+0.0.0.0 giromarilia.com.br
+0.0.0.0 free-barcode-generator.net
+0.0.0.0 gomovies.*
+0.0.0.0 *$script,redirect-rule=noopjs,domain=forums.lostmediawiki.com
+0.0.0.0 promobit.com.br
+0.0.0.0 liveroger.com
+0.0.0.0 mediafax.ro
+0.0.0.0 online2pdf.com^$ghide
+0.0.0.0 online2pdf.com
+0.0.0.0 bdb.com.pl
+0.0.0.0 ping.eu
+0.0.0.0 safetxt.net
+0.0.0.0 1fichier.com
+0.0.0.0 forum.release-apk.com
+0.0.0.0 sokolow-mlp.pl
+0.0.0.0 blog.naver.com
+0.0.0.0 bendigoadvertiser.com.au
+0.0.0.0 fatgirlskinny.net
+0.0.0.0 lightnovelworld.*
+0.0.0.0 economica.net
+0.0.0.0 kuroko-analyze.com
+0.0.0.0 raqmedia.com
+0.0.0.0 69translations.blogspot.com
+0.0.0.0 2iptv.com
+0.0.0.0 my-code4you.blogspot.com
+0.0.0.0 dailynewsview.com,dailynews.us.com
+0.0.0.0 cyberspace.world
+0.0.0.0 dztechphone.com
+0.0.0.0 hotpornfile.org
+0.0.0.0 empregoestagios.com
+0.0.0.0 pornhd8k.net
+0.0.0.0 dailynewsview.com
+0.0.0.0 e-sushi.fr
+0.0.0.0 evasion-online.com
+0.0.0.0 exclusifvoyages.com
+0.0.0.0 experciencia.com
+0.0.0.0 everydaynewinfo.com
+0.0.0.0 fraudnavi.com
+0.0.0.0 javbest.xyz,javbix.com,javgrab.com
+0.0.0.0 googleapis.com/loadermain.appspot.com/main.js$domain=javboys.com
+0.0.0.0 ads.proboards.com^$script,redirect=noopjs
+0.0.0.0 bidfilter.com^$script,redirect=noopjs
+0.0.0.0 funivie.org
+0.0.0.0 tiktok.com
+0.0.0.0 polsatnews.pl
+0.0.0.0 android1pro.com
+0.0.0.0 world4.eu
+0.0.0.0 ggulpass.com
+0.0.0.0 goodbakery.ru
+0.0.0.0 elektrikmen.com
+0.0.0.0 ifdreamscametrue.com
+0.0.0.0 irisbuddies.*
+0.0.0.0 kijyomatome-ch.com
+0.0.0.0 juegosdetiempolibre.org
+0.0.0.0 kutub3lpdf.com
+0.0.0.0 kitguru.net
+0.0.0.0 la8osapofash.com
+0.0.0.0 lendagames.com
+0.0.0.0 live.b-c-e.us
+0.0.0.0 loveplay123.com
+0.0.0.0 minecraftquiz.com
+0.0.0.0 magelang1337.com
+0.0.0.0 lvturbo.com,sbbrisk.com,sbface.com,sbspeed.com,streamsb.net
+0.0.0.0 sbasian.pro
+0.0.0.0 2hbn.com,farklifarkli.com
+0.0.0.0 *$script,redirect-rule=noopjs,domain=mail.inbox.lv
+0.0.0.0 naijagists.com
+0.0.0.0 nandedbazaar.com
+0.0.0.0 naukridisha.in
+0.0.0.0 northumberland-walks.co.uk
+0.0.0.0 nydailyquote.com
+0.0.0.0 objectivequiz.com
+0.0.0.0 ouasafat.com
+0.0.0.0 teamaretuza.com
+0.0.0.0 musicindustryhowto.com
+0.0.0.0 paesifantasma.it
+0.0.0.0 payeer-gift.ru
+0.0.0.0 theepochtimes.com
+0.0.0.0 reflectim.fr
+0.0.0.0 sdelatotoplenie.ru
+0.0.0.0 sachonthi.com
+0.0.0.0 significatocanzoni.it
+0.0.0.0 accuweather.com
+0.0.0.0 marksandspencer.com
+0.0.0.0 datadikdasmen.com
+0.0.0.0 zdravenportal.eu
+0.0.0.0 chessimprover.com
+0.0.0.0 novagente.pt
+0.0.0.0 tahmial.blogspot.com
+0.0.0.0 talpo.it
+0.0.0.0 th-world.com
+0.0.0.0 thezealots.org
+0.0.0.0 top.howfn.com
+0.0.0.0 vinaurl.blogspot.com
+0.0.0.0 wasza-farma.pl
+0.0.0.0 wouterplanet.com
+0.0.0.0 erexams.com
+0.0.0.0 deportealdia.live
+0.0.0.0 htmlgames.com
+0.0.0.0 pbinfo.ro
+0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$script,redirect=googlesyndication_adsbygoogle.js,domain=hotcleaner.com
+0.0.0.0 hotcleaner.com
+0.0.0.0 vedantu.com
+0.0.0.0 gmod-servers.com/assets/js/jquery.adblock-detector.js$script,1p
+0.0.0.0 pcso-lottoresults.com
+0.0.0.0 freedomoutpost.com^$ghide
+0.0.0.0 asiatv.*
+0.0.0.0 fmovies.*
+0.0.0.0 japan-fans.com
+0.0.0.0 lcpdfr.com
+0.0.0.0 comprerural.com
+0.0.0.0 arlinadzgn.com
+0.0.0.0 stowarzyszenie-impuls.eu
+0.0.0.0 iovivoatenerife.it
+0.0.0.0 whatfontis.com
+0.0.0.0 viveretenerife.com
+0.0.0.0 skandynawiainfo.pl
+0.0.0.0 sklep-agroland.pl
+0.0.0.0 kangmartho.com
+0.0.0.0 techjunkie.com
+0.0.0.0 solotrend.net
+0.0.0.0 goalup.live
+0.0.0.0 hulnews.top
+0.0.0.0 files.vi.zone/player/*$script,domain=hulnews.top
+0.0.0.0 wired.com
+0.0.0.0 oferty.dsautomobiles.pl
+0.0.0.0 gats.io
+0.0.0.0 scrolller.com
+0.0.0.0 cambiarevita.eu
+0.0.0.0 wzamrani.com
+0.0.0.0 xtv.cz
+0.0.0.0 otakudesu.*
+0.0.0.0 puhekupla.com#@#.googlead
+0.0.0.0 *$xhr,redirect-rule=nooptext,domain=puhekupla.com
+0.0.0.0 promotor.pl
+0.0.0.0 citroen.pl
+0.0.0.0 peugeot.pl
+0.0.0.0 hatsukimanga.com
+0.0.0.0 polagriparts.pl
+0.0.0.0 protocol.com
+0.0.0.0 tritinia.com
+0.0.0.0 fakechatapp.com
+0.0.0.0 toonytool.com
+0.0.0.0 enttechub.com
+0.0.0.0 nordkorea-info.de
+0.0.0.0 battle-one.com
+0.0.0.0 geotips.net
+0.0.0.0 korona.co.jp
+0.0.0.0 gmx.net
+0.0.0.0 theblaze.com
+0.0.0.0 promotor-poz.kylos.pl
+0.0.0.0 novelism.jp
+0.0.0.0 bemoneyaware.com
+0.0.0.0 cm.g.doubleclick.net/pixel$image,redirect=1x1.gif,domain=tpc.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com/pagead/images/x_button_blue2.svg$image,redirect=1x1.gif,domain=tpc.googlesyndication.com
+0.0.0.0 cm.g.doubleclick.net/pixel$image,redirect=1x1.gif,domain=diep.io
+0.0.0.0 tpc.googlesyndication.com/pagead/images/x_button_blue2.svg$image,redirect=1x1.gif,domain=diep.io
+0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$redirect=googlesyndication_adsbygoogle.js,script,domain=mifirm.net
+0.0.0.0 gnt24365.net
+0.0.0.0 cssreference.io
+0.0.0.0 zsti.zsti.civ.pl
+0.0.0.0 hardcoregames.ca
+0.0.0.0 bikesell.co.kr
+0.0.0.0 truyenbanquyen.com
+0.0.0.0 globaledu.jp
+0.0.0.0 imagecolorpicker.com#@#div[id^="ezoic-pub-ad-"]
+0.0.0.0 torrentlawyer.com
+0.0.0.0 gsmfirmware.net
+0.0.0.0 revistavanityfair.es
+0.0.0.0 spielspiele.de
+0.0.0.0 charbelnemnom.com
+0.0.0.0 img999.com
+0.0.0.0 lataifas.ro
+0.0.0.0 /wp-content/plugins/append-link-on-copy/js/append_link.js$script,1p
+0.0.0.0 foodviva.com
+0.0.0.0 sysnettechsolutions.com^$csp=script-src * 'unsafe-inline'
+0.0.0.0 sysnettechsolutions.com
+0.0.0.0 toppremiumpro.com
+0.0.0.0 wirtualnyspac3r.pl
+0.0.0.0 47news.jp
+0.0.0.0 hitproversion.com
+0.0.0.0 /wp-content/plugins/image-watermark/*$script
+0.0.0.0 news.dwango.jp
+0.0.0.0 lowkeytech.com
+0.0.0.0 dmax.de^$ghide
+0.0.0.0 techsini.com
+0.0.0.0 olarila.com
+0.0.0.0 blisseyhusband.in
+0.0.0.0 bloggerspice.com
+0.0.0.0 drawasaurus.org
+0.0.0.0 openfinanza.it
+0.0.0.0 japanxxxmovie.com,sexpox.com
+0.0.0.0 antena3.com,lasexta.com
+0.0.0.0 nbcsports.com
+0.0.0.0 pashplus.jp
+0.0.0.0 allsmo.com
+0.0.0.0 upvideo.to
+0.0.0.0 kpopsea.com
+0.0.0.0 katholisches.info
+0.0.0.0 ubuntudde.com
+0.0.0.0 streaminglearningcenter.com
+0.0.0.0 prepostseo.com
+0.0.0.0 youmath.it
+0.0.0.0 followmikewynn.com
+0.0.0.0 flipmsg.com
+0.0.0.0 wattpad.com
+0.0.0.0 lazytranslations.com
+0.0.0.0 starbene.it
+0.0.0.0 belezaedieta.com^
+0.0.0.0 operatorsekolahdbn.com
+0.0.0.0 allmovie.com,sidereel.com
+0.0.0.0 televisiongratishd.com
+0.0.0.0 renditepassive.net
+0.0.0.0 onlinecoursebay.com
+0.0.0.0 utorrentgamesps2.blogspot.com
+0.0.0.0 sonnenverlauf.de,suncalc.org
+0.0.0.0 themosvagas.com.br
+0.0.0.0 fauxid.com
+0.0.0.0 audiostereo.pl
+0.0.0.0 tvstreampf.xyz
+0.0.0.0 gamezop.com
+0.0.0.0 articlesmania.me
+0.0.0.0 jobskaro.com
+0.0.0.0 *$image,redirect-rule=1x1.gif,domain=ygoprodeck.com
+0.0.0.0 readm.org
+0.0.0.0 androidtvbox.eu
+0.0.0.0 nicematin.com
+0.0.0.0 myhtebooks.com
+0.0.0.0 votetw.com
+0.0.0.0 gooyaabitemplates.com
+0.0.0.0 urbharat.xyz
+0.0.0.0 bilibili.com
+0.0.0.0 sogou.com
+0.0.0.0 boke112.com
+0.0.0.0 bimiacg.net
+0.0.0.0 themes-dl.com
+0.0.0.0 /wp-content/plugins/ungrabber/js/*$script
+0.0.0.0 diaforetiko.gr
+0.0.0.0 tchadcarriere.com
+0.0.0.0 shaamtv.com
+0.0.0.0 pixnet.net
+0.0.0.0 yamibo.com
+0.0.0.0 quicasting.it^$csp=script-src * 'unsafe-inline'
+0.0.0.0 fimfiction.net
+0.0.0.0 totemat.pl
+0.0.0.0 noweconomy.live
+0.0.0.0 appd.at
+0.0.0.0 appofmirror.com
+0.0.0.0 wjx.cn,wjx.top
+0.0.0.0 blog.csdn.net
+0.0.0.0 moegirl.org.cn
+0.0.0.0 hentainhaven.com
+0.0.0.0 zhihu.com
+0.0.0.0 masuit.com
+0.0.0.0 juejin.cn
+0.0.0.0 bbs.mihoyo.com
+0.0.0.0 book.zhulang.com
+0.0.0.0 zhulang.com
+0.0.0.0 faloo.com
+0.0.0.0 qidian.com
+0.0.0.0 699pic.com
+0.0.0.0 book.zongheng.com
+0.0.0.0 ciweimao.com
+0.0.0.0 cnki.net
+0.0.0.0 wpchen.net
+0.0.0.0 360doc.com
+0.0.0.0 imooc.com
+0.0.0.0 apk1s.com
+0.0.0.0 peekme.cc
+0.0.0.0 tiermaker.com
+0.0.0.0 dushu.qq.com
+0.0.0.0 commandlinux.com
+0.0.0.0 foxaholic.com
+0.0.0.0 hongxiu.com
+0.0.0.0 cheatsquad.gg
+0.0.0.0 readnovel.com
+0.0.0.0 wenku.baidu.com
+0.0.0.0 auth.alipay.com
+0.0.0.0 30edu.com.cn
+0.0.0.0 shumilou.com
+0.0.0.0 doc.mbalib.com
+0.0.0.0 nowcoder.com
+0.0.0.0 audiobookcup.com
+0.0.0.0 oantagonista.com
+0.0.0.0 aicesu.cn
+0.0.0.0 uihtm.com
+0.0.0.0 uslsoftware.com
+0.0.0.0 tadu.com
+0.0.0.0 qiangwaikan.com
+0.0.0.0 perangkatguruku.com
+0.0.0.0 janvissersweer.nl
+0.0.0.0 7fyd.com
+0.0.0.0 shushan.zhangyue.net
+0.0.0.0 logonews.cn
+0.0.0.0 spanishdict.com
+0.0.0.0 rule34hentai.net
+0.0.0.0 dez.ro#@#.ad-placement
+0.0.0.0 cloudemb.com
+0.0.0.0 bwitter.me
+0.0.0.0 windguru.net
+0.0.0.0 thinkamericana.com
+0.0.0.0 menrec.com
+0.0.0.0 hendersonville.com
+0.0.0.0 *$image,redirect-rule=1x1.gif,domain=guardian.gg
+0.0.0.0 outlook.live.com
+0.0.0.0 naaree.com
+0.0.0.0 info-beihilfe.de
+0.0.0.0 invado.pl
+0.0.0.0 jianshu.com
+0.0.0.0 revouninstaller.com
+0.0.0.0 news24.jp
+0.0.0.0 ptable.com
+0.0.0.0 cda-hd.cc,hqq.to
+0.0.0.0 hqq.to
+0.0.0.0 blogpascher.com
+0.0.0.0 tv-tokyo.co.jp
+0.0.0.0 developpez.com
+0.0.0.0 copypoison.com^$3p
+0.0.0.0 whowantstuffs.blogspot.com
+0.0.0.0 ihbarweb.org.tr
+0.0.0.0 mocah.org
+0.0.0.0 unikampus.net
+0.0.0.0 gaminplay.com
+0.0.0.0 aksensei.com
+0.0.0.0 tekstowo.pl
+0.0.0.0 *$script,redirect-rule=noopjs,domain=inbox.lv|inbox.la
+0.0.0.0 arti-definisi-pengertian.info
+0.0.0.0 techtobo.com
+0.0.0.0 libertatea.ro
+0.0.0.0 shopomo.co.uk
+0.0.0.0 c4ddownload.com,the-scorpions.com
+0.0.0.0 baixedetudo.net.br
+0.0.0.0 epn.bz
+0.0.0.0 erinsakura.com
+0.0.0.0 njjzxl.net
+0.0.0.0 affbank.com
+0.0.0.0 nbcsportsedge.com
+0.0.0.0 gardenia.net
+0.0.0.0 piano.io^$domain=fastcompany.com
+0.0.0.0 _google_ads.$badfilter
+0.0.0.0 oploverz.*
+0.0.0.0 elahmad.com
+0.0.0.0 adpres.ro
+0.0.0.0 timeanddate.com^$ghide
+0.0.0.0 timeanddate.com
+0.0.0.0 racevpn.com
+0.0.0.0 messitv.net
+0.0.0.0 playpilot.com
+0.0.0.0 buondua.com
+0.0.0.0 c315.cn
+0.0.0.0 uemeds.cn
+0.0.0.0 secondlifetranslations.com
+0.0.0.0 animatedshows.to,miraculous.to
+0.0.0.0 miraculous.to
+0.0.0.0 criticalthinking.org
+0.0.0.0 sportnews.to
+0.0.0.0 pttws.ptt.gov.tr
+0.0.0.0 leeyiding.com
+0.0.0.0 city-data.com
+0.0.0.0 zwei-euro.com
+0.0.0.0 voe.sx,voe-unblock.com
+0.0.0.0 scatch176duplicities.com,voe-unblock.com
+0.0.0.0 kathleenmemberhistory.com,nonesnanking.com,prefulfilloverdoor.com,phenomenalityuniform.com,nectareousoverelate.com,timberwoodanotia.com,strawberriesporail.com,valeronevijao.com,cigarlessarefy.com,figeterpiazine.com,yodelswartlike.com,generatesnitrosate.com,crownmakermacaronicism.com,chromotypic.com,gamoneinterrupted.com,metagnathtuggers.com,wolfdyslectic.com,rationalityaloelike.com,sizyreelingly.com,simpulumlamerop.com,urochsunloath.com,monorhinouscassaba.com,counterclockwisejacky.com,35volitantplimsoles5.com,scatch176duplicities.com,antecoxalbobbing1010.com,boonlessbestselling244.com,cyamidpulverulence530.com,guidon40hyporadius9.com,449unceremoniousnasoseptal.com,19turanosephantasia.com,30sensualizeexpression.com,321naturelikefurfuroid.com,745mingiestblissfully.com,availedsmallest.com,greaseball6eventual20.com,toxitabellaeatrebates306.com,20demidistance9elongations.com,audaciousdefaulthouse.com,fittingcentermondaysunday.com,fraudclatterflyingcar.com,launchreliantcleaverriver.com,matriculant401merited.com,realfinanceblogcenter.com,reputationsheriffkennethsand.com,telyn610zoanthropy.com,tubelessceliolymph.com,tummulerviolableness.com,un-block-voe.net,v-o-e-unblock.com,voe-un-block.com,voe-unblock.*,voeun-block.net,voeunbl0ck.com,voeunblck.com,voeunblk.com,voeunblock3.com
+0.0.0.0 wpking.in
+0.0.0.0 ibomma.pw
+0.0.0.0 coinpayu.com^$ghide
+0.0.0.0 hollywoodmask.com
+0.0.0.0 phimdinhcao.com
+0.0.0.0 cafago.com
+0.0.0.0 tvzingvn.*,zingtvhd.*,zingvntv.*
+0.0.0.0 4399.com/antijs/Antiindulgence.js
+0.0.0.0 mbalib.com
+0.0.0.0 zgywyd.cn
+0.0.0.0 hm.baidu.com/hm.js
+0.0.0.0 dhd24.com#@#.adunit
+0.0.0.0 jianbiaoku.com/content/js/copyFun.js$script,1p
+0.0.0.0 yuque.com
+0.0.0.0 otomobilgunluklerim.com
+0.0.0.0 picallow.com
+0.0.0.0 links.extralinks.casa
+0.0.0.0 magesypro.*
+0.0.0.0 magesy.blog,magesypro.pro
+0.0.0.0 audiotools.pro,magesy.blog,magesypro.pro,audioztools.com
+0.0.0.0 psihologiadeazi.ro
+0.0.0.0 ssuathletics.com
+0.0.0.0 52bdys.com
+0.0.0.0 cocomanga.com
+0.0.0.0 mooc.chaoxing.com
+0.0.0.0 brownsboys.com
+0.0.0.0 mercenaryenrollment.com
+0.0.0.0 geektyper.com
+0.0.0.0 fotofilter.de
+0.0.0.0 social-unlock.com
+0.0.0.0 cdn.gamemonetize.com
+0.0.0.0 nusantararom.org
+0.0.0.0 mail.tm
+0.0.0.0 wawlist.com
+0.0.0.0 aepos.ap.gov.in
+0.0.0.0 realpython.com
+0.0.0.0 virpe.cc
+0.0.0.0 northjersey.com,independentmail.com,usatoday.com
+0.0.0.0 */wp-content/plugins/smio-push-notification
+0.0.0.0 titulky.com
+0.0.0.0 d3fkv551xkjrmm.cloudfront.net/js/detection.js$script,domain=denofgeek.com
+0.0.0.0 cintateknologi.com
+0.0.0.0 trucksbook.eu
+0.0.0.0 curs-valutar-bnr.ro^$ghide
+0.0.0.0 curs-valutar-bnr.ro
+0.0.0.0 atlas-geografic.net
+0.0.0.0 funnygames.*
+0.0.0.0 farm-ro.desigusxpro.com
+0.0.0.0 dongphimmoiz.com
+0.0.0.0 linkmate.xyz
+0.0.0.0 yhocdata.com
+0.0.0.0 thresholdforum.s3.us-east-2.amazonaws.com/arn:aws:s3:::thresholdforum/javascript_adblockdetector/$script
+0.0.0.0 meteoblue.com
+0.0.0.0 cristelageorgescu.ro
+0.0.0.0 payskip.org
+0.0.0.0 investorvillage.com
+0.0.0.0 crunchyscan.fr
+0.0.0.0 pornhub.*
+0.0.0.0 grandoldteam.com
+0.0.0.0 gamingsinners.com
+0.0.0.0 bike-parts-sym.com
+0.0.0.0 eshentai.tv
+0.0.0.0 vumoo.vip/js/safe.ob.min.js
+0.0.0.0 pushsquare.com
+0.0.0.0 pobre.tv
+0.0.0.0 www-daftarharga.blogspot.com
+0.0.0.0 elitepvpers.com
+0.0.0.0 filmpornoitaliano.org
+0.0.0.0 ukrainashop.com
+0.0.0.0 101soundboards.com
+0.0.0.0 geeksforgeeks.org
+0.0.0.0 utilapi.geeksforgeeks.org/api/geo/usergeodetails/
+0.0.0.0 androidacy.com
+0.0.0.0 flinsetyadi.com
+0.0.0.0 coinurl.net
+0.0.0.0 koszalincity.pl
+0.0.0.0 theghostinmymachine.com
+0.0.0.0 codehelppro.com^$ghide
+0.0.0.0 codehelppro.com
+0.0.0.0 ilovevaldinon.it
+0.0.0.0 acupoffrench.com
+0.0.0.0 novelza.com
+0.0.0.0 aileen-novel.online
+0.0.0.0 coolwallpapers.me
+0.0.0.0 freshersnow.com^$ghide
+0.0.0.0 freshersnow.com
+0.0.0.0 beastx.top,chillx.top,playerx.stream
+0.0.0.0 bumigemilang.com
+0.0.0.0 bingotingo.com
+0.0.0.0 rdsong.com
+0.0.0.0 cafe.naver.com
+0.0.0.0 novelpia.com
+0.0.0.0 stream.bunkr.is
+0.0.0.0 brainly.*
+0.0.0.0 brainly.*,eodev.com,nosdevoirs.fr
+0.0.0.0 viewsb.com
+0.0.0.0 sbfast.com,sbflix.*
+0.0.0.0 1mg.com
+0.0.0.0 blueraindrops.com
+0.0.0.0 cinemakottaga.top
+0.0.0.0 fnbrjp.com
+0.0.0.0 top1iq.com
+0.0.0.0 allthingsvegas.com^$ghide
+0.0.0.0 itscybertech.com
+0.0.0.0 sekaikomik.live
+0.0.0.0 valid.x86.fr
+0.0.0.0 unidivers.fr
+0.0.0.0 vidembed.me
+0.0.0.0 moviepl.xyz
+0.0.0.0 unlimitedfiles.xyz
+0.0.0.0 bphimmoi.net
+0.0.0.0 ytv.co.jp
+0.0.0.0 privivkainfo.ru
+0.0.0.0 yeuphimmoik.com
+0.0.0.0 goodhub.xyz
+0.0.0.0 animecruzers.com
+0.0.0.0 waves4you.com
+0.0.0.0 apps2app.com
+0.0.0.0 techus.website
+0.0.0.0 descargatepelis.com
+0.0.0.0 dl.gmx.*/uim/connector/live/v2/nonfriendlyiframe.html$frame,1p
+0.0.0.0 aztravels.net,downfile.site,memangbau.com,trangchu.news
+0.0.0.0 theblockcrypto.com
+0.0.0.0 timeshighereducation.com
+0.0.0.0 repack-games.com
+0.0.0.0 mzzcloud.life
+0.0.0.0 /dev-console-detect.js$script,domain=closeload.com
+0.0.0.0 nsfwzone.xyz
+0.0.0.0 telewebgram.com#@#ins.adsbygoogle[data-ad-slot]
+0.0.0.0 telewebgram.com#@#ins.adsbygoogle[data-ad-client]
+0.0.0.0 veblr.com
+0.0.0.0 bestjavporn.com,mm9841.cc
+0.0.0.0 videobot.stream
+0.0.0.0 thememypc.net
+0.0.0.0 tecmundo.net
+0.0.0.0 rawneix.in
+0.0.0.0 myoplay.club
+0.0.0.0 pvstreams.com
+0.0.0.0 ggwash.org
+0.0.0.0 news.ntv.co.jp
+0.0.0.0 www.ntv.co.jp
+0.0.0.0 umk.co.jp
+0.0.0.0 bpcj.or.jp
+0.0.0.0 videovard.*
+0.0.0.0 ruyamanga.com^$ghide
+0.0.0.0 gmarket.co.kr
+0.0.0.0 digital.elmercurio.com/assets/js/detectPrivateMode.js$script,1p
+0.0.0.0 dlmovies.link
+0.0.0.0 celtadigital.com
+0.0.0.0 ask4movie.*
+0.0.0.0 cinegrabber.com
+0.0.0.0 revenue.land
+0.0.0.0 web.skype.com
+0.0.0.0 dubznetwork.com
+0.0.0.0 justswallows.net
+0.0.0.0 light.gg
+0.0.0.0 sdewery.me
+0.0.0.0 convenienza.com
+0.0.0.0 panda-novel.com
+0.0.0.0 layarkacaxxi.icu
+0.0.0.0 cdramalove.com
+0.0.0.0 fucktube4k.com
+0.0.0.0 ssphim.net
+0.0.0.0 matzoo.pl
+0.0.0.0 flashplayer.org.ua
+0.0.0.0 /wp-content/themes/*/public/js/detect-adblock.js$script,1p
+0.0.0.0 asia2tv.cn
+0.0.0.0 vupload.com
+0.0.0.0 labs.j-novel.club
+0.0.0.0 turbo1.co
+0.0.0.0 ilovefreesoftware.com
+0.0.0.0 leekduck.com
+0.0.0.0 futbollatam.com
+0.0.0.0 canale.live
+0.0.0.0 outidesigoto.com
+0.0.0.0 rightnonel.com
+0.0.0.0 lightnovelpub.com,novelpub.com,webnovelpub.com
+0.0.0.0 moatads.com^$image,redirect=1x1.gif,domain=lightnovelpub.com
+0.0.0.0 lightnovelpub.com
+0.0.0.0 viafarmaciaonline.it
+0.0.0.0 read.amazon.com
+0.0.0.0 gakki.me
+0.0.0.0 tunegate.me
+0.0.0.0 nana-music.com
+0.0.0.0 iskandinavya.com
+0.0.0.0 readawrite.com
+0.0.0.0 xemphimaz.com
+0.0.0.0 nullphpscript.com
+0.0.0.0 projektowanie-wnetrz-online.pl
+0.0.0.0 box-manga.com
+0.0.0.0 disheye.com
+0.0.0.0 deepl.com
+0.0.0.0 google.*
+0.0.0.0 gourmetscans.net
+0.0.0.0 minimum-wage.org
+0.0.0.0 oricon.co.jp
+0.0.0.0 morosedog.gitlab.io
+0.0.0.0 awebstories.com
+0.0.0.0 awebstories.com/wp-content/plugins/secure-copy-content-protection^$all
+0.0.0.0 zgbk.com
+0.0.0.0 cataz.net
+0.0.0.0 htforum.net
+0.0.0.0 the-masters-voice.com
+0.0.0.0 hemas.pl
+0.0.0.0 lover93.net
+0.0.0.0 sinau-thewe.com
+0.0.0.0 clujust.ro
+0.0.0.0 esologs.com,fflogs.com,swtorlogs.com,warcraftlogs.com,wildstarlogs.com
+0.0.0.0 hbzb111.com/api/advert/
+0.0.0.0 protopage.com
+0.0.0.0 coub.com
+0.0.0.0 /wp-content/plugins/wp-extra/js/copy.min.js$script
+0.0.0.0 accgroup.vn
+0.0.0.0 artstation.com
+0.0.0.0 swiggy.com
+0.0.0.0 digi24.ro
+0.0.0.0 georgiadogs.com/js/prebid-$xhr,1p,redirect=noop.txt
+0.0.0.0 stockpokeronline.com
+0.0.0.0 law.com
+0.0.0.0 aberdeennews.com,alamogordonews.com,amarillo.com,amestrib.com,app.com,argusleader.com,augustachronicle.com,azcentral.com,battlecreekenquirer.com,beaconjournal.com,blueridgenow.com,buckscountycouriertimes.com,bucyrustelegraphforum.com,burlingtoncountytimes.com,burlingtonfreepress.com,caller.com,cantondailyledger.com,cantonrep.com,capecodtimes.com,cheboygannews.com,chieftain.com,chillicothegazette.com,cincinnati.com,citizen-times.com,cjonline.com,clarionledger.com,coloradoan.com,columbiadailyherald.com,columbiatribune.com,commercialappeal.com,coshoctontribune.com,courier-journal.com,courier-tribune.com,courierpostonline.com,courierpress.com,currentargus.com,daily-jeff.com,daily-times.com,dailyamerican.com,dailycomet.com,dailycommercial.com,dailyrecord.com,dailyworld.com,delawareonline.com,delmarvanow.com,demingheadlight.com,democratandchronicle.com,desertsun.com,desmoinesregister.com,devilslakejournal.com,dispatch.com,dnj.com,ellwoodcityledger.com,elpasotimes.com,enterprisenews.com,eveningsun.com,eveningtribune.com,examiner-enterprise.com,fayobserver.com,fdlreporter.com,floridatoday.com,fosters.com,freep.com,gadsdentimes.com,gainesville.com,galesburg.com,gastongazette.com,goerie.com,gosanangelo.com,goupstate.com,greatfallstribune.com,greenbaypressgazette.com,greenvilleonline.com,hattiesburgamerican.com,heraldmailmedia.com,heraldnews.com,heraldtribune.com,hillsdale.net,hollandsentinel.com,hoosiertimes.com,houmatoday.com,htrnews.com,hutchnews.com,indeonline.com,independentmail.com,indystar.com,ithacajournal.com,jacksonsun.com,jacksonville.com,jconline.com,jdnews.com,journalstandard.com,jsonline.com,kinston.com,kitsapsun.com,knoxnews.com,lancastereaglegazette.com,lansingstatejournal.com,lcsun-news.com,ldnews.com,lenconnect.com,lincolncourier.com,livingstondaily.com,lohud.com,lubbockonline.com,mansfieldnewsjournal.com,marionstar.com,marshfieldnewsherald.com,mcdonoughvoice.com,metrowestdailynews.com,milforddailynews.com,monroenews.com,montgomeryadvertiser.com,mpnnow.com,mycentraljersey.com,naplesnews.com,newarkadvocate.com,newbernsj.com,newportri.com,news-journalonline.com,news-leader.com,news-press.com,newschief.com,newsherald.com,newsleader.com,njherald.com,northjersey.com,norwichbulletin.com,nwfdailynews.com,oakridger.com,ocala.com,oklahoman.com,onlineathens.com,pal-item.com,palmbeachdailynews.com,palmbeachpost.com,patriotledger.com,pekintimes.com,petoskeynews.com,pjstar.com,pnj.com,poconorecord.com,pontiacdailyleader.com,portclintonnewsherald.com,postcrescent.com,poughkeepsiejournal.com,press-citizen.com,pressconnects.com,progress-index.com,providencejournal.com,publicopiniononline.com,record-courier.com,recordnet.com,recordonline.com,redding.com,registerguard.com,reporter-times.com,reporternews.com,rgj.com,rrstar.com,ruidosonews.com,salina.com,savannahnow.com,scsun-news.com,sctimes.com,seacoastonline.com,sheboyganpress.com,shelbystar.com,shreveporttimes.com,sj-r.com,sooeveningnews.com,southbendtribune.com,southcoasttoday.com,starcourier.com,stargazette.com,starnewsonline.com,statesman.com,statesmanjournal.com,staugustine.com,stevenspointjournal.com,sturgisjournal.com,swtimes.com,tallahassee.com,tauntongazette.com,tcpalm.com,telegram.com,tennessean.com,the-daily-record.com,the-dispatch.com,the-leader.com,the-review.com,theadvertiser.com,thecalifornian.com,thedailyjournal.com,thedailyreporter.com,thegardnernews.com,thegleaner.com,thehawkeye.com,theintell.com,theleafchronicle.com,theledger.com,thenews-messenger.com,thenewsstar.com,thenorthwestern.com,thepublicopinion.com,therecordherald.com,thespectrum.com,thestarpress.com,thetimesherald.com,thetimesnews.com,thetowntalk.com,times-gazette.com,timesonline.com,timesrecordnews.com,timesreporter.com,timestelegram.com,tmnews.com,tricountyindependent.com,tuscaloosanews.com,usatoday.com,uticaod.com,vcstar.com,visaliatimesdelta.com,vvdailypress.com,wausaudailyherald.com,wisconsinrapidstribune.com,ydr.com,zanesvilletimesrecorder.com
+0.0.0.0 streamservicehd.click
+0.0.0.0 craftpip.github.io
+0.0.0.0 modrinth.com
+0.0.0.0 btvnovinite.bg
+0.0.0.0 iphoneincanada.ca
+0.0.0.0 hkemobility.gov.hk/js/AppDownload.
+0.0.0.0 hkemobility.gov.hk
+0.0.0.0 epitesti.ro
+0.0.0.0 blink.net/iframe.html$domain=dailyprincetonian.com
+0.0.0.0 allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net
+0.0.0.0 /block-keys.js$script,important,domain=allcryptoz.net|crewbase.net|crewus.net|shinbhu.net|shinchu.net|thumb8.net|thumb9.net|topcryptoz.net|uniqueten.net|ultraten.net
+0.0.0.0 eplayer.click,olacast.live
+0.0.0.0 knightnoscanlation.com
+0.0.0.0 cloudcomputingtopics.net
+0.0.0.0 sweetslyrics.com
+0.0.0.0 portalcriatividade.com.br
+0.0.0.0 cdn.privacy-mgmt.com^$script,xhr,domain=anisearch.com
+0.0.0.0 anisearch.com/*?p=1|$frame
+0.0.0.0 delicateseliterare.ro
+0.0.0.0 uwayapply.com
+0.0.0.0 bianity.net
+0.0.0.0 csid.ro
+0.0.0.0 smokelearned.net
+0.0.0.0 onna.kr
+0.0.0.0 10000recipe.com
+0.0.0.0 frameboxxindore.com
+0.0.0.0 *$script,domain=geotastic.net,redirect-rule=noopjs
+0.0.0.0 api.adinplay.com/libs/aiptag/pub/CRF/curvefever.pro/tag.min.js$script,domain=curvefever.pro
+0.0.0.0 faptiti.com
+0.0.0.0 vercalendario.info
+0.0.0.0 getlatka.com
+0.0.0.0 pixwox.com
+0.0.0.0 /wp-content/plugins/t42-content-protector/js/protector.min.js$script
+0.0.0.0 indianhealthyrecipes.com
+0.0.0.0 fantasytagtree.com
+0.0.0.0 discovervalids.com/assets-new/js/block.js$script,1p
+0.0.0.0 bagaglioamano.io
+0.0.0.0 lamusica.com
+0.0.0.0 profreehost.com/includes/js/customBottom.js$script,1p
+0.0.0.0 droetker.*/static/js/privacy-dialog/
+0.0.0.0 nhentaihaven.org
+0.0.0.0 onscreensvideo.com
+0.0.0.0 krunkercentral.com
+0.0.0.0 stiridinromania.ro
+0.0.0.0 jamilacuisine.ro
+0.0.0.0 slideshare.net
+0.0.0.0 coinsparty.com
+0.0.0.0 startpage.com^$ghide
+0.0.0.0 postype.com
+0.0.0.0 golfdigest.com
+0.0.0.0 lofter.com
+0.0.0.0 poipiku.com
+0.0.0.0 duhoctrungquoc.vn
+0.0.0.0 tarnkappe.info
+0.0.0.0 discordbotlist.com^$ghide
+0.0.0.0 hentaihaven.xxx
+0.0.0.0 airbnb.de
+0.0.0.0 hidemywp.co
+0.0.0.0 wpplugins.tips
+0.0.0.0 top.gg
+0.0.0.0 kooora4lives.net,kooora4livs.com
+0.0.0.0 bolugundem.com
+0.0.0.0 ddys.*
+0.0.0.0 kangkimin.com
+0.0.0.0 safirsoft.com
+0.0.0.0 media.framu.world
+0.0.0.0 tvshowstars.com,eurooptyk.com.pl,celebzcircle.com,sertracen.com.pa,pitesti24.ro,samsungtechwin.com,cours-de-droit.net,iptv4best.com,blogvisaodemercado.pt,kapitalis.com,tiempo.hn,winmeen.com,ibps.in,visse.com.br,javsubtitle.co,learninsta.com,licensekeys.org,mediahiburan.my,tipssehatcantik.com,anime-drama.jp,jbjbgame.com,viatasisanatate.com,ziarulargesul.ro,globaldefensecorp.com,gossipnextdoor.com,coffeeapps.ir,media.framu.world,immobiliaremia.com,colegiosconcertados.info,bigdatauni.com,riwyat.com,rukim.id,visefierbinti.ro,cyberkrafttraining.com,theaircurrent.com,ncert-solutions.com,ncertsolutions.guru,nocturnetls.net,clockks.com,ananda-yoga.ro,poolpiscina.com,infodifesa.it,getective.com,flashdumpfiles.com,formatatmak.com,drkrok.com,alphagirlreviews.com,kitchennovel.com,voxvalachorum.ro,cracksone.com,day-hoc.org,onlineonderdelenshop.nl,primicia.com.ve,tech-recipes.com,postcourier.com.pg,afrikmag.com,maduras.vip,aprendeinglessila.com,kicknews.today,koalasplayground.com,hellokpop.com,hayatbilgileri.com,moneyexcel.com,placementstore.com,neuroteam-metz.de,codedosa.com,liveyourmaths.com,newspao.gr,ieltsliz.com,programasvirtualespc.net,tempatwisataseru.com,wikiofcelebs.com,jornaljoca.com.br,arcanescans.com,filmzone.com,hiraethtranslation.com,kaystls.site,home.novel-gate.com,plural.jor.br,evreporter.com,sinhasannews.com,viewsofgreece.gr,rozbor-dila.cz,kritichno.bg,csiplearninghub.com,medeberiya.site
+0.0.0.0 tvshowstars.com,eurooptyk.com.pl,celebzcircle.com,sertracen.com.pa,pitesti24.ro,samsungtechwin.com,cours-de-droit.net,iptv4best.com,blogvisaodemercado.pt,kapitalis.com,tiempo.hn,winmeen.com,ibps.in,visse.com.br,javsubtitle.co,learninsta.com,licensekeys.org,mediahiburan.my,tipssehatcantik.com,jbjbgame.com,viatasisanatate.com,ziarulargesul.ro,globaldefensecorp.com,gossipnextdoor.com,coffeeapps.ir,media.framu.world,immobiliaremia.com,colegiosconcertados.info,bigdatauni.com,riwyat.com,rukim.id,visefierbinti.ro,theaircurrent.com,ncert-solutions.com,ncertsolutions.guru,nocturnetls.net,clockks.com,ananda-yoga.ro,poolpiscina.com,infodifesa.it,getective.com,flashdumpfiles.com,formatatmak.com,drkrok.com,alphagirlreviews.com,kitchennovel.com,voxvalachorum.ro,cracksone.com,day-hoc.org,onlineonderdelenshop.nl,primicia.com.ve,tech-recipes.com,afrikmag.com,maduras.vip,aprendeinglessila.com,kicknews.today,koalasplayground.com,hellokpop.com,hayatbilgileri.com,moneyexcel.com,placementstore.com,neuroteam-metz.de,codedosa.com,liveyourmaths.com,newspao.gr,ieltsliz.com,programasvirtualespc.net,tempatwisataseru.com,wikiofcelebs.com,jornaljoca.com.br,arcanescans.com,filmzone.com,hiraethtranslation.com,kaystls.site,home.novel-gate.com,plural.jor.br,evreporter.com,sinhasannews.com,viewsofgreece.gr,rozbor-dila.cz,kritichno.bg,csiplearninghub.com
+0.0.0.0 medeberiya.site
+0.0.0.0 celebzcircle.com,pitesti24.ro,samsungtechwin.com,cours-de-droit.net,iptv4best.com,blogvisaodemercado.pt,kapitalis.com,tiempo.hn,winmeen.com,ibps.in,visse.com.br,javsubtitle.co,learninsta.com,licensekeys.org,mediahiburan.my,tipssehatcantik.com,anime-drama.jp,jbjbgame.com,viatasisanatate.com,ziarulargesul.ro,globaldefensecorp.com,gossipnextdoor.com,coffeeapps.ir,media.framu.world,immobiliaremia.com,colegiosconcertados.info,bigdatauni.com,riwyat.com,rukim.id,visefierbinti.ro,cyberkrafttraining.com,theaircurrent.com,ncert-solutions.com,ncertsolutions.guru,nocturnetls.net,clockks.com,ananda-yoga.ro,poolpiscina.com,infodifesa.it,getective.com,flashdumpfiles.com,formatatmak.com,drkrok.com,alphagirlreviews.com,kitchennovel.com,voxvalachorum.ro,cracksone.com,day-hoc.org,onlineonderdelenshop.nl,primicia.com.ve,tech-recipes.com,postcourier.com.pg,afrikmag.com,maduras.vip,aprendeinglessila.com,kicknews.today,koalasplayground.com,hellokpop.com,hayatbilgileri.com,moneyexcel.com,placementstore.com,neuroteam-metz.de,codedosa.com,liveyourmaths.com,newspao.gr,ieltsliz.com,programasvirtualespc.net,tempatwisataseru.com,wikiofcelebs.com,jornaljoca.com.br,arcanescans.com,filmzone.com,hiraethtranslation.com,kaystls.site,home.novel-gate.com,plural.jor.br,sinhasannews.com,viewsofgreece.gr,rozbor-dila.cz,kritichno.bg,csiplearninghub.com
+0.0.0.0 eurooptyk.com.pl,evreporter.com,tvshowstars.com
+0.0.0.0 /wp-content/plugins/wccp-pro/*$domain=ferroviando.com.br|counciloflove.com|gourmetscans.net|infokik.com|kulinarnastronamocy.pl|jafekri.com|reborntrans.com|truyenbanquyen.com|ezmanga.net|secondlifetranslations.com|piklodz.pl
+0.0.0.0 freereadnovel.online,piklodz.pl,secondlifetranslations.com,ferroviando.com.br,counciloflove.com,infokik.com,kulinarnastronamocy.pl,jafekri.com,ezmanga.net,reborntrans.com,truyenbanquyen.com
+0.0.0.0 freereadnovel.online,reborntrans.com,secondlifetranslations.com
+0.0.0.0 freereadnovel.online/*?wccp_ver_num=
+0.0.0.0 studyflix.de
+0.0.0.0 espn.com
+0.0.0.0 walkthrough-indo.blogspot.com
+0.0.0.0 desijugar.net
+0.0.0.0 memoryhackers.org
+0.0.0.0 technologyreview.jp
+0.0.0.0 */wp-content/plugins/content-copy-protection-disable-right-click/$script
+0.0.0.0 warning.or.kr
+0.0.0.0 grabify.link^$ghide
+0.0.0.0 steamcollector.com
+0.0.0.0 vaultcdn.electricapps.net/lib/jquery-ui-min.js$script,domain=yourgamingshop.com
+0.0.0.0 hayatbilgileri.com
+0.0.0.0 wormate.io
+0.0.0.0 postcourier.com.pg
+0.0.0.0 pobre.*
+0.0.0.0 surreyhillsgrocer.sg
+0.0.0.0 paidiatreio.gr
+0.0.0.0 gmx.co.uk,gmx.com
+0.0.0.0 textcleaner.net
+0.0.0.0 sneakernews.com
+0.0.0.0 socialcounts.org
+0.0.0.0 *$script,3p,redirect-rule=noopjs,domain=fflogs.com
+0.0.0.0 fflogs.com
+0.0.0.0 freestreams-live1.tv
+0.0.0.0 likey.me
+0.0.0.0 ziare.com
+0.0.0.0 agrointel.ro
+0.0.0.0 freefilesync.org#@#.adsbygoogle
+0.0.0.0 01.org
+0.0.0.0 sflix.to
+0.0.0.0 sflix.to,sflix.is,sflix.ca,sflix2.to
+0.0.0.0 magiclen.org
+0.0.0.0 virustotal.com
+0.0.0.0 heavyfetish.com
+0.0.0.0 ads.twitcasting.tv/js/env_test/ads.js$script,1p
+0.0.0.0 selfstudys.com
+0.0.0.0 player.cnevids.com/interlude/gq*&rightRail=true$script
+0.0.0.0 intergient.com^$script,domain=raider.io,redirect-rule=noopjs
+0.0.0.0 thizissam.in
+0.0.0.0 m.timesofindia.com
+0.0.0.0 jojoy.io
+0.0.0.0 mgsm.pl
+0.0.0.0 sbbrisk.com
+0.0.0.0 pl
+0.0.0.0 substack.com
+0.0.0.0 entra.news,microsoftsecurityinsights.com,substack.com
+0.0.0.0 wallpaperaccess.com
+0.0.0.0 /^https:\/\/[a-z0-9]+\.[a-z]{2,}\/blast\.js$/$script,1p,strict1p,to=~gov|~edu
+0.0.0.0 ilovetoplay.xyz
+0.0.0.0 ntuplay.xyz
+0.0.0.0 icelz.to/tv/global-devtools-blocker.js$script
+0.0.0.0 revistasufletului.net
+0.0.0.0 jsc.adskeeper.co.uk^$script,3p,domain=pastedownload.com,redirect-rule=noop.js
+0.0.0.0 myfreemp3juices.cc
+0.0.0.0 adslink.pw,jpopsingles.eu
+0.0.0.0 jpopsingles.eu
+0.0.0.0 actiongame.com,brain-games.co.uk,classicgame.com,games-site.co.uk,hiddenobjectgames.com,mahjong.co.uk,mahjong.com,match3.co.uk,match3games.com,mindgames.com,neongames.co.uk,neongames.com,solitaireonline.com,timemanagementgame.com
+0.0.0.0 two9success.com
+0.0.0.0 tv2.no
+0.0.0.0 camcaps.to,vtplayer.net
+0.0.0.0 vtplayer.net
+0.0.0.0 phimlongtieng.net/js/devtool.js
+0.0.0.0 phimlongtieng.net/templates/themes/phim/js/antihtml.js
+0.0.0.0 phimlongtieng.net
+0.0.0.0 verselemzes.hu
+0.0.0.0 javhoho.com/wp-content/uploads/*/Upgrade-PREMIUM-
+0.0.0.0 skyozora.com
+0.0.0.0 zunda.site
+0.0.0.0 dialectsarchive.com
+0.0.0.0 workhouses.org.uk
+0.0.0.0 weakstream.org
+0.0.0.0 4media.com,przegladpiaseczynski.pl
+0.0.0.0 easyayurveda.com,sharktankblog.com
+0.0.0.0 dollarvr.com
+0.0.0.0 romviet.com
+0.0.0.0 jk-market.com
+0.0.0.0 hket.com
+0.0.0.0 genesistls.com
+0.0.0.0 milenio.com
+0.0.0.0 shortform.com
+0.0.0.0 newsme.gr
+0.0.0.0 displayspecifications.com
+0.0.0.0 squidboards.com
+0.0.0.0 daily-tohoku.news
+0.0.0.0 regex101.com
+0.0.0.0 savoriurbane.com
+0.0.0.0 descopera.ro
+0.0.0.0 joysound.com
+0.0.0.0 freewaysintl.com
+0.0.0.0 velicu.eu
+0.0.0.0 verfutebol.net
+0.0.0.0 veneto.info
+0.0.0.0 panorama.it
+0.0.0.0 arenavalceana.ro
+0.0.0.0 firmwarefile.com
+0.0.0.0 activationkeys.co
+0.0.0.0 senpaiediciones.com
+0.0.0.0 /wp-content/plugins/disabled-source-disabled-right-click-and-content-protection/*$script,css,1p
+0.0.0.0 gukjenews.com
+0.0.0.0 webnovel.com
+0.0.0.0 asianexpress.co.uk,best4hack.blogspot.com,certificationexamanswers.890m.com,cookhero.gr,creative-chemistry.org.uk,deutschaj.com,divineyogaschool.blogspot.com,fabioambrosi.it,flory4all.com,fv2freegifts.org,geniusjw.com,ideas0419.com,jeyran.net,ktm2day.com,letsdownloads.com,limametti.com,luyenthithukhoa.vn,otakukan.com,ribbelmonster.de,untitle.org,uptimeside.webnode.gr,usmleexperiences.review,yoyofilmeys.*,zoommastory.com
+0.0.0.0 urbanbrush.net
+0.0.0.0 audiotools.in
+0.0.0.0 7misr4day.com
+0.0.0.0 raindropteamfan.com
+0.0.0.0 vinstartheme.com
+0.0.0.0 pepperlive.info,unbiasedsenseevent.com
+0.0.0.0 maxt.church
+0.0.0.0 bluemediafile.*
+0.0.0.0 ilife97.com
+0.0.0.0 vtbe.to,vtube.network
+0.0.0.0 manhwahentai.me
+0.0.0.0 canalnatelinhaonline.blogspot.com
+0.0.0.0 ontools.net
+0.0.0.0 luckydesigner.space/adview_$xhr,1p
+0.0.0.0 neilpatel.com
+0.0.0.0 onlinegiftools.com,onlinejpgtools.com,onlinepngtools.com,onlinestringtools.com,onlinetexttools.com,onlinetools.com
+0.0.0.0 cool-etv.net
+0.0.0.0 cool-etv.net/ch/suppy.js$script,1p
+0.0.0.0 jsfiddle.net
+0.0.0.0 regexr.com
+0.0.0.0 .secure-copy-content-protection-public.css^$css,1p
+0.0.0.0 snbc13.com
+0.0.0.0 thestar.com.my
+0.0.0.0 corriereadriatico.it
+0.0.0.0 scarysymptoms.com
+0.0.0.0 ikorektor.pl
+0.0.0.0 theonegenerator.com
+0.0.0.0 vgembed.com
+0.0.0.0 static.wikia.nocookie.net/silversurfer/prod/latest/ageGateUnit-pathfinder.js^$script,3p
+0.0.0.0 personality-database.com
+0.0.0.0 colors.sonicthehedgehog.com
+0.0.0.0 senpa.io
+0.0.0.0 leakedzone.com
+0.0.0.0 katerionews.com,telenovelas-turcas.com.es
+0.0.0.0 telenovelas-turcas.com.es
+0.0.0.0 g37.com.br
+0.0.0.0 film4e.com,zamundatv.com
+0.0.0.0 embed.reddit.com
+0.0.0.0 zefoy.com
+0.0.0.0 jpost.com
+0.0.0.0 j91.asia
+0.0.0.0 nppes.cms.hhs.gov
+0.0.0.0 khou.com
+0.0.0.0 /wp-content/themes/linhminazmovies/assets/js/dev.js$script,1p
+0.0.0.0 rodude.com
+0.0.0.0 mehoathinh2.com
+0.0.0.0 goldenstateofmind.com
+0.0.0.0 kmo.to
+0.0.0.0 0123movies.ch
+0.0.0.0 9now.com.au
+0.0.0.0 pagead2.googlesyndication.com/pagead/show_ads.js$script,redirect=noopjs,domain=ageofconsent.net
+0.0.0.0 neoseeker.com
+0.0.0.0 teamkong.tk
+0.0.0.0 forplayx.ink
+0.0.0.0 brutal.io,powerline.io
+0.0.0.0 xeiaso.net
+0.0.0.0 musicallyvideos.com
+0.0.0.0 embibe.com
+0.0.0.0 actvid.com
+0.0.0.0 vidmoly.*
+0.0.0.0 camcaps.io
+0.0.0.0 10tv.com
+0.0.0.0 macaro-ni.jp#@#.l-main:style(padding-top: 13.4vw
+0.0.0.0 isekaipalace.com
+0.0.0.0 seriesperu.com
+0.0.0.0 jeniusplay.com
+0.0.0.0 sbot.cf
+0.0.0.0 tvhay.*
+0.0.0.0 fjordd.com
+0.0.0.0 tumblr.com
+0.0.0.0 lapresse.ca
+0.0.0.0 zelka.org
+0.0.0.0 sekaikomik.bio
+0.0.0.0 playertv.net
+0.0.0.0 warungkomik.com
+0.0.0.0 enduro-mtb.com
+0.0.0.0 themeslide.com
+0.0.0.0 kukaj.io
+0.0.0.0 scitechdaily.com
+0.0.0.0 ophim.vip
+0.0.0.0 hindustantimes.com
+0.0.0.0 *
+0.0.0.0 animesaga.in
+0.0.0.0 terramirabilis.ro
+0.0.0.0 animesuge.to,aniwave.*,anix.*,flixhq.*,flixrave.to,hdtoday.so,hurawatch.bz,vidplay.site,vid2faf.site
+0.0.0.0 animesuge.to,aniwave.*,anix.*,bflix.io,flixhq.*,fmovies.*,f2movies.ru,hdtoday.so,hurawatch.bz,movies2watch.ru,putlockernew.vc,swatchseries.ru,vidplay.site,vid2faf.site,vidstream.pro,mcloud.to
+0.0.0.0 animesuge.to,aniwave.*,anix.*,flixrave.to,hdtoday.so,hurawatch.bz,vidplay.*,vid2faf.site
+0.0.0.0 161.97.70.5
+0.0.0.0 zerogpt.net
+0.0.0.0 linkco.re
+0.0.0.0 txori.com
+0.0.0.0 team-octavi.com
+0.0.0.0 mms.cnn.com^$1p
+0.0.0.0 bypass.city,adbypass.org
+0.0.0.0 nicekkk.com
+0.0.0.0 sgd.de
+0.0.0.0 *$script,1p,redirect-rule=noopjs,domain=punishworld.com
+0.0.0.0 comikey.com
+0.0.0.0 tuta.com
+0.0.0.0 venturebeat.com
+0.0.0.0 guildstats.eu
+0.0.0.0 aboutchromebooks.com,ancient.eu,comingsoon.net,daysoftheyear.com,edn.com,gearjunkie.com,harvardmagazine.com,lgbtqnation.com,majorgeeks.com,mangainn.net,medievalists.net,sherdog.com,sidereel.com,statesman.com,winhelponline.com
+0.0.0.0 boston.com,britannica.com,cattime.com,dogtime.com,download.mokeedev.com,freep.com,ijr.com,inquirer.net,knowyourmeme.com,nationalreview.com,nofilmschool.com,order-order.com,savvytime.com,techlicious.com,technicpack.net,thedraftnetwork.com,wrestlezone.com,xda-developers.com
+0.0.0.0 majorgeeks.com
+0.0.0.0 legacy.com
+0.0.0.0 lazyadmin.nl
+0.0.0.0 saikaiscans.net
+0.0.0.0 gdrivedescarga.com
+0.0.0.0 ilsole24ore.com
+0.0.0.0 gaz.com.br
+0.0.0.0 bg-gledai.*
+0.0.0.0 boop.pl
+0.0.0.0 audiologyresearch.org
+0.0.0.0 klartext-ne.de
+0.0.0.0 sqlserveregitimleri.com
+0.0.0.0 edurev.in
+0.0.0.0 appimagehub.com,gnome-look.org,store.kde.org,linux-apps.com,opendesktop.org,pling.com,xfce-look.org
+0.0.0.0 haberiniz.com.tr
+0.0.0.0 timesnownews.com
+0.0.0.0 zipcode.com.ng
+0.0.0.0 yhmgo.com/tpsf/yh_js/rtpck.js$1p
+0.0.0.0 expquebec.com
+0.0.0.0 transinfo.pl
+0.0.0.0 elsalvadorsurfrealestate.com
+0.0.0.0 translate.goog
+0.0.0.0 talouselama.fi,uusisuomi.fi,tekniikkatalous.fi,tivi.fi,kauppalehti.fi
+0.0.0.0 thejakartapost.com
+0.0.0.0 oreilly.com
+0.0.0.0 fullxh.com,galleryxh.site,megaxh.com,movingxh.world,seexh.com,unlockxh4.com,valuexh.life,xhaccess.com,xhadult2.com,xhadult3.com,xhadult4.com,xhadult5.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster20.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster42.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhday.com,xhday1.com,xhlease.world,xhmoon5.com,xhofficial.com,xhopen.com,xhplanet1.com,xhplanet2.com,xhreal2.com,xhreal3.com,xhspot.com,xhtotal.com,xhtree.com,xhvictory.com,xhwebsite.com,xhwebsite2.com,xhwebsite5.com,xhwide1.com,xhwide2.com,xhwide5.com
+0.0.0.0 270towin.com
+0.0.0.0 tech.hindustantimes.com
+0.0.0.0 photopea.com
+0.0.0.0 photopea.com/img/pp_wide.png^$image,1p
+0.0.0.0 photopea.com/img/pp_tall.png^$image,1p
+0.0.0.0 deccanherald.com
+0.0.0.0 /js/content-protector.min.js$script
+0.0.0.0 mathcrave.com
+0.0.0.0 vrcmods.com
+0.0.0.0 www.watermarkremover.io
+0.0.0.0 uploadvr.com
+0.0.0.0 getemoji.com
+0.0.0.0 dbx.molystream.org/assets/s.js$script
+0.0.0.0 2pdfconverter.com,annotation.com,changefaces.com,chartle.com,coloringonline.com,fakechatapp.com,files2zip.com,mapimage.com,maproute.com,mindclouds.com,phideo.com,photocollage.com,photoeditor.com,photoenlarger.com,photofilters.com,photoresizer.com,postermaker.com,qrapp.com,stripbackground.com,toonytool.com,wordclouds.com,youtubetrimmer.com
+0.0.0.0 marinetraffic.com
+0.0.0.0 sportando.basketball
+0.0.0.0 ymovies.vip,aniwatch.to,aniwatchtv.to,megacloud.tv,hianime.*,hianimez.to,putlocker.vip,rapid-cloud.co,rabbitstream.net,pupupul.site
+0.0.0.0 9animetv.to/js/safe.ob.min.js$script
+0.0.0.0 myflixerz.to,putlocker.pe,theflixertv.to
+0.0.0.0 movie4kto.net
+0.0.0.0 grostembed.online,megacloud.*,premiumembeding.cloud,venusembed.site
+0.0.0.0 lethalpanda.com
+0.0.0.0 animenewsnetwork.com
+0.0.0.0 hackthebox.com/build/assets/just-detect-adblock-$script,1p
+0.0.0.0 amtraker.com
+0.0.0.0 heidisql.com
+0.0.0.0 romprovider.com
+0.0.0.0 dicasfinanceirasbr.com,dicasdevalor.net,dicasdefinancas.net,guiasaude.info,felizemforma.com,financasdeouro.com
+0.0.0.0 guiasaude.info,felizemforma.com
+0.0.0.0 financasdeouro.com
+0.0.0.0 brokensilenze.net
+0.0.0.0 pub.network^$script,3p,redirect=noopjs,domain=concertarchives.org
+0.0.0.0 concertarchives.org#@#[data-freestar-ad]
+0.0.0.0 concertarchives.org
+0.0.0.0 userapi.com/impf/$image,uritransform=/^\/impf\/+//,domain=vk.com|vk.ru
+0.0.0.0 web.telegram.org
+0.0.0.0 galinos.gr
+0.0.0.0 bluesnews.com
+0.0.0.0 broncoshq.com
+0.0.0.0 androidpolice.com,makeuseof.com,movieweb.com,xda-developers.com,thegamer.com,cbr.com,gamerant.com,screenrant.com,howtogeek.com,thethings.com,simpleflying.com,dualshockers.com
+0.0.0.0 groundies.com
+0.0.0.0 alfred.camera
+0.0.0.0 decider.com,nypost.com,pagesix.com
+0.0.0.0 habuteru.com
+0.0.0.0 anascrie.ro
+0.0.0.0 moviesapi.club,bestx.stream,watchx.top
+0.0.0.0 bestx.stream/assets/js/devtools-detector.js
+0.0.0.0 streambuddy.net
+0.0.0.0 daotranslate.*
+0.0.0.0 wrosinski.pl
+0.0.0.0 iptvromania.ro
+0.0.0.0 wtsp.com
+0.0.0.0 welovemanga.one
+0.0.0.0 pap.pl
+0.0.0.0 mangaschan.net,sssscanlator.com,nightscans.net,cypherscans.xyz
+0.0.0.0 icourse163.org
+0.0.0.0 twitchemotes.com
+0.0.0.0 send.cm/static/js/engine.js$script,1p
+0.0.0.0 alexsportz.online
+0.0.0.0 smartkhabrinews.com
+0.0.0.0 starzunion.com
+0.0.0.0 nsfw247.biz
+0.0.0.0 cheersandgears.com
+0.0.0.0 sportea.online
+0.0.0.0 streamvid.net
+0.0.0.0 moovitapp.com
+0.0.0.0 digminecraft.com
+0.0.0.0 vidstreaming.xyz
+0.0.0.0 iphoneincanada.ca^$ghide
+0.0.0.0 firescans.xyz
+0.0.0.0 *$image,domain=peacocktv.com,redirect-rule=1x1.gif
+0.0.0.0 peacocktv.com
+0.0.0.0 cespun.eu
+0.0.0.0 tips97tech.blogspot.com
+0.0.0.0 encurtandourl.com
+0.0.0.0 news.17173.com
+0.0.0.0 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=woomy-site.glitch.me
+0.0.0.0 videos-cloudfront.jwpsrv.com^$media,domain=app.simpleclub.com
+0.0.0.0 cdn.jwplayer.com^$media,domain=app.simpleclub.com
+0.0.0.0 ip.sb/assets/js/wwads_blocked.js
+0.0.0.0 arras.io,arras.netlify.app,arrax.io
+0.0.0.0 freetvsports.xyz
+0.0.0.0 zippyupload.com
+0.0.0.0 ndtvprofit.com
+0.0.0.0 tuborstb.co
+0.0.0.0 vembed.*
+0.0.0.0 netu.*,netuplayer.top,stbnetu.xyz
+0.0.0.0 stblion.xyz
+0.0.0.0 scenexe.io
+0.0.0.0 googlesyndication.com^$script,domain=cheatnetwork.eu
+0.0.0.0 cheatnetwork.eu^$script,xhr,1p
+0.0.0.0 cheatnetwork.eu^$ghide
+0.0.0.0 hdrez.com
+0.0.0.0 sportsupa.com
+0.0.0.0 how-to-pc.info,programming-link.info
+0.0.0.0 how-to-pc.info^$ghide
+0.0.0.0 emturbovid.com
+0.0.0.0 with.is
+0.0.0.0 movie-web.app
+0.0.0.0 redecanais.*,redecanaistv.*,redisex.*,xn-----0b4asja7ccgu2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b,xn--90afacv0clj6ac0dxa.xn--p1ai,xn--90afacv0cu2a3cr.xn--p1ai
+0.0.0.0 hoca4u.com
+0.0.0.0 lowcygier.pl
+0.0.0.0 asheville.com
+0.0.0.0 theasianparent.com
+0.0.0.0 maxroll.gg
+0.0.0.0 s.nitropay.com/n.svg$xhr,domain=maxroll.gg
+0.0.0.0 solarmovie.vip/js/$script,1p,replace=/\(\{checkers\:.*?\]\}\)/({checkers:[]})/g
+0.0.0.0 solarmovie.*
+0.0.0.0 chowhound.com,explore.com,foodie.com,foodrepublic.com,glam.com,grunge.com,healthdigest.com,housedigest.com,looper.com,mashed.com,moneydigest.com,nickiswift.com,outdoorguide.com,slashfilm.com,slashgear.com,tastingtable.com,thedailymeal.com,thelist.com,women.com,wrestlinginc.com
+0.0.0.0 geeksoncoffee.com
+0.0.0.0 guidingliterature.com
+0.0.0.0 asumanaksoy.com,freshlifecircle.com
+0.0.0.0 cdn.jsdelivr.net/npm/devtools-detector$script,domain=asumanaksoy.com|comedyshow.to|freshlifecircle.com|superembeds.com|blsplayer.com|daftmovie.xyz
+0.0.0.0 hentaihd.cyou/assets/js/devtools-detector.js$script
+0.0.0.0 bhplay.me/player/assets/devtools-detector/$script,1p
+0.0.0.0 /cdn.jsdelivr.net/npm/disable-devtool$script,domain=1jour1film.homes|simptown.su
+0.0.0.0 player.melaniezettofrais.online/assets/js/devtools-detector$script
+0.0.0.0 animedao.*
+0.0.0.0 ngelmat.net
+0.0.0.0 oceanplay.org
+0.0.0.0 bluphim.com,cdnmoviking.tech
+0.0.0.0 mineskin.org
+0.0.0.0 blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com
+0.0.0.0 blog.coinsvalue.net,blog.cookinguide.net,blog.freeoseocheck.com
+0.0.0.0 sheffieldforum.co.uk^$xhr,1p
+0.0.0.0 nsmb.com
+0.0.0.0 afterclass.io
+0.0.0.0 hbstack.dev^$script,xhr,1p
+0.0.0.0 aventurainromania.ro
+0.0.0.0 playingfire.com
+0.0.0.0 abril.com.br
+0.0.0.0 mcskinhistory.com
+0.0.0.0 tv.bdix.app
+0.0.0.0 mkv-pastes.com
+0.0.0.0 unic.com.vn/js/disable-copy.js$script
+0.0.0.0 unic.com.vn/css/chongcopy.css$css
+0.0.0.0 unic.com.vn
+0.0.0.0 goodreads.com#@?#.Overlay--floating:has(> div.Overlay__window > div.Overlay__content > div.LoginInterstitial)
+0.0.0.0 shaalaa.com
+0.0.0.0 viewing.nyc
+0.0.0.0 tmz.com
+0.0.0.0 justspices.de
+0.0.0.0 baumbet.ro
+0.0.0.0 op.gg
+0.0.0.0 notificationsounds.com
+0.0.0.0 ncrtsolutions.in
+0.0.0.0 tweaking4all.com
+0.0.0.0 studiestoday.com
+0.0.0.0 watch.lonelil.com
+0.0.0.0 hitokageproduction.com
+0.0.0.0 thotsbay.tv
+0.0.0.0 sarthaks.com
+0.0.0.0 zigya.com
+0.0.0.0 teachoo.com
+0.0.0.0 pancreas.ro
+0.0.0.0 studyrankers.com
+0.0.0.0 bharatavani.in
+0.0.0.0 delfi.lt
+0.0.0.0 esaral.com
+0.0.0.0 classnotes.org.in
+0.0.0.0 pendulumedu.com
+0.0.0.0 puzzle-loop.com,puzzle-words.com,puzzle-chess.com,puzzle-thermometers.com,puzzle-norinori.com,puzzle-minesweeper.com,puzzle-slant.com,puzzle-lits.com,puzzle-galaxies.com,puzzle-tents.com,puzzle-battleships.com,puzzle-pipes.com,puzzle-hitori.com,puzzle-heyawake.com,puzzle-shingoki.com,puzzle-masyu.com,puzzle-stitches.com,puzzle-aquarium.com,puzzle-tapa.com,puzzle-star-battle.com,puzzle-kakurasu.com,puzzle-skyscrapers.com,puzzle-futoshiki.com,puzzle-shakashaka.com,puzzle-kakuro.com,puzzle-jigsaw-sudoku.com,puzzle-killer-sudoku.com,puzzle-binairo.com,puzzle-nonograms.com,puzzle-sudoku.com,puzzle-light-up.com,puzzle-bridges.com,puzzle-shikaku.com,puzzle-nurikabe.com,puzzle-dominosa.com,puzzle-yin-yang.com
+0.0.0.0 animefire.plus
+0.0.0.0 ohli365.vip/js/apms.db.js$script
+0.0.0.0 ohli365.vip
+0.0.0.0 inattvcom117.xyz
+0.0.0.0 studyadda.com
+0.0.0.0 indeed.com
+0.0.0.0 mostrodifirenze.com
+0.0.0.0 dngz.net
+0.0.0.0 vnexpress.net
+0.0.0.0 vidsrc.*
+0.0.0.0 ate60vs7zcjhsjo5qgv8.com
+0.0.0.0 embed.su
+0.0.0.0 autoembed.cc
+0.0.0.0 embtaku.pro
+0.0.0.0 mrbenne.com
+0.0.0.0 d4armory.io,helldivers.io
+0.0.0.0 helldivers.io
+0.0.0.0 bongdaplus.vn
+0.0.0.0 vipstreams.in
+0.0.0.0 3xyaoi.com
+0.0.0.0 ipphone-warehouse.com
+0.0.0.0 fightful.com
+0.0.0.0 conservationmag.org^$ghide
+0.0.0.0 teller.jp
+0.0.0.0 freewatchtv.top,gdplayertv.*,mixstreams.top,tvfreemium.top
+0.0.0.0 bbc.com
+0.0.0.0 patreon.com
+0.0.0.0 www-liverpoolecho-co-uk.translate.goog,www-themirror-com.translate.goog,www-football-london.translate.goog,www-devonlive-com.translate.goog,www-cornwalllive-com.translate.goog,www-glasgowlive-co-uk.translate.goog,www-kentlive-news.translate.goog,www-essexlive-news.translate.goog,www-lincolnshirelive-co-uk.translate.goog,www-leeds--live-co-uk.translate.goog,www-insider-co-uk.translate.goog
+0.0.0.0 techcrunch-com.translate.goog
+0.0.0.0 xanimu.com,cosxplay.com
+0.0.0.0 tver.jp/_next/static/chunks/pages/episodes/$script,replace=/e\.openQuestionnaireModal\?\?.+?\[e\.openQuestionnaireModal\,e\.controller\.play/e.controller.play)()}\,[e.controller.play/
+0.0.0.0 solarmagazine.nl
+0.0.0.0 noicetranslations.blogspot.com
+0.0.0.0 ren.tv/video/embed/*#autoplay=$subdocument,uritransform=/#autoplay=.*//
+0.0.0.0 bloomberglinea.com,bloomberglinea.com.br
+0.0.0.0 jsdelivr.net/npm/ad-compass@latest/dist/ad-compass.umd.js
+0.0.0.0 wear.jp
+0.0.0.0 choosingnothing.com
+0.0.0.0 xossipy.com
+0.0.0.0 businessworld.in/assets/custom/custom.js$script
+0.0.0.0 gmbinder.com
+0.0.0.0 bembed.net,embedv.net,fslinks.org,listeamed.net,v6embed.xyz,vembed.*,vgplayer.xyz,vid-guard.com
+0.0.0.0 archon.gg
+0.0.0.0 naver.com
+0.0.0.0 putlocker.*
+0.0.0.0 player.melaniezettofrais.online
+0.0.0.0 klsescreener.com
+0.0.0.0 brooklyneagle.com
+0.0.0.0 remixsearch.es
+0.0.0.0 newgrounds.com
+0.0.0.0 einthusan.tv
+0.0.0.0 radartest.com
+0.0.0.0 skuola.net
+0.0.0.0 bitcine.app,cineby.app,tv.verizon.com
+0.0.0.0 bitcine.app,cineby.app,moflix-stream.day,tv.verizon.com
+0.0.0.0 4kwebplay.xyz,qqwebplay.xyz,lewblivehdplay.ru,claplivehdplay.ru,tutlehd4.com,viwlivehdplay.ru
+0.0.0.0 daya-jewelry.com
+0.0.0.0 cabinetexpert.ro
+0.0.0.0 topperlearning.com
+0.0.0.0 weibo.com
+0.0.0.0 javjavhd.com
+0.0.0.0 pronews.gr
+0.0.0.0 twitter.com,x.com,~platform.twitter.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 bing.com
+0.0.0.0 prompthero.com
+0.0.0.0 a.pub.network/fancaps-net/pubfig.min.js$script,redirect=noopjs,domain=fancaps.net
+0.0.0.0 web.archive.org/web/*/http://rpc.blogrolling.com/display.php?r=$1p,script
+0.0.0.0 zutool.jp
+0.0.0.0 swagbucks.com#@#.ad_warn
+0.0.0.0 swagbucks.com#@
+0.0.0.0 leetcode.cn
+0.0.0.0 manoramaonline.com/content/*/evlok/ev-dab/*/ev-dab.min.js$script,1p
+0.0.0.0 manoramaonline.com/acd/api/3.0/authorize/json?$xhr,1p
+0.0.0.0 wrtn.jp
+0.0.0.0 unknowncheats.me
+0.0.0.0 cnblogs.com
+0.0.0.0 techgyd.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 karsaz-law.com
+0.0.0.0 veev.to
+0.0.0.0 mskmangaz.blogspot.com
+0.0.0.0 mskmangaz.blogspot.com^$doc,replace=/\.novel-box \*:not\(a\)|@media print//g
+0.0.0.0 doubledouble.top
+0.0.0.0 monitoruldevrancea.ro
+0.0.0.0 myntra.com
+0.0.0.0 readcomiconline.li
+0.0.0.0 abema.tv
+0.0.0.0 lookmovie2.*
+0.0.0.0 autopareri.com
+0.0.0.0 /wp-content/plugins/wpshield-content-protector/dist/app.min.js$script
+0.0.0.0 abysscdn.com
+0.0.0.0 /js/devtools-detector.js^$script,3p,domain=rubystm.com|rubyvid.com
+0.0.0.0 rubystm.com,rubyvid.com
+0.0.0.0 esscctv.com
+0.0.0.0 phimfit.com
+0.0.0.0 animet1.net/*/detect.dev.js^
+0.0.0.0 anime3s.com,animet1.net
+0.0.0.0 pokemonsleep.club^$script,1p
+0.0.0.0 gigazine.net
+0.0.0.0 cined.com/content/plugins/abss-adblock
+0.0.0.0 cnn.com
+0.0.0.0 etools.ch^$ghide
+0.0.0.0 kentucky.com
+0.0.0.0 curseforge.com
+0.0.0.0 lowfuelmotorsport.com
+0.0.0.0 camspider.com
+0.0.0.0 jetv.xyz/assets/js/devtools-detector.js$script,1p
+0.0.0.0 jetv.xyz
+0.0.0.0 html5.gamedistribution.com
+0.0.0.0 nullforums.net
+0.0.0.0 mangareader.to
+0.0.0.0 hansa-online.de
+0.0.0.0 zonatmo.com
+0.0.0.0 southcloud.tv
+0.0.0.0 yugenanime.sx,yugenanime.tv
+0.0.0.0 cu.tbs.co.jp
+0.0.0.0 indahonline.com/js/disable-devtool.js$script,1p
+0.0.0.0 indahonline.com
+0.0.0.0 videocardz.com
+0.0.0.0 tinyhouse-baluchon.fr
+0.0.0.0 perplexity.ai
+0.0.0.0 openanesthesia.org
+0.0.0.0 tweaktown.com
+0.0.0.0 sndcdn.com/assets/*.js^$script,domain=soundcloud.com,replace=/shouldBlockScrubbing\(\w\.getMediaDuration\(\)\)/shouldBlockScrubbing(false)/
+0.0.0.0 sndcdn.com/assets/*.js^$script,domain=soundcloud.com,replace=/\{[a-z]\(\d+\)\.shouldBlockScrubbing\(\)\?([a-z])\(window\.document\)/{false?\$1(window.document)/
+0.0.0.0 volokit2.com
+0.0.0.0 duracell.de
+0.0.0.0 ajanstv.com.tr
+0.0.0.0 manhwa18.cc
+0.0.0.0 japonhentai.com
+0.0.0.0 rutube.ru
+0.0.0.0 karistudio.com
+0.0.0.0 cyberalert.gr
+0.0.0.0 time.is^$script,1p
+0.0.0.0 cyberdom.blog
+0.0.0.0 vyvymanga.net
+0.0.0.0 vyvymanga.net/web/js/devtools-detector.js$script,1p
+0.0.0.0 partsnl.nl
+0.0.0.0 rds.live
+0.0.0.0 autoweek.nl^$script,1p
+0.0.0.0 coomer.su,kemono.su
+0.0.0.0 broflix.cc
+0.0.0.0 stream.hownetwork.xyz
+0.0.0.0 bestcam.tv
+0.0.0.0 t.17track.net
+0.0.0.0 thedarkblues.co.uk/applications/adsense/interface/js/adbd.js^$script,1p
+0.0.0.0 thedarkblues.co.uk
+0.0.0.0 ark-unity.com
+0.0.0.0 streamruby.com
+0.0.0.0 embasic.pro,dlions.pro
+0.0.0.0 d0000d.com
+0.0.0.0 sussytoons.*
+0.0.0.0 mostream.us
+0.0.0.0 hotleak.vip,hotleaks.tv,topfaps.com
+0.0.0.0 astro-cric.pages.dev,crichype.*,jio.pftv.ws,shz.al,tnt2-cricstreaming.pages.dev,wlo-cricstreamiing.pages.dev
+0.0.0.0 fandom.com
+0.0.0.0 baomidou.com
+0.0.0.0 wallpapercat.com
+0.0.0.0 media.cm/dev.js
+0.0.0.0 images.$frame,1p,domain=nintendolife.com|purexbox.com|pushsquare.com|timeextension.com
+0.0.0.0 nintendolife.com
+0.0.0.0 pngitem.com
+0.0.0.0 assets.t3n.de/t3n-de/assets/t3n/2018/scripts/abdtn-$script,1p
+0.0.0.0 foxteller.com
+0.0.0.0 blog.tangwudi.com
+0.0.0.0 /copyprevention.js^$script,1p
+0.0.0.0 blindhelp.net
+0.0.0.0 smalley.com
+0.0.0.0 francis-bacon.com
+0.0.0.0 nebula.tv
+0.0.0.0 nihongoaz.com
+0.0.0.0 espressocafe.ro
+0.0.0.0 u.gg^$ghide
+0.0.0.0 astoryofmasasstruggles.com
+0.0.0.0 pokeos.com
+0.0.0.0 pokeos.com/pokeos-uploads/ads/adblock/$image
+0.0.0.0 lemon8-app.com
+0.0.0.0 animekai.to,animekai.bz,anigo.to
+0.0.0.0 animekai.to,animekai.bz,anigo.to,megaup.cc
+0.0.0.0 loverslab.com
+0.0.0.0 /akam/13/*$script,xhr,1p,domain=easyjet.com|ing.nl,important
+0.0.0.0 easyjet.com,ing.nl
+0.0.0.0 cowcotland.com
+0.0.0.0 whoisnovel.com
+0.0.0.0 zabawkahurtownia.pl
+0.0.0.0 n2olabs.pro/devtool.js
+0.0.0.0 filiser.eu,wishflix.cc,zalukaj.io
+0.0.0.0 bloxd.io
+0.0.0.0 wasserstoff-leitprojekte.de
+0.0.0.0 hiphopa.net
+0.0.0.0 tiktok.com^$removeparam=_r
+0.0.0.0 tiktok.com^$removeparam=_t
+0.0.0.0 torontosom.ca
+0.0.0.0 bitchute.com
+0.0.0.0 dropbox.com
+0.0.0.0 rottentomatoes.com/*/affiliates:$doc,uritransform=/\/affiliates:[^\/?#]+//
+0.0.0.0 jsdelivr.net/npm/disable-devtool@latest/disable-devtool.min.js
+0.0.0.0 404le.com/js/disable-devtool.min.js
+0.0.0.0 pawastreams.pro
+0.0.0.0 samurai.wordoco.com
+0.0.0.0 sporttotal.tv
+0.0.0.0 bcs16.ro
+0.0.0.0 kunststoffe.de/ads_tracking.js$xhr,1p
+0.0.0.0 time.is
+0.0.0.0 bilibili.com#@#+js(aost, player.pause, /[0-9a-f]{40}\.js:1\d{2}([\S\s]+\.emit.+core\.){3}/)
+0.0.0.0 s1.hdslb.com/bfs/static/jinkela/video/video.$script,replace=/t\.user\.isLogin\?/1?/,domain=bilibili.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com/linkfilter/?u=http$doc,urlskip=?u
+0.0.0.0 marriedbiography.com
+0.0.0.0 simptown.su
+0.0.0.0 labreakfastburrito.com
+0.0.0.0 threads.com
+0.0.0.0 bangbros.com
+0.0.0.0 ingesantoso.wordpress.com
